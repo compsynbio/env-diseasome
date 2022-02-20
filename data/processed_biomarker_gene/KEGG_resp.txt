@@ -1,0 +1,83 @@
+Asthma	IL4	polymorphism
+Asthma	IL4RA	polymorphism
+Asthma	IL13	polymorphism
+Asthma	FCER1B	polymorphism
+Asthma	TNFA	polymorphism
+Asthma	ADAM33	polymorphism
+Asthma	CD14	polymorphism
+Asthma	HLA-DRB1	polymorphism
+Asthma	HLA-DQB1	polymorphism
+Asthma	ADRB2	polymorphism
+Asthma with nasal polyps and aspirin intolerance	TBX21
+Asthma with nasal polyps and aspirin intolerance	PTGER2
+Cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities	LTBP4
+Alveolar capillary dysplasia with misalignment of pulmonary veins	FOXF1
+Alpha-1-antitrypsin deficiency	SERPINA1
+Pneumothorax	FLCN
+Congenital pulmonary alveolar proteinosis	SFTPB
+Congenital pulmonary alveolar proteinosis	SFTPC
+Congenital pulmonary alveolar proteinosis	ABCA3
+Congenital pulmonary alveolar proteinosis	CSF2RA
+Congenital pulmonary alveolar proteinosis	CSF2RB
+Pulmonary alveolar microlithiasis	SLC34A2
+Idiopathic pulmonary fibrosis	TERC
+Idiopathic pulmonary fibrosis	TERT
+Idiopathic pulmonary fibrosis	SFTPA1
+Idiopathic pulmonary fibrosis	SFTPA2
+Idiopathic pulmonary fibrosis	SFTPC
+Idiopathic pulmonary fibrosis	MUC5B
+Chronic obstructive pulmonary disease (COPD)	SERPINA1
+Chronic obstructive pulmonary disease (COPD)	HMOX1
+Chronic obstructive pulmonary disease (COPD)	MMP1
+Interstitial lung and liver disease	MARS
+Rajab interstitial lung disease with brain calcification	FARSB
+Rajab interstitial lung disease with brain calcification	FARSA
+Bronchiectasis with or without elevated sweat chloride	SCNN1B
+Bronchiectasis with or without elevated sweat chloride	SCNN1A
+Bronchiectasis with or without elevated sweat chloride	SCNN1G
+Diffuse panbronchiolitis	HLA-A	polymorphism
+Diffuse panbronchiolitis	HLA-B	polymorphism
+Diffuse panbronchiolitis	MUC22	polymorphism
+Diffuse panbronchiolitis	HCG22	polymorphism
+Primary ciliary dyskinesia	DNAI1
+Primary ciliary dyskinesia	DNAAF3
+Primary ciliary dyskinesia	DNAH5
+Primary ciliary dyskinesia	HYDIN
+Primary ciliary dyskinesia	TXNDC3
+Primary ciliary dyskinesia	DNAH11
+Primary ciliary dyskinesia	DNAI2
+Primary ciliary dyskinesia	KTU
+Primary ciliary dyskinesia	RSPH4A
+Primary ciliary dyskinesia	RSPH9
+Primary ciliary dyskinesia	LRRC50
+Primary ciliary dyskinesia	CCDC39
+Primary ciliary dyskinesia	CCDC40
+Primary ciliary dyskinesia	DNAL1
+Primary ciliary dyskinesia	CCDC103
+Primary ciliary dyskinesia	HEATR2
+Primary ciliary dyskinesia	LRRC6
+Primary ciliary dyskinesia	CCDC114
+Primary ciliary dyskinesia	DRC1
+Primary ciliary dyskinesia	ZMYND10
+Primary ciliary dyskinesia	ARMC4
+Primary ciliary dyskinesia	RSPH1
+Primary ciliary dyskinesia	DYX1C1
+Primary ciliary dyskinesia	C21ORF59
+Primary ciliary dyskinesia	CCDC65
+Primary ciliary dyskinesia	SPAG1
+Primary ciliary dyskinesia	CCNO
+Primary ciliary dyskinesia	CCDC151
+Primary ciliary dyskinesia	RSPH3
+Primary ciliary dyskinesia	GAS8
+Primary ciliary dyskinesia	DNAJB13
+Primary ciliary dyskinesia	TTC25
+Primary ciliary dyskinesia	PIH1D3
+Primary ciliary dyskinesia	DNAH1
+Primary ciliary dyskinesia	CFAP300
+Primary ciliary dyskinesia	LRRC56
+Primary ciliary dyskinesia	DNAH9
+Primary ciliary dyskinesia	GAS2L2
+Primary ciliary dyskinesia	MCIDAS
+Primary ciliary dyskinesia	FOXJ1
+Primary ciliary dyskinesia	NEK10
+Primary ciliary dyskinesia	TTC12

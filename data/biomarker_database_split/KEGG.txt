@@ -1,0 +1,1270 @@
+Allergic contact dermatitis	allergy	TNFA	KEGG Disease Database	polymorphism
+Allergic contact dermatitis	allergy	IL-16	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	FLG	KEGG Disease Database	mutation
+Atopic dermatitis	allergy	IL4	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	IL4RA	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	SPINK5	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	IL13	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	RANTES	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	NOD1	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	CARD15	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	TLR-2	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	TLR-9	KEGG Disease Database	polymorphism
+Atopic dermatitis	allergy	COL29A1	KEGG Disease Database	polymorphism
+Anaphylaxis	allergy	c-KIT	KEGG Disease Database	mutation
+Anaphylaxis	allergy	NLRP3	KEGG Disease Database	polymorphism
+Anaphylaxis	allergy	IL-10	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	GATA3	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	IL-13	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	IL-18	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	IL-28RA	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	EPO	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CCXCR1	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CCR1	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CCR2	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CCR3	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CCR5	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	SDAD1	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CXCL9	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CXCL10	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CXCL11	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	RANTES	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	Eotaxin-3	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	CD14	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	FOXJ1	KEGG Disease Database	polymorphism
+Allergic rhinitis	allergy	FCGR2A	KEGG Disease Database	polymorphism
+Eosinophilic esophagitis	allergy	TSLP	KEGG Disease Database	polymorphism
+Eosinophilic esophagitis	allergy	CCL-26	KEGG Disease Database	polymorphism
+Alzheimer disease	nervous	APP	KEGG Disease Database	mutation
+Alzheimer disease	nervous	APOE	KEGG Disease Database	mutation
+Alzheimer disease	nervous	PSEN1	KEGG Disease Database	mutation
+Alzheimer disease	nervous	PSEN2	KEGG Disease Database	mutation
+Lewy body dementia (LBD)	nervous	SNCA	KEGG Disease Database	mutation
+Lewy body dementia (LBD)	nervous	SNCA	KEGG Disease Database	triplications
+Lewy body dementia (LBD)	nervous	SNCB	KEGG Disease Database	mutation
+Lewy body dementia (LBD)	nervous	LRRK2	KEGG Disease Database	mutation
+Lewy body dementia (LBD)	nervous	GBA	KEGG Disease Database	mutation
+Parkinson disease	nervous	SNCA	KEGG Disease Database	mutation
+Parkinson disease	nervous	SNCA	KEGG Disease Database	duplication
+Parkinson disease	nervous	SNCA	KEGG Disease Database	triplication
+Parkinson disease	nervous	PRKN	KEGG Disease Database	mutation
+Parkinson disease	nervous	UCHL1	KEGG Disease Database	mutation
+Parkinson disease	nervous	PINK1	KEGG Disease Database	mutation
+Parkinson disease	nervous	DJ1	KEGG Disease Database	mutation
+Parkinson disease	nervous	LRRK2	KEGG Disease Database	mutation
+Parkinson disease	nervous	ATP13A2	KEGG Disease Database	mutation
+Parkinson disease	nervous	GIGYF2	KEGG Disease Database	mutation
+Parkinson disease	nervous	HTRA2	KEGG Disease Database	mutation
+Parkinson disease	nervous	PLA2G6	KEGG Disease Database	mutation
+Parkinson disease	nervous	FBXO7	KEGG Disease Database	mutation
+Parkinson disease	nervous	VPS35	KEGG Disease Database	mutation
+Parkinson disease	nervous	EIF4G1	KEGG Disease Database	mutation
+Parkinson disease	nervous	DNAJC16	KEGG Disease Database	mutation
+Parkinson disease	nervous	CHCHD2	KEGG Disease Database	mutation
+Parkinson disease	nervous	NR4A2	KEGG Disease Database	mutation
+Parkinsonian syndrome	nervous	SNCA	KEGG Disease Database	
+Parkinsonian syndrome	nervous	LRRK2	KEGG Disease Database	
+Parkinsonian syndrome	nervous	Parkin	KEGG Disease Database	
+Parkinsonian syndrome	nervous	PINK1	KEGG Disease Database	
+Parkinsonian syndrome	nervous	DJ-1	KEGG Disease Database	
+Parkinsonian syndrome	nervous	ATP13A2	KEGG Disease Database	
+Parkinsonian syndrome	nervous	SYNJ1	KEGG Disease Database	
+Parkinsonian syndrome	nervous	DNAJC13	KEGG Disease Database	
+Parkinsonian syndrome	nervous	VPS13C	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	SOD1	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	NEFH	KEGG Disease Database	insertion
+Amyotrophic lateral sclerosis	nervous	NEFH	KEGG Disease Database	deletion
+Amyotrophic lateral sclerosis	nervous	PRPH	KEGG Disease Database	deletion
+Amyotrophic lateral sclerosis	nervous	DCTN1	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	ALS2	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	SETX	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	SPG11	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	FUS	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	VAPB	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	ANG	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	TARDBP	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	FIG4	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	OPTN	KEGG Disease Database	mutation
+Amyotrophic lateral sclerosis	nervous	VCP	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	UBQLN2	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	SIGMAR1	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	CHMP2B	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	PFN1	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	ERBB4	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	HNRNPA1	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	MATR3	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	TUBA4A	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	ANXA11	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	C9ORF72	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	CHCHD10	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	SQSTM1	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	TBK1	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	MAPT	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	GLE1	KEGG Disease Database	
+Amyotrophic lateral sclerosis	nervous	TRPM7	KEGG Disease Database	
+Huntington disease	nervous	HTT	KEGG Disease Database	repeat expansion
+Huntington disease-like syndrome	nervous	PRNP	KEGG Disease Database	
+Huntington disease-like syndrome	nervous	HDL2	KEGG Disease Database	
+Huntington disease-like syndrome	nervous	HDL4	KEGG Disease Database	
+Dentatorubropallidoluysian atrophy (DRPLA)	nervous	ATN1	KEGG Disease Database	repeat expansion
+Spinal and bulbar muscular atrophy (SBMA)	nervous	AR	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	ATXN1	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	ATXN2	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	ATXN3	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	SPTBN2	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	CACNA1A	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	ATXN7	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	ATXN8OS	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	ATXN10	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	TTBK2	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	PPP2R2B	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	KCNC3	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	PRKCG	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	ITPR1	KEGG Disease Database	deletion
+Spinocerebellar ataxia (SCA)	nervous	TBP	KEGG Disease Database	repeat expansion
+Spinocerebellar ataxia (SCA)	nervous	KCND3	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	TMEM240	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	PDYN	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	EEF2	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	FGF14	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	AFG3L2	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	BEAN1	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	TGM6	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	NOP56	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	DAB1	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	ELOVL5	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	CCDC88C	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	TRPC3	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	CACNA1G	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	MME	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	GRM1	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	FAT2	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	PLD3	KEGG Disease Database	
+Spinocerebellar ataxia (SCA)	nervous	PUM1	KEGG Disease Database	
+Machado-Joseph disease	nervous	ATXN3	KEGG Disease Database	repeat expansion
+Cerebellar ataxia	nervous	ATCAY	KEGG Disease Database	
+Autosomal recessive spastic ataxia of Charlevoix-Saguenay	nervous	SACS	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	SETX	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	PMPCA	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	VPS13D	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	TPP1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	SYNE1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	ADCK3	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	ANO10	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	SYT14	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	WWOX	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	GRM1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	SPTBN2	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	KIAA0226	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	STUB1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	CWF19L1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	GRID2	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	SLC9A1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	SNX14	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	SCYL1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	VWA3B	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	TDP2	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	UBA5	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	ATG5	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	XRCC1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	GDAP2	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	THG1L	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	TDP1	KEGG Disease Database	
+Autosomal recessive spinocerebellar ataxias	nervous	COA7	KEGG Disease Database	
+Prion disease	nervous	PRNP	KEGG Disease Database	mutation
+Ataxia telangiectasia	nervous	ATM	KEGG Disease Database	
+Ataxia-telangiectasia-like syndrome	nervous	MRE11A	KEGG Disease Database	
+Ataxia-telangiectasia-like syndrome	nervous	PCNA	KEGG Disease Database	
+Alexander disease	nervous	GFAP	KEGG Disease Database	mutation
+Refsum disease	nervous	PHYH	KEGG Disease Database	
+Refsum disease	nervous	PEX7	KEGG Disease Database	
+Friedreich ataxia	nervous	FXN	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	ND1	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	ND2	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	ND4	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	ND4L	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	ND5	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	ND6	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	CYTB	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	COX1	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	COX3	KEGG Disease Database	
+Leber hereditary optic atrophy	nervous	ATP6	KEGG Disease Database	
+Cockayne syndrome	nervous	ERCC8	KEGG Disease Database	mutation
+Cockayne syndrome	nervous	ERCC6	KEGG Disease Database	mutation
+Progressive supranuclear palsy	nervous	MAPT	KEGG Disease Database	mutation
+Frontotemporal lobar degeneration	nervous	MAPT	KEGG Disease Database	
+Frontotemporal lobar degeneration	nervous	PSEN1	KEGG Disease Database	
+Frontotemporal lobar degeneration	nervous	GRN	KEGG Disease Database	
+Frontotemporal lobar degeneration	nervous	VCP	KEGG Disease Database	
+Frontotemporal lobar degeneration	nervous	CHMP2B	KEGG Disease Database	
+Frontotemporal dementia and amyotrophic lateral sclerosis	nervous	C9orf72	KEGG Disease Database	
+Frontotemporal dementia and amyotrophic lateral sclerosis	nervous	CHCHD10	KEGG Disease Database	
+Frontotemporal dementia and amyotrophic lateral sclerosis	nervous	SQSTM1	KEGG Disease Database	
+Frontotemporal dementia and amyotrophic lateral sclerosis	nervous	TBK1	KEGG Disease Database	
+Canavan disease	nervous	ASPA	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	PMP22	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	MPZ	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	LITAF	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	EGR2	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	NEFL	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	PMP2	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	KIF1B	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	MFN2	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	RAB7A	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	LMNA	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	TRPV4	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	NEFH	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	GARS	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	ATP1A1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	MPV17	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	HSPB1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	GBF1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	GDAP1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	JPH1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	HSPB8	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	AARS	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	DYNC1H1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	LRSAM1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	DHTKD1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	TRIM2	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	IGHMBP2	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	MME	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	MARS	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	HARS	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	VCP	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	MORC2	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	MTMR2	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	SBF2	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	SBF1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	NDRG1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	PRX	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	FGD4	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	FIG4	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	SURF1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	SLC25A46	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	GJB1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	PRPS1	KEGG Disease Database	
+Charcot-Marie-Tooth disease	nervous	PDK3	KEGG Disease Database	
+Spinal muscular atrophy	nervous	SMN2	KEGG Disease Database	
+Spinal muscular atrophy	nervous	UBE1	KEGG Disease Database	
+Spinal muscular atrophy	nervous	ATP7A	KEGG Disease Database	
+Neurodegeneration with brain iron accumulation	nervous	PANK2	KEGG Disease Database	
+Neurodegeneration with brain iron accumulation	nervous	FTL	KEGG Disease Database	
+Neurodegeneration with brain iron accumulation	nervous	MPAN	KEGG Disease Database	
+Neurodegeneration with brain iron accumulation	nervous	WDR45	KEGG Disease Database	
+Neurodegeneration with brain iron accumulation	nervous	COASY	KEGG Disease Database	
+Neurodegeneration with brain iron accumulation	nervous	REPS1	KEGG Disease Database	
+Neurodegeneration with brain iron accumulation	nervous	CRAT	KEGG Disease Database	
+Kufor-Rakeb syndrome	nervous	ATP13A2	KEGG Disease Database	
+Pantothenate kinase-associated neurodegeneration	nervous	PANK2	KEGG Disease Database	
+HARP syndrome	nervous	PANK2	KEGG Disease Database	
+Infantile progressive bulbar palsy	nervous	RFT2	KEGG Disease Database	
+Perry syndrome	nervous	DCTN1	KEGG Disease Database	
+Familial amyloidosis	nervous	TTR	KEGG Disease Database	
+Familial amyloidosis	nervous	FGA	KEGG Disease Database	
+Familial amyloidosis	nervous	APOA1	KEGG Disease Database	
+Familial amyloidosis	nervous	LYZ	KEGG Disease Database	
+Familial amyloidosis	nervous	B2M	KEGG Disease Database	
+Amyloidosis, Finnish type	nervous	GSN	KEGG Disease Database	
+Juvenile primary lateral sclerosis	nervous	ALS2	KEGG Disease Database	
+Infantile ascending hereditary spastic paralysis	nervous	ALS2	KEGG Disease Database	
+Infantile bilateral striatal necrosis	nervous	NUP62	KEGG Disease Database	
+Infantile bilateral striatal necrosis	nervous	MT-ATP6	KEGG Disease Database	
+Familial dementia	nervous	ITM2B	KEGG Disease Database	
+Cerebral amyloid angiopathy	nervous	CST3	KEGG Disease Database	
+Cerebral amyloid angiopathy	nervous	APP	KEGG Disease Database	
+Cerebellar ataxia	nervous	VLDLR	KEGG Disease Database	
+Cerebellar ataxia	nervous	WDR81	KEGG Disease Database	
+Cerebellar ataxia	nervous	CA8	KEGG Disease Database	
+Cerebellar ataxia	nervous	ATP8A2	KEGG Disease Database	
+Familial encephalopathy with neuroserpin inclusion bodies	nervous	SERPINI1	KEGG Disease Database	
+Giant axonal neuropathy	nervous	GAN	KEGG Disease Database	
+Giant axonal neuropathy	nervous	DCAF8	KEGG Disease Database	
+Marinesco-Sjogren syndrome	nervous	SIL1	KEGG Disease Database	
+Neurodegeneration due to cerebral folate transport deficiency	nervous	FOLR1	KEGG Disease Database	
+Choreoacanthocytosis	nervous	VPS13A	KEGG Disease Database	
+Multiple system atrophy	nervous	COQ2	KEGG Disease Database	
+Neuroferritinopathy	nervous	FTL	KEGG Disease Database	
+Hereditary diffuse leukoencephalopathy with spheroids	nervous	CSF1R	KEGG Disease Database	
+PNPLA6-related disorders	nervous	PNPLA6	KEGG Disease Database	
+Brown-Vialetto-Van Laere syndrome	nervous	SLC52A3	KEGG Disease Database	
+Brown-Vialetto-Van Laere syndrome	nervous	SLC52A2	KEGG Disease Database	
+Posterior column ataxia with retinitis pigmentosa	nervous	FLVCR1	KEGG Disease Database	
+Episodic ataxias	nervous	KCNA1	KEGG Disease Database	
+Episodic ataxias	nervous	CACNA1A	KEGG Disease Database	
+Episodic ataxias	nervous	CACNB4	KEGG Disease Database	
+Episodic ataxias	nervous	SLC1A3	KEGG Disease Database	
+Core neuroacanthocytosis syndromes	nervous	JPH3	KEGG Disease Database	
+Ataxia with ocular apraxia	nervous	APTX	KEGG Disease Database	
+Ataxia with ocular apraxia	nervous	SETX	KEGG Disease Database	
+Ataxia with ocular apraxia	nervous	PIK3R5	KEGG Disease Database	
+Ataxia with ocular apraxia	nervous	PNKP	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	HSPB8	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	HSPB1	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	HSPB3	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	FBXO38	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	GARS	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	BSCL2	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	REEP1	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	SLC5A7	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	DCTN1	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	TRPV4	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	WARS1	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	SIGMAR1	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	PLEKHG5	KEGG Disease Database	
+Distal hereditary motor neuropathies	nervous	DNAJB2	KEGG Disease Database	
+Leukoencephalopathy with vanishing white matter	nervous	EIF2B1	KEGG Disease Database	
+Leukoencephalopathy with vanishing white matter	nervous	EIF2B2	KEGG Disease Database	
+Leukoencephalopathy with vanishing white matter	nervous	EIF2B3	KEGG Disease Database	
+Leukoencephalopathy with vanishing white matter	nervous	EIF2B4	KEGG Disease Database	
+Leukoencephalopathy with vanishing white matter	nervous	EIF2B5	KEGG Disease Database	
+Leukoencephalopathy, progressive, with ovarian failure	nervous	AARS2	KEGG Disease Database	
+Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation	nervous	DARS2	KEGG Disease Database	
+Leukoencephalopathy with dystonia and motor neuropathy	nervous	SCP2	KEGG Disease Database	
+Leukodystrophy and acquired microcephaly with or without dystonia	nervous	PLEKHG2	KEGG Disease Database	
+Megaloencephalic leukoencephalopathy with subcortical cysts	nervous	MLC1	KEGG Disease Database	
+Cystic leukoencephalopathy without megalencephaly	nervous	RNASET2	KEGG Disease Database	
+Autosomal dominant striatal degeneration	nervous	PDE8B	KEGG Disease Database	
+Autosomal dominant striatal degeneration	nervous	PDE10A	KEGG Disease Database	
+Familial idiopathic basal ganglia calcification	nervous	SLC20A2	KEGG Disease Database	
+Familial idiopathic basal ganglia calcification	nervous	PDGFRB	KEGG Disease Database	
+Familial idiopathic basal ganglia calcification	nervous	PDGFB	KEGG Disease Database	
+Familial idiopathic basal ganglia calcification	nervous	XPR1	KEGG Disease Database	
+Familial idiopathic basal ganglia calcification	nervous	MYORG	KEGG Disease Database	
+Familial idiopathic basal ganglia calcification	nervous	JAM2	KEGG Disease Database	
+Gordon Holmes syndrome	nervous	RNF216	KEGG Disease Database	
+PEHO-like syndrome	nervous	CCDC88A	KEGG Disease Database	
+PEBAT	nervous	TBCD	KEGG Disease Database	
+PEBEL	nervous	NAXE	KEGG Disease Database	
+PEBEL	nervous	NAXD	KEGG Disease Database	
+Nonprogressive cerebellar ataxia with mental retardation	nervous	CAMTA1	KEGG Disease Database	
+Spastic paraplegia-psychomotor retardation-seizures syndrome	nervous	HACE1	KEGG Disease Database	
+Leukoencephalopathy, brain calcifications, and cysts	nervous	SNORD118	KEGG Disease Database	
+Childhood-onset neurodegeneration with brain atrophy	nervous	UBTF	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	ARX	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CDKL5	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SLC25A22	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	STXBP1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SPTAN1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	KCNQ2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	ARHGEF9	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PCDH19	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PNKP	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SCN2A1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PLCB1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SCN8A	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	ST3GAL3	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	TBC1D24	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GNAO1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SZT2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GABRA1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	NECAP1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SLC35A2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	DOCK7	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	HCN1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SLC13A5	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	KCNB1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GRIN2B	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	WWOX	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	AARS	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SIK1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	DNM1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	KCNA2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	EEF1A2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SLC12A5	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	ITPA	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	ALG13	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	FRRS1L	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	ARV1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GUF1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SLC1A2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CACNA1A	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GABRB3	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	UBA5	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GABRB1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GRIN2D	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	FGF12	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	AP3B2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	DENND5A	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CAD	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	MDH2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SCN1B	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SYNJ1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	HNRNPU	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PIGP	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	YWHAG	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	KCNT2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	NTRK2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GABBR2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CNPY3	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	ADAM22	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SCN3A	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CPLX1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	RHOBTB2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CYFIP2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PACS2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CUX2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	TRAK1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CACNA1E	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PHACTR1	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GLS	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	NEUROD2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	RNF13	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GABRG2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PARS2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	ACTL6B	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PIGQ	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GABRA2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GABRA5	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	PIGB	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	DMXL2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	GOT2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	UGP2	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	UGDH	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	SMC1A	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	DALRD3	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	CDK19	KEGG Disease Database	
+Early infantile epileptic encephalopathy	nervous	MDH1	KEGG Disease Database	
+West syndrome	nervous	ARX	KEGG Disease Database	
+Lennox-Gastaut syndrome	nervous	MAPK10	KEGG Disease Database	
+Dravet syndrome	nervous	SCN1A	KEGG Disease Database	
+Hyperekplexia and epilepsy	nervous	ARHGEF9	KEGG Disease Database	
+Early myoclonic encephalopathy	nervous	SLC25A22	KEGG Disease Database	
+Early myoclonic encephalopathy	nervous	SIK1	KEGG Disease Database	
+Myoclonic-atonic epilepsy	nervous	SLC6A1	KEGG Disease Database	
+Malignant migrating partial seizures in infancy	nervous	PLCB1	KEGG Disease Database	
+Malignant migrating partial seizures in infancy	nervous	TBC1D24	KEGG Disease Database	
+Malignant migrating partial seizures in infancy	nervous	KCNT1	KEGG Disease Database	
+Malignant migrating partial seizures in infancy	nervous	SLC12A5	KEGG Disease Database	
+Malignant migrating partial seizures in infancy	nervous	SCN1A	KEGG Disease Database	
+Febrile seizures	nervous	GPR98	KEGG Disease Database	
+Febrile seizures	nervous	CPA6	KEGG Disease Database	
+Benign familial neonatal seizure	nervous	KCNQ2	KEGG Disease Database	
+Benign familial neonatal seizure	nervous	KCNQ3	KEGG Disease Database	
+Benign familial infantile seizure	nervous	PRRT2	KEGG Disease Database	
+Benign familial infantile seizure	nervous	SCN2A	KEGG Disease Database	
+Benign familial infantile seizure	nervous	SCN8A	KEGG Disease Database	
+Nocturnal frontal lobe epilepsy	nervous	CHRNA4	KEGG Disease Database	
+Nocturnal frontal lobe epilepsy	nervous	CHRNB2	KEGG Disease Database	
+Nocturnal frontal lobe epilepsy	nervous	CHRNA2	KEGG Disease Database	
+Nocturnal frontal lobe epilepsy	nervous	KCNT1	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	CACNA1H	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	CASR	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	CACNB4	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	GABRD	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	CLCN2	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	SLC2A1	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	GABRA1	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	SLC12A5	KEGG Disease Database	
+Idiopathic generalized epilepsies	nervous	RORB	KEGG Disease Database	
+Childhood absence epilepsy	nervous	GABRG2	KEGG Disease Database	
+Childhood absence epilepsy	nervous	GABRA1	KEGG Disease Database	
+Childhood absence epilepsy	nervous	GABRB3	KEGG Disease Database	
+Childhood absence epilepsy	nervous	CACNA1H	KEGG Disease Database	
+Juvenile absence epilepsy	nervous	EFHC1	KEGG Disease Database	
+Juvenile absence epilepsy	nervous	CLCN2	KEGG Disease Database	
+Juvenile myoclonic epilepsy	nervous	EFHC1	KEGG Disease Database	
+Juvenile myoclonic epilepsy	nervous	GABRA1	KEGG Disease Database	
+Juvenile myoclonic epilepsy	nervous	CACNB4	KEGG Disease Database	
+Juvenile myoclonic epilepsy	nervous	GABRD	KEGG Disease Database	
+Juvenile myoclonic epilepsy	nervous	CLCN2	KEGG Disease Database	
+Juvenile myoclonic epilepsy	nervous	ICK	KEGG Disease Database	
+Familial infantile myoclonic epilepsy	nervous	TBC1D24	KEGG Disease Database	
+Familial adult myoclonic epilepsy	nervous	SAMD12	KEGG Disease Database	
+Familial adult myoclonic epilepsy	nervous	STARD7	KEGG Disease Database	
+Familial adult myoclonic epilepsy	nervous	MARCHF6	KEGG Disease Database	
+Familial adult myoclonic epilepsy	nervous	YEATS2	KEGG Disease Database	
+Familial adult myoclonic epilepsy	nervous	CNTN2	KEGG Disease Database	
+Familial adult myoclonic epilepsy	nervous	TNRC6A	KEGG Disease Database	
+Familial adult myoclonic epilepsy	nervous	RAPGEF2	KEGG Disease Database	
+Familial focal epilepsy with variable foci	nervous	DEPDC5	KEGG Disease Database	
+Familial focal epilepsy with variable foci	nervous	NPRL2	KEGG Disease Database	
+Familial focal epilepsy with variable foci	nervous	NPRL3	KEGG Disease Database	
+Familial focal epilepsy with variable foci	nervous	SCN3A	KEGG Disease Database	
+Familial epilepsy temporal lobe (ETL)	nervous	LGI1	KEGG Disease Database	
+Familial epilepsy temporal lobe (ETL)	nervous	CPA6	KEGG Disease Database	
+Familial epilepsy temporal lobe (ETL)	nervous	RELN	KEGG Disease Database	
+Familial epilepsy temporal lobe (ETL)	nervous	GAL	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	CSTB	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	PRICKLE1	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	EPM2A	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	NHLRC1	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	KCTD7	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	SCARB2	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	PRICKLE2	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	GOSR2	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	KCNC1	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	CERS1	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	LMNB2	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	PRDM8	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	SEMA6B	KEGG Disease Database	
+Progressive myoclonic epilepsy	nervous	SLC7A6OS	KEGG Disease Database	
+Lafora disease	nervous	EPM2A	KEGG Disease Database	
+Lafora disease	nervous	NHLRC1	KEGG Disease Database	
+Unverricht-Lundborg disease	nervous	CSTB	KEGG Disease Database	
+Amish infantile epilepsy syndrome	nervous	ST3GAL5	KEGG Disease Database	
+Pyridoxamine-5'-phosphate oxidase (PNPO) deficiency	nervous	PNPO	KEGG Disease Database	
+Pyridoxine-dependent epilepsy	nervous	ALDH7A1	KEGG Disease Database	
+Generalized epilepsy and paroxysmal dyskinesia	nervous	KCNMA1	KEGG Disease Database	
+Landau-Kleffner syndrome	nervous	GRIN2A	KEGG Disease Database	
+PCDH19-related epilepsy syndrome	nervous	PCDH19	KEGG Disease Database	
+Hemiconvulsion-hemiplegia-epilepsy syndrome	nervous	CACNA1A	KEGG Disease Database	
+Rolandic epilepsy, mental retardation, and speech dyspraxia	nervous	GRIN2A	KEGG Disease Database	
+Rolandic epilepsy, mental retardation, and speech dyspraxia	nervous	SRPX2	KEGG Disease Database	
+Kohlschutter-Tonz syndrome	nervous	ROGDI	KEGG Disease Database	
+Infantile or early childhood epileptic encephalopathy	nervous	PPP3CA	KEGG Disease Database	
+Infantile or early childhood epileptic encephalopathy	nervous	GABRB2	KEGG Disease Database	
+Infantile or early childhood epileptic encephalopathy	nervous	ATP6V1A	KEGG Disease Database	
+Early-onset vitamin B6-dependent epilepsy	nervous	PLPBP	KEGG Disease Database	
+Epileptic encephalopathy, childhood-onset	nervous	CHD2	KEGG Disease Database	
+Retinitis pigmentosa	nervous	RP1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	RP2	KEGG Disease Database	
+Retinitis pigmentosa	nervous	RHO	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PRPH2	KEGG Disease Database	
+Retinitis pigmentosa	nervous	ROM1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	RP9	KEGG Disease Database	
+Retinitis pigmentosa	nervous	IMPDH1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PRPF31	KEGG Disease Database	
+Retinitis pigmentosa	nervous	CRB1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PRPF8	KEGG Disease Database	
+Retinitis pigmentosa	nervous	TULP1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	CA4	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PRPF3	KEGG Disease Database	
+Retinitis pigmentosa	nervous	ABCA4	KEGG Disease Database	
+Retinitis pigmentosa	nervous	OFD1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	EYS	KEGG Disease Database	
+Retinitis pigmentosa	nervous	CERKL	KEGG Disease Database	
+Retinitis pigmentosa	nervous	NRL	KEGG Disease Database	
+Retinitis pigmentosa	nervous	FAM161A	KEGG Disease Database	
+Retinitis pigmentosa	nervous	FSCN2	KEGG Disease Database	
+Retinitis pigmentosa	nervous	TOPORS	KEGG Disease Database	
+Retinitis pigmentosa	nervous	SNRNP200	KEGG Disease Database	
+Retinitis pigmentosa	nervous	SEMA4A	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PRCD	KEGG Disease Database	
+Retinitis pigmentosa	nervous	NR2E3	KEGG Disease Database	
+Retinitis pigmentosa	nervous	MERTK	KEGG Disease Database	
+Retinitis pigmentosa	nervous	USH2A	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PDE6B	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PROM1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	KLHL7	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PDE6A	KEGG Disease Database	
+Retinitis pigmentosa	nervous	RGR	KEGG Disease Database	
+Retinitis pigmentosa	nervous	CNGB1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	IDH3B	KEGG Disease Database	
+Retinitis pigmentosa	nervous	SAG	KEGG Disease Database	
+Retinitis pigmentosa	nervous	GUCA1B	KEGG Disease Database	
+Retinitis pigmentosa	nervous	CNGA1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	BEST1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	C2orf71	KEGG Disease Database	
+Retinitis pigmentosa	nervous	ARL6	KEGG Disease Database	
+Retinitis pigmentosa	nervous	IMPG2	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PDE6G	KEGG Disease Database	
+Retinitis pigmentosa	nervous	ZNF513	KEGG Disease Database	
+Retinitis pigmentosa	nervous	DHDDS	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PRPF6	KEGG Disease Database	
+Retinitis pigmentosa	nervous	CLRN1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	MAK	KEGG Disease Database	
+Retinitis pigmentosa	nervous	C8orf37	KEGG Disease Database	
+Retinitis pigmentosa	nervous	RBP3	KEGG Disease Database	
+Retinitis pigmentosa	nervous	NEK2	KEGG Disease Database	
+Retinitis pigmentosa	nervous	SLC7A14	KEGG Disease Database	
+Retinitis pigmentosa	nervous	KIZ	KEGG Disease Database	
+Retinitis pigmentosa	nervous	PRPF4	KEGG Disease Database	
+Retinitis pigmentosa	nervous	IFT172	KEGG Disease Database	
+Retinitis pigmentosa	nervous	ZNF408	KEGG Disease Database	
+Retinitis pigmentosa	nervous	HGSNAT	KEGG Disease Database	
+Retinitis pigmentosa	nervous	BBS2	KEGG Disease Database	
+Retinitis pigmentosa	nervous	AGBL5	KEGG Disease Database	
+Retinitis pigmentosa	nervous	POMGNT1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	REEP6	KEGG Disease Database	
+Retinitis pigmentosa	nervous	ARHGEF18	KEGG Disease Database	
+Retinitis pigmentosa	nervous	HK1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	IFT140	KEGG Disease Database	
+Retinitis pigmentosa	nervous	IFT43	KEGG Disease Database	
+Retinitis pigmentosa	nervous	ARL2BP	KEGG Disease Database	
+Retinitis pigmentosa	nervous	ARL3	KEGG Disease Database	
+Retinitis pigmentosa	nervous	DHX38	KEGG Disease Database	
+Retinitis pigmentosa	nervous	AHR	KEGG Disease Database	
+Retinitis pigmentosa	nervous	RP86	KEGG Disease Database	
+Retinitis pigmentosa	nervous	RP1L1	KEGG Disease Database	
+Retinitis pigmentosa	nervous	KIF3B	KEGG Disease Database	
+Retinitis pigmentosa	nervous	IDH3A	KEGG Disease Database	
+Familial exudative vitreoretinopathy	nervous	FZD4	KEGG Disease Database	
+Familial exudative vitreoretinopathy	nervous	NDP	KEGG Disease Database	
+Familial exudative vitreoretinopathy	nervous	LRP5	KEGG Disease Database	
+Familial exudative vitreoretinopathy	nervous	TSPAN12	KEGG Disease Database	
+Familial exudative vitreoretinopathy	nervous	ZNF408	KEGG Disease Database	
+Primary open angle glaucoma	nervous	MYOC	KEGG Disease Database	
+Primary open angle glaucoma	nervous	OPTN	KEGG Disease Database	
+Primary open angle glaucoma	nervous	ASB10	KEGG Disease Database	
+Primary open angle glaucoma	nervous	WDR36	KEGG Disease Database	
+Primary open angle glaucoma	nervous	NTF4	KEGG Disease Database	
+Aland Island eye disease	nervous	CACNA1F	KEGG Disease Database	
+Meesmann corneal dystrophy	nervous	KRT3	KEGG Disease Database	
+Meesmann corneal dystrophy	nervous	KRT12	KEGG Disease Database	
+Sorsby fundus dystrophy	nervous	TIMP3	KEGG Disease Database	
+Congenital motor nystagmus (CMN)	nervous	FRMD7	KEGG Disease Database	
+Congenital motor nystagmus (CMN)	nervous	GPR143	KEGG Disease Database	
+Usher syndrome (US)	nervous	MYO7A	KEGG Disease Database	
+Usher syndrome (US)	nervous	USH1C	KEGG Disease Database	
+Usher syndrome (US)	nervous	USH1G	KEGG Disease Database	
+Usher syndrome (US)	nervous	CIB2	KEGG Disease Database	
+Usher syndrome (US)	nervous	ESPN	KEGG Disease Database	
+Usher syndrome (US)	nervous	USH2A	KEGG Disease Database	
+Usher syndrome (US)	nervous	WHRN	KEGG Disease Database	
+Usher syndrome (US)	nervous	CLRN1	KEGG Disease Database	
+Usher syndrome (US)	nervous	HARS	KEGG Disease Database	
+Usher syndrome (US)	nervous	ARSG	KEGG Disease Database	
+Congenital stationary night blindness	nervous	NYX	KEGG Disease Database	
+Congenital stationary night blindness	nervous	GRM6	KEGG Disease Database	
+Congenital stationary night blindness	nervous	TRPM1	KEGG Disease Database	
+Congenital stationary night blindness	nervous	SLC24A1	KEGG Disease Database	
+Congenital stationary night blindness	nervous	GPR179	KEGG Disease Database	
+Congenital stationary night blindness	nervous	LRIT3	KEGG Disease Database	
+Congenital stationary night blindness	nervous	GNB3	KEGG Disease Database	
+Congenital stationary night blindness	nervous	CACNA1F	KEGG Disease Database	
+Congenital stationary night blindness	nervous	CABP4	KEGG Disease Database	
+Congenital stationary night blindness	nervous	SAG	KEGG Disease Database	
+Congenital stationary night blindness	nervous	GRK1	KEGG Disease Database	
+Keratoconus	nervous	VSX1	KEGG Disease Database	
+Keratoconus	nervous	TUBA3D	KEGG Disease Database	
+Vitreoretinal degeneration	nervous	COL2A1	KEGG Disease Database	
+Vitreoretinal degeneration	nervous	COL11A1	KEGG Disease Database	
+Vitreoretinal degeneration	nervous	CSPG2	KEGG Disease Database	
+Wagner syndrome	nervous	VCAN	KEGG Disease Database	
+Enhanced S-cone syndrome	nervous	NR2E3	KEGG Disease Database	
+Goldmann-Favre syndrome	nervous	NR2E3	KEGG Disease Database	
+Snowflake vitreoretinal degeneration	nervous	KCNJ13	KEGG Disease Database	
+Autosomal dominant vitreoretinochoroidopathy	nervous	BEST1	KEGG Disease Database	
+Age-related macular degeneration	nervous	HMCN1	KEGG Disease Database	
+Age-related macular degeneration	nervous	ABCA4	KEGG Disease Database	
+Age-related macular degeneration	nervous	FBLN5	KEGG Disease Database	
+Age-related macular degeneration	nervous	HF1	KEGG Disease Database	
+Age-related macular degeneration	nervous	ERCC6	KEGG Disease Database	
+Age-related macular degeneration	nervous	RAX2	KEGG Disease Database	
+Age-related macular degeneration	nervous	HTRA1	KEGG Disease Database	
+Age-related macular degeneration	nervous	ARMS2	KEGG Disease Database	
+Age-related macular degeneration	nervous	C3	KEGG Disease Database	
+Age-related macular degeneration	nervous	TLR4	KEGG Disease Database	
+Age-related macular degeneration	nervous	CST3	KEGG Disease Database	
+Age-related macular degeneration	nervous	CX3CR1	KEGG Disease Database	
+Age-related macular degeneration	nervous	CFI	KEGG Disease Database	
+Age-related macular degeneration	nervous	C2	KEGG Disease Database	
+Age-related macular degeneration	nervous	CFB	KEGG Disease Database	
+Age-related macular degeneration	nervous	CFHR1	KEGG Disease Database	
+Age-related macular degeneration	nervous	CFHR3	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	CRX	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	ABCA4	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	PITPNM3	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	RIMS1	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	ADAM9	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	SEMA4A	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	RAX2	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	PROM1	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	RPGRIP1	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	CDHR1	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	C8orf37	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	RAB28	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	TTLL5	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	POC1B	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	DRAM2	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	CACNA1F	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	PDE6C	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	PDE6H	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	KCNV2	KEGG Disease Database	
+Cone-rod dystrophy and cone dystrophy	nervous	CACNA2D4	KEGG Disease Database	
+Vitelliform macular dystrophy	nervous	IMPG1	KEGG Disease Database	
+Vitelliform macular dystrophy	nervous	IMPG2	KEGG Disease Database	
+Stargardt disease	nervous	ABCA4	KEGG Disease Database	
+Stargardt disease	nervous	CNGB3	KEGG Disease Database	
+Stargardt disease	nervous	ELOVL4	KEGG Disease Database	
+Stargardt disease	nervous	PROM1	KEGG Disease Database	
+Occult macular dystrophy	nervous	RP1L1	KEGG Disease Database	
+Central areolar choroidal dystrophy	nervous	GUCY2D	KEGG Disease Database	
+Central areolar choroidal dystrophy	nervous	PRPH2	KEGG Disease Database	
+Pattern dystrophies of the retinal pigment epithelium	nervous	PRPH2	KEGG Disease Database	
+Pattern dystrophies of the retinal pigment epithelium	nervous	CTNNA1	KEGG Disease Database	
+Pattern dystrophies of the retinal pigment epithelium	nervous	MAPKAPK3	KEGG Disease Database	
+Newfoundland rod-cone dystrophy	nervous	RLBP1	KEGG Disease Database	
+Familial flecked retina syndrome	nervous	EFEMP1	KEGG Disease Database	
+Familial flecked retina syndrome	nervous	CFH	KEGG Disease Database	
+Familial flecked retina syndrome	nervous	RDH5	KEGG Disease Database	
+Familial flecked retina syndrome	nervous	RLBP1	KEGG Disease Database	
+Familial flecked retina syndrome	nervous	RHO	KEGG Disease Database	
+Familial flecked retina syndrome	nervous	CYP4V2	KEGG Disease Database	
+Fleck retina, familial benign	nervous	PLA2G5	KEGG Disease Database	
+Leber congenital amaurosis	nervous	GUCY2D	KEGG Disease Database	
+Leber congenital amaurosis	nervous	RPE65	KEGG Disease Database	
+Leber congenital amaurosis	nervous	SPATA7	KEGG Disease Database	
+Leber congenital amaurosis	nervous	AIPL1	KEGG Disease Database	
+Leber congenital amaurosis	nervous	LCA5	KEGG Disease Database	
+Leber congenital amaurosis	nervous	RPGRIP1	KEGG Disease Database	
+Leber congenital amaurosis	nervous	CRX	KEGG Disease Database	
+Leber congenital amaurosis	nervous	CRB1	KEGG Disease Database	
+Leber congenital amaurosis	nervous	NMNAT1	KEGG Disease Database	
+Leber congenital amaurosis	nervous	CEP290	KEGG Disease Database	
+Leber congenital amaurosis	nervous	IMPDH1	KEGG Disease Database	
+Leber congenital amaurosis	nervous	RD3	KEGG Disease Database	
+Leber congenital amaurosis	nervous	RDH12	KEGG Disease Database	
+Leber congenital amaurosis	nervous	LRAT	KEGG Disease Database	
+Leber congenital amaurosis	nervous	TULP1	KEGG Disease Database	
+Leber congenital amaurosis	nervous	KCNJ13	KEGG Disease Database	
+Leber congenital amaurosis	nervous	GDF6	KEGG Disease Database	
+Leber congenital amaurosis	nervous	PRPH2	KEGG Disease Database	
+Leber congenital amaurosis	nervous	USP45	KEGG Disease Database	
+Leber congenital amaurosis	nervous	TUBB4B	KEGG Disease Database	
+Congenital fibrosis of the extraocular muscles	nervous	KIF21A	KEGG Disease Database	
+Congenital fibrosis of the extraocular muscles	nervous	PHOX2A	KEGG Disease Database	
+Congenital fibrosis of the extraocular muscles	nervous	TUBB3	KEGG Disease Database	
+Congenital fibrosis of the extraocular muscles	nervous	COL25A1	KEGG Disease Database	
+Reis-Bucklers corneal dystrophy	nervous	TGFBI	KEGG Disease Database	
+Thiel-Behnke dystrophies	nervous	TGFBI	KEGG Disease Database	
+Gelatinous drop-like corneal dystrophy	nervous	TACSTD2	KEGG Disease Database	
+Macular corneal dystrophy	nervous	CHST6	KEGG Disease Database	
+Granular corneal dystrophies	nervous	TGFBI	KEGG Disease Database	
+Lattice corneal dystrophies	nervous	TGFBI	KEGG Disease Database	
+Fleck corneal dystrophy	nervous	PIP5K3	KEGG Disease Database	
+Congenital stromal corneal dystrophy	nervous	DCN	KEGG Disease Database	
+Schnyder corneal dystrophy	nervous	UBIAD1	KEGG Disease Database	
+Fuchs corneal dystrophy	nervous	COL8A2	KEGG Disease Database	
+Fuchs corneal dystrophy	nervous	TCF4	KEGG Disease Database	
+Fuchs corneal dystrophy	nervous	SLC4A11	KEGG Disease Database	
+Fuchs corneal dystrophy	nervous	ZEB1	KEGG Disease Database	
+Fuchs corneal dystrophy	nervous	AGBL1	KEGG Disease Database	
+Posterior polymorphous corneal dystrophy	nervous	OVOL2	KEGG Disease Database	
+Posterior polymorphous corneal dystrophy	nervous	COL8A2	KEGG Disease Database	
+Posterior polymorphous corneal dystrophy	nervous	ZEB1	KEGG Disease Database	
+Posterior polymorphous corneal dystrophy	nervous	GRHL2	KEGG Disease Database	
+Congenital hereditary endothelial dystrophy	nervous	SLC4A11	KEGG Disease Database	
+Ring dermoid of cornea	nervous	PITX2	KEGG Disease Database	
+Epithelial basement membrane corneal dystrophy	nervous	TGFBI	KEGG Disease Database	
+Achromatopsia	nervous	CNGA3	KEGG Disease Database	
+Achromatopsia	nervous	CNGB3	KEGG Disease Database	
+Achromatopsia	nervous	GNAT2	KEGG Disease Database	
+Achromatopsia	nervous	PDE6C	KEGG Disease Database	
+Achromatopsia	nervous	PDE6H	KEGG Disease Database	
+Achromatopsia	nervous	ATF6	KEGG Disease Database	
+Bradyopsia	nervous	RGS9	KEGG Disease Database	
+Bradyopsia	nervous	RGS9BP	KEGG Disease Database	
+Blue cone monochromacy	nervous	OPN1LW	KEGG Disease Database	
+Blue cone monochromacy	nervous	OPN1MW	KEGG Disease Database	
+Colorblindness	nervous	OPN1LW	KEGG Disease Database	
+Colorblindness	nervous	OPN1MW	KEGG Disease Database	
+Colorblindness	nervous	OPN1SW	KEGG Disease Database	
+Jalili syndrome	nervous	CNNM4	KEGG Disease Database	
+Optic atrophy	nervous	OPA1	KEGG Disease Database	
+Optic atrophy	nervous	OPA3	KEGG Disease Database	
+Optic atrophy	nervous	DNM1L	KEGG Disease Database	
+Optic atrophy	nervous	TMEM126A	KEGG Disease Database	
+Optic atrophy	nervous	ACO2	KEGG Disease Database	
+Optic atrophy	nervous	RTN4IP1	KEGG Disease Database	
+Optic atrophy	nervous	YME1L1	KEGG Disease Database	
+Optic atrophy	nervous	AFG3L2	KEGG Disease Database	
+Optic atrophy	nervous	SSBP1	KEGG Disease Database	
+Pigmented paravenous chorioretinal atrophy	nervous	CRB1	KEGG Disease Database	
+Sveinsson chorioretinal atrophy (SCRA)	nervous	TEAD1	KEGG Disease Database	
+Choroideremia	nervous	CHM	KEGG Disease Database	
+Progressive external ophthalmoplegia	nervous	POLG	KEGG Disease Database	
+Progressive external ophthalmoplegia	nervous	SLC25A4	KEGG Disease Database	
+Progressive external ophthalmoplegia	nervous	TWNK	KEGG Disease Database	
+Progressive external ophthalmoplegia	nervous	POLG2	KEGG Disease Database	
+Progressive external ophthalmoplegia	nervous	RRM2B	KEGG Disease Database	
+Progressive external ophthalmoplegia	nervous	DNA2	KEGG Disease Database	
+Late-onset retinal degeneration	nervous	C1QTNF5	KEGG Disease Database	
+Cataract	nervous	GJA8	KEGG Disease Database	
+Cataract	nervous	CRYGC	KEGG Disease Database	
+Cataract	nervous	CRYBB2	KEGG Disease Database	
+Cataract	nervous	CRYGD	KEGG Disease Database	
+Cataract	nervous	HSF4	KEGG Disease Database	
+Cataract	nervous	EPHA2	KEGG Disease Database	
+Cataract	nervous	CRYAA	KEGG Disease Database	
+Cataract	nervous	CRYBA1	KEGG Disease Database	
+Cataract	nervous	PITX3	KEGG Disease Database	
+Cataract	nervous	BFSP2	KEGG Disease Database	
+Cataract	nervous	GCNT2	KEGG Disease Database	
+Cataract	nervous	GJA3	KEGG Disease Database	
+Cataract	nervous	MIP	KEGG Disease Database	
+Cataract	nervous	CRYAB	KEGG Disease Database	
+Cataract	nervous	CRYBB1	KEGG Disease Database	
+Cataract	nervous	FYCO1	KEGG Disease Database	
+Cataract	nervous	LIM2	KEGG Disease Database	
+Cataract	nervous	CRYGS	KEGG Disease Database	
+Cataract	nervous	MAF	KEGG Disease Database	
+Cataract	nervous	CRYBB3	KEGG Disease Database	
+Cataract	nervous	CRYBA4	KEGG Disease Database	
+Cataract	nervous	VIM	KEGG Disease Database	
+Cataract	nervous	CHMP4B	KEGG Disease Database	
+Cataract	nervous	BFSP1	KEGG Disease Database	
+Cataract	nervous	FOXE3	KEGG Disease Database	
+Cataract	nervous	TDRD7	KEGG Disease Database	
+Cataract	nervous	AGK	KEGG Disease Database	
+Cataract	nervous	CRYGB	KEGG Disease Database	
+Cataract	nervous	NHS	KEGG Disease Database	
+Cataract	nervous	WFS1	KEGG Disease Database	
+Cataract	nervous	CRYBA2	KEGG Disease Database	
+Cataract	nervous	UNC45B	KEGG Disease Database	
+Cataract	nervous	LSS	KEGG Disease Database	
+Cataract	nervous	SIPA1L3	KEGG Disease Database	
+Cataract	nervous	LEMD2	KEGG Disease Database	
+Cataract	nervous	SLC16A12	KEGG Disease Database	
+Cataract	nervous	DNMBP	KEGG Disease Database	
+Foveal hypoplasia	nervous	PAX6	KEGG Disease Database	
+Foveal hypoplasia	nervous	SLC38A8	KEGG Disease Database	
+Autosomal dominant keratitis	nervous	PAX6	KEGG Disease Database	
+Bosch-Boonstra optic atrophy syndrome	nervous	NR2F1	KEGG Disease Database	
+Autosomal dominant neovascular inflammatory vitreoretinopathy	nervous	CAPN5	KEGG Disease Database	
+Myopia	nervous	SCO2	KEGG Disease Database	
+Myopia	nervous	ZNF644	KEGG Disease Database	
+Myopia	nervous	PRIMPOL	KEGG Disease Database	
+Myopia	nervous	LRPAP1	KEGG Disease Database	
+Myopia	nervous	SLC39A5	KEGG Disease Database	
+Myopia	nervous	P4HA2	KEGG Disease Database	
+Myopia	nervous	ARR3	KEGG Disease Database	
+Myopia	nervous	P3H2	KEGG Disease Database	
+Megalocornea	nervous	CHRDL1	KEGG Disease Database	
+Bietti crystalline corneoretinal dystrophy	nervous	CYP4V2	KEGG Disease Database	
+Basal laminar drusen	nervous	CFH	KEGG Disease Database	
+Doyne honeycomb retinal dystrophy	nervous	EFEMP1	KEGG Disease Database	
+Persistent hyperplastic primary vitreous	nervous	ATOH7	KEGG Disease Database	
+Infantile cerebellar-retinal degeneration	nervous	ACO2	KEGG Disease Database	
+Spastic paraplegia, optic atrophy, and neuropathy	nervous	KLC2	KEGG Disease Database	
+Cone-rod dystrophy and hearing loss	nervous	CEP78	KEGG Disease Database	
+Cone-rod dystrophy and hearing loss	nervous	CEP250	KEGG Disease Database	
+Hereditary hyperferritinaemia-cataract syndrome	nervous	FTL	KEGG Disease Database	
+Cone-rod synaptic disorder	nervous	CABP4	KEGG Disease Database	
+Cone-rod synaptic disorder	nervous	RIMS2	KEGG Disease Database	
+Diabetic retinopathy	nervous	VEGFA	KEGG Disease Database	polymorphism
+Diabetic retinopathy	nervous	ACE	KEGG Disease Database	polymorphism
+Partington syndrome	nervous	ARX	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	DIAPH1	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	KCNQ4	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	GJB3	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	GJB2	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	GJB6	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	MYH14	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	CEACAM16	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	GSDME	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	WFS1	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	LMX1A	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	TECTA	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	COCH	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	EYA4	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	MYO7A	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	COL11A2	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	POU4F3	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	MYH9	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	ACTG1	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	MYO6	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	SIX1	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	SLC17A8	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	REST	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	GRHL2	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	TMC1	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	DSPP	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	CRYM	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	P2RX2	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	CCDC50	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	MIR96	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	TNC	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	DIABLO	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	TBC1D24	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	CD164	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	OSBPL2	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	HOMER2	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	KITLG	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	MCM2	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	DMXL2	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	SLC44A4	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	PTPRQ	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	PDE1C	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	TRRAP	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	PLS1	KEGG Disease Database	
+Deafness, autosomal dominant	nervous	ABCC1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GJB2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GJB3	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GJB6	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	MYO7A	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	MYO15	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	SLC26A4	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	TMIE	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	OTOF	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	CDH23	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GIPC3	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	STRC	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	USH1C	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	OTOG	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	TECTA	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	OTOA	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	PCDH15	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	RDX	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GRXCR1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GAB1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	TRIOBP	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	CLDN14	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	MYO3A	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	WHRN	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	CDC14A	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	ESRRB	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	ESPN	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	MYO6	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	HGF	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	ILDR1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	ADCY1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	CIB2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	MARVELD2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	COL11A2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	PDZD7	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	PJVK	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	SLC26A5	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	LRTOMT	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	DCDC2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	LHFPL5	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	S1PR2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	MSRB3	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	SYNE4	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	LOXHD1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	TPRN	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GPSM2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	PTPRQ	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	OTOGL	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	TBC1D24	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	ELMOD3	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	KARS	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	SERPINB6	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	CABP2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	NARS2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	MET	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	TSPEAR	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	TMEM132E	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	PPIP5K2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GRXCR2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	EPS8	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	CLIC5	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	RIPOR2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	EPS8L2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	WBP2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	ROR1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	ESRP1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	COCH	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	MPZL2	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	BDP1	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	CEACAM16	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	GRAP	KEGG Disease Database	
+Deafness, autosomal recessive	nervous	SPNS2	KEGG Disease Database	
+Deafness, X-linked	nervous	PRPS1	KEGG Disease Database	
+Deafness, X-linked	nervous	POU3F4	KEGG Disease Database	
+Deafness, X-linked	nervous	SMPX	KEGG Disease Database	
+Deafness, X-linked	nervous	AIFM1	KEGG Disease Database	
+Deafness, X-linked	nervous	COL4A6	KEGG Disease Database	
+Deafness, Y-linked	nervous	TBL1Y	KEGG Disease Database	
+Auditory neuropathy	nervous	DIAPH3	KEGG Disease Database	
+Auditory neuropathy	nervous	FDXR	KEGG Disease Database	
+Dejerine-Sottas disease	nervous	MPZ	KEGG Disease Database	
+Dejerine-Sottas disease	nervous	EGR2	KEGG Disease Database	
+Dejerine-Sottas disease	nervous	PMP22	KEGG Disease Database	
+Dejerine-Sottas disease	nervous	PRX	KEGG Disease Database	
+Cowchock syndrome	nervous	AIFM1	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	SPTLC1	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	SPTLC2	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	WNK1	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	FAM134B	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	KIF1A	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	SCN9A	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	IKBKAP	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	NTRK1	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	NGFB	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	DST	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	SCN11A	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	PRDM12	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	ATL1	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	DNMT1	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	ATL3	KEGG Disease Database	
+Hereditary sensory and autonomic neuropathy	nervous	CCT5	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	L1CAM	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	PLP1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ATL1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	SPAST	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	CYP7B1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	NIPA1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	SPG7	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	WSHC5	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ALDH18A1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	KIF5A	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	SPG11	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	RTN2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	HSPD1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ZFYVE26	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	BSCL2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ERLIN2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	SPG20	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	SPG21	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	DSTYK	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	B4GALNT1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	DDHD1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	KIF1A	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	REEP1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ZFYVE27	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	FA2H	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	PNPLA6	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	SLC33A1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	MPAN	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	GJC2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	NT5C2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	GBA2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	AP4B1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	AP5Z1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	TECPR2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	AP4M1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	AP4E1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	AP4S1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	VPS37A	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	DDHD2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	COXPD7	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	CYP2U1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	TFG	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ARL6IP1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ERLIN1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	AMPD2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ENTPD1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	REEP2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	CPT1C	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	IBA57	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	MAG	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	CAPN1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	FARS2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	ATP13A2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	UCHL1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	UBAP1	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	SELENOI	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	PCYT2	KEGG Disease Database	
+Hereditary spastic paraplegia	nervous	HPDL	KEGG Disease Database	
+Scapuloperoneal spinal muscular atrophy	nervous	TRPV4	KEGG Disease Database	
+Familial advanced sleep phase syndrome	nervous	PER2	KEGG Disease Database	
+Familial advanced sleep phase syndrome	nervous	CSNK1D	KEGG Disease Database	
+Familial advanced sleep phase syndrome	nervous	PER3	KEGG Disease Database	
+Delayed sleep phase syndrome	nervous	AANAT	KEGG Disease Database	polymorphism
+Delayed sleep phase syndrome	nervous	CRY1	KEGG Disease Database	
+Congenital central hypoventilation syndrome	nervous	PHOX2B	KEGG Disease Database	
+Congenital central hypoventilation syndrome	nervous	GDNF	KEGG Disease Database	
+Congenital central hypoventilation syndrome	nervous	RET	KEGG Disease Database	
+Congenital central hypoventilation syndrome	nervous	BDNF	KEGG Disease Database	
+Congenital central hypoventilation syndrome	nervous	ASCL1	KEGG Disease Database	
+Congenital central hypoventilation syndrome	nervous	EDN3	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	CHRNA1	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	CHRNB1	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	CHRND	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	CHRNE	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	COLQ	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	CHAT	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	SYT2	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	AGRN	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	MUSK	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	DOK7	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	RAPSN	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	GFPT1	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	DPAGT1	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	ALG2	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	ALG14	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	SCN4A	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	LRP4	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	SNAP25	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	COL13A1	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	SLC5A7	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	SLC18A3	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	PREPL	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	SLC25A1	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	MYO9A	KEGG Disease Database	
+Congenital myasthenic syndrome	nervous	VAMP1	KEGG Disease Database	
+Paroxysmal extreme pain disorder	nervous	SCN9A	KEGG Disease Database	
+Hyperekplexia	nervous	GLRA1	KEGG Disease Database	
+Hyperekplexia	nervous	GLRB	KEGG Disease Database	
+Hyperekplexia	nervous	SLC6A5	KEGG Disease Database	
+Hyperekplexia	nervous	ATAD1	KEGG Disease Database	
+Congenital insensitivity to pain	nervous	SCN9A	KEGG Disease Database	
+Congenital insensitivity to pain	nervous	ZFHX2	KEGG Disease Database	
+Hemiplegic migraine	nervous	CACNA1A	KEGG Disease Database	
+Hemiplegic migraine	nervous	ATP1A2	KEGG Disease Database	
+Hemiplegic migraine	nervous	SCN1A	KEGG Disease Database	
+Seizures-sensorineural deafness-ataxia-mental retardation-electrolyte imbalance (SESAME)	nervous	KCNJ10	KEGG Disease Database	
+Primary dystonia	nervous	TOR1A	KEGG Disease Database	
+Primary dystonia	nervous	HPCA	KEGG Disease Database	
+Primary dystonia	nervous	TAF1	KEGG Disease Database	
+Primary dystonia	nervous	GCH1	KEGG Disease Database	
+Primary dystonia	nervous	THAP1	KEGG Disease Database	
+Primary dystonia	nervous	MR1	KEGG Disease Database	
+Primary dystonia	nervous	PRRT2	KEGG Disease Database	
+Primary dystonia	nervous	SGCE	KEGG Disease Database	
+Primary dystonia	nervous	ATP1A3	KEGG Disease Database	
+Primary dystonia	nervous	TH	KEGG Disease Database	
+Primary dystonia	nervous	PRKRA	KEGG Disease Database	
+Primary dystonia	nervous	GLUT1	KEGG Disease Database	
+Primary dystonia	nervous	CACNA1B	KEGG Disease Database	
+Primary dystonia	nervous	ANO3	KEGG Disease Database	
+Primary dystonia	nervous	GNAL	KEGG Disease Database	
+Primary dystonia	nervous	KCTD17	KEGG Disease Database	
+Primary dystonia	nervous	COL6A3	KEGG Disease Database	
+Primary dystonia	nervous	KMT2B	KEGG Disease Database	
+Primary dystonia	nervous	MECR	KEGG Disease Database	
+GLUT1 deficiency syndrome	nervous	GLUT1	KEGG Disease Database	
+Band-like calcification with simplified gyration and polymicrogyria	nervous	OCLN	KEGG Disease Database	
+Benign hereditary chorea	nervous	TTF1	KEGG Disease Database	
+Mohr-Tranebjaerg syndrome	nervous	TIMM8A	KEGG Disease Database	
+Alternating hemiplegia of childhood	nervous	ATP1A2	KEGG Disease Database	
+Alternating hemiplegia of childhood	nervous	ATP1A3	KEGG Disease Database	
+Retinal vasculopathy with cerebral leukodystrophy	nervous	TREX1	KEGG Disease Database	
+Dopamine beta-hydroxylase deficiency	nervous	DBH	KEGG Disease Database	
+Choroid plexus papilloma	nervous	p53	KEGG Disease Database	
+Spastic quadriplegic cerebral palsy	nervous	GAD1	KEGG Disease Database	
+Spastic quadriplegic cerebral palsy	nervous	KANK1	KEGG Disease Database	
+Spastic quadriplegic cerebral palsy	nervous	ADD3	KEGG Disease Database	
+Hereditary neuralgic amyotrophy	nervous	SEPT9	KEGG Disease Database	
+Roussy-Levy syndrome	nervous	MPZ	KEGG Disease Database	
+Roussy-Levy syndrome	nervous	PMP22	KEGG Disease Database	
+Jensen syndrome	nervous	TIMM8A	KEGG Disease Database	
+Congenital mirror movements	nervous	DCC	KEGG Disease Database	
+Congenital mirror movements	nervous	RAD51A	KEGG Disease Database	
+Congenital mirror movements	nervous	DNAL4	KEGG Disease Database	
+Congenital mirror movements	nervous	NTN1	KEGG Disease Database	
+Narcolepsy	nervous	HCRT	KEGG Disease Database	
+Narcolepsy	nervous	MOG	KEGG Disease Database	
+Hereditary neuropathy with liability to pressure palsies	nervous	PMP22	KEGG Disease Database	
+Hemorrhagic destruction of the brain, subependymal calcification, and cataracts	nervous	JAM3	KEGG Disease Database	
+Familial carpal tunnel syndrome	nervous	TTR	KEGG Disease Database	
+Rasmussen encephalitis	nervous	CTLA4	KEGG Disease Database	polymorphism
+Rasmussen encephalitis	nervous	PDCD1	KEGG Disease Database	polymorphism
+Guillain-Barre syndrome	nervous	PMP22	KEGG Disease Database	
+Multiple sclerosis	nervous	PDCD1	KEGG Disease Database	
+Multiple sclerosis	nervous	HLA-DRB1	KEGG Disease Database	
+Multiple sclerosis	nervous	HLA-DQB1	KEGG Disease Database	
+Multiple sclerosis	nervous	TNFRSF1A	KEGG Disease Database	
+Neuromyelitis optica	nervous	AQP4	KEGG Disease Database	
+Vogt-Koyanagi-Harada syndrome	nervous	HLA-DRB1	KEGG Disease Database	
+Vogt-Koyanagi-Harada syndrome	nervous	HLA-DRB4	KEGG Disease Database	
+Wernicke encephalopathy	nervous	SLC19A2	KEGG Disease Database	
+Essential tremor	nervous	DRD3	KEGG Disease Database	
+Essential tremor	nervous	FUS	KEGG Disease Database	
+Essential tremor	nervous	TENM4	KEGG Disease Database	
+Essential tremor	nervous	NOTCH2NLC	KEGG Disease Database	
+Subependymal giant cell astrocytoma	nervous	TSC1	KEGG Disease Database	mutation
+Subependymal giant cell astrocytoma	nervous	TSC2	KEGG Disease Database	mutation
+Congenital pain insensitivity with anhidrosis	nervous	NTRK1	KEGG Disease Database	
+Familial dysautonomia	nervous	ELP1	KEGG Disease Database	
+Autosomal dominant sensory ataxia	nervous	RNF170	KEGG Disease Database	
+Laurence-Moon syndrome	nervous	PNPLA6	KEGG Disease Database	
+Boucher-Neuhauser syndrome	nervous	PNPLA6	KEGG Disease Database	
+Sudden infant death with dysgenesis of the testes syndrome	nervous	TSPYL1	KEGG Disease Database	
+Coats plus syndrome	nervous	CTC1	KEGG Disease Database	
+Coats plus syndrome	nervous	STN1	KEGG Disease Database	
+Autosomal recessive peripheral neuropathy (PNRIID)	nervous	MCM3AP	KEGG Disease Database	
+Congenital hypomyelinating neuropathy	nervous	EGR2	KEGG Disease Database	
+Congenital hypomyelinating neuropathy	nervous	MPZ	KEGG Disease Database	
+Congenital hypomyelinating neuropathy	nervous	CNTNAP1	KEGG Disease Database	
+Cerebellar ataxia	nervous	RFC1	KEGG Disease Database	
+Chorea, childhood-onset, with psychomotor retardation	nervous	GPR88	KEGG Disease Database	
+Infantile-onset limb and orofacial dyskinesia	nervous	PDE10A	KEGG Disease Database	
+Familial dyskinesia with facial myokymia	nervous	ADCY5	KEGG Disease Database	
+Autosomal recessive neuromyotonia and axonal neuropathy	nervous	HINT1	KEGG Disease Database	
+Horizontal gaze palsy with progressive scoliosis	nervous	ROBO3	KEGG Disease Database	
+Horizontal gaze palsy with progressive scoliosis	nervous	DCC	KEGG Disease Database	
+Mild encephalopathy with reversible myelin vacuolization	nervous	MYRF	KEGG Disease Database	
+Diabetic neuropathy	nervous	VEGFA	KEGG Disease Database	polymorphism
+Jaberi-Elahi syndrome	nervous	GTPBP2	KEGG Disease Database	
+Autism	nervous	CNTNAP2	KEGG Disease Database	
+Autism	nervous	CNTNAP2	KEGG Disease Database	
+Autism	nervous	SLC9A9	KEGG Disease Database	
+Autism	nervous	SHANK2	KEGG Disease Database	
+Autism	nervous	CHD8	KEGG Disease Database	
+Autism	nervous	EIF4E	KEGG Disease Database	
+Autism	nervous	NLGN1	KEGG Disease Database	
+Autism	nervous	NLGN3	KEGG Disease Database	
+Autism	nervous	NLGN4X	KEGG Disease Database	
+Autism	nervous	MECP2	KEGG Disease Database	
+Autism	nervous	PTCHD1	KEGG Disease Database	
+Autism	nervous	RPL10	KEGG Disease Database	
+Autism	nervous	TMLHE	KEGG Disease Database	
+Attention deficit hyperactivity disorder	nervous	DRD4	KEGG Disease Database	
+Attention deficit hyperactivity disorder	nervous	DRD5	KEGG Disease Database	
+Attention deficit hyperactivity disorder	nervous	TPH2	KEGG Disease Database	
+Asthma	respiratory	IL4	KEGG Disease Database	polymorphism
+Asthma	respiratory	IL4RA	KEGG Disease Database	polymorphism
+Asthma	respiratory	IL13	KEGG Disease Database	polymorphism
+Asthma	respiratory	FCER1B	KEGG Disease Database	polymorphism
+Asthma	respiratory	TNFA	KEGG Disease Database	polymorphism
+Asthma	respiratory	ADAM33	KEGG Disease Database	polymorphism
+Asthma	respiratory	CD14	KEGG Disease Database	polymorphism
+Asthma	respiratory	HLA-DRB1	KEGG Disease Database	polymorphism
+Asthma	respiratory	HLA-DQB1	KEGG Disease Database	polymorphism
+Asthma	respiratory	ADRB2	KEGG Disease Database	polymorphism
+Asthma	respiratory	TBX21	KEGG Disease Database	
+Asthma	respiratory	PTGER2	KEGG Disease Database	
+Cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities	respiratory	LTBP4	KEGG Disease Database	
+Alveolar capillary dysplasia	respiratory	FOXF1	KEGG Disease Database	
+Alpha-1-antitrypsin deficiency	respiratory	SERPINA1	KEGG Disease Database	
+Pneumothorax	respiratory	FLCN	KEGG Disease Database	
+Congenital pulmonary alveolar proteinosis	respiratory	SFTPB	KEGG Disease Database	
+Congenital pulmonary alveolar proteinosis	respiratory	SFTPC	KEGG Disease Database	
+Congenital pulmonary alveolar proteinosis	respiratory	ABCA3	KEGG Disease Database	
+Congenital pulmonary alveolar proteinosis	respiratory	CSF2RA	KEGG Disease Database	
+Congenital pulmonary alveolar proteinosis	respiratory	CSF2RB	KEGG Disease Database	
+Pulmonary alveolar microlithiasis	respiratory	SLC34A2	KEGG Disease Database	
+Idiopathic pulmonary fibrosis	respiratory	TERC	KEGG Disease Database	
+Idiopathic pulmonary fibrosis	respiratory	TERT	KEGG Disease Database	
+Idiopathic pulmonary fibrosis	respiratory	SFTPA1	KEGG Disease Database	
+Idiopathic pulmonary fibrosis	respiratory	SFTPA2	KEGG Disease Database	
+Idiopathic pulmonary fibrosis	respiratory	SFTPC	KEGG Disease Database	
+Idiopathic pulmonary fibrosis	respiratory	MUC5B	KEGG Disease Database	
+Chronic obstructive pulmonary disease (COPD)	respiratory	SERPINA1	KEGG Disease Database	
+Chronic obstructive pulmonary disease (COPD)	respiratory	HMOX1	KEGG Disease Database	
+Chronic obstructive pulmonary disease (COPD)	respiratory	MMP1	KEGG Disease Database	
+Interstitial lung and liver disease	respiratory	MARS	KEGG Disease Database	
+Rajab interstitial lung disease with brain calcification	respiratory	FARSB	KEGG Disease Database	
+Rajab interstitial lung disease with brain calcification	respiratory	FARSA	KEGG Disease Database	
+Bronchiectasis	respiratory	SCNN1B	KEGG Disease Database	
+Bronchiectasis	respiratory	SCNN1A	KEGG Disease Database	
+Bronchiectasis	respiratory	SCNN1G	KEGG Disease Database	
+Diffuse panbronchiolitis	respiratory	HLA-A	KEGG Disease Database	polymorphism
+Diffuse panbronchiolitis	respiratory	HLA-B	KEGG Disease Database	polymorphism
+Diffuse panbronchiolitis	respiratory	MUC22	KEGG Disease Database	polymorphism
+Diffuse panbronchiolitis	respiratory	HCG22	KEGG Disease Database	polymorphism
+Primary ciliary dyskinesia	respiratory	DNAI1	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DNAAF3	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DNAH5	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	HYDIN	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	TXNDC3	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DNAH11	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DNAI2	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	KTU	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	RSPH4A	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	RSPH9	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	LRRC50	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	CCDC39	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	CCDC40	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DNAL1	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	CCDC103	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	HEATR2	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	LRRC6	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	CCDC114	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DRC1	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	ZMYND10	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	ARMC4	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	RSPH1	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DYX1C1	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	C21ORF59	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	CCDC65	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	SPAG1	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	CCNO	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	CCDC151	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	RSPH3	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	GAS8	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DNAJB13	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	TTC25	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	PIH1D3	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DNAH1	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	CFAP300	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	LRRC56	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	DNAH9	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	GAS2L2	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	MCIDAS	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	FOXJ1	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	NEK10	KEGG Disease Database	
+Primary ciliary dyskinesia	respiratory	TTC12	KEGG Disease Database	

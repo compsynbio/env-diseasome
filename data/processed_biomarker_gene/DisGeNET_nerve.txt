@@ -1,0 +1,3852 @@
+Diastematomyelia	NAT2
+Neurenteric Cyst	NAT2
+Tethered Cord Syndrome	NAT2
+Iniencephaly	NAT2
+Craniorachischisis	NAT2
+Status Epilepticus	CDH2
+Non-Convulsive Status Epilepticus	CDH2
+Cortical Dysplasia	AKT3
+Malformations of Cortical Development	AKT3
+Alzheimer's Disease	MIR708
+Alzheimer Disease, Late Onset	MIR708
+Alzheimer's Disease, Focal Onset	MIR708
+Alzheimer Disease, Early Onset	MIR708
+Leigh Disease	PET100
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	PET100
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	PET100
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	PET100
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	PET100
+Alzheimer's Disease	SNAR-I
+Alzheimer Disease, Late Onset	SNAR-I
+Alzheimer's Disease, Focal Onset	SNAR-I
+Alzheimer Disease, Early Onset	SNAR-I
+Inclusion Body Myopathy, Sporadic	GNE
+Inclusion Body Myopathy, Autosomal Recessive	GNE
+Muscular Dystrophy, Facioscapulohumeral	DUX4
+Leigh Disease	PET117
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	PET117
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	PET117
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	PET117
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	PET117
+Parkinson Disease	PARK16
+Alzheimer's Disease	MIR3622B
+Alzheimer Disease, Late Onset	MIR3622B
+Alzheimer's Disease, Focal Onset	MIR3622B
+Alzheimer Disease, Early Onset	MIR3622B
+Microcephaly	FARSB
+Microcephaly	DNM1L
+Optic Atrophy	DNM1L
+Parkinson Disease	DNM1L
+Optic Atrophy 1	DNM1L
+Alzheimer's Disease	MIR4467
+Alzheimer Disease, Late Onset	MIR4467
+Alzheimer's Disease, Focal Onset	MIR4467
+Alzheimer Disease, Early Onset	MIR4467
+Autism Spectrum Disorders	CDH10
+Microcephaly	PQBP1
+Spastic Paraplegia, Hereditary	PQBP1
+Hereditary Autosomal Dominant Spastic Paraplegia	PQBP1
+Autosomal Recessive Hereditary Spastic Paraplegia	PQBP1
+Hereditary X-Linked Recessive Spastic Paraplegia	PQBP1
+X-Linked, Spastic Paraplegia, Hereditary	PQBP1
+Epilepsy	CERT1
+Leigh Disease	LRPPRC
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	LRPPRC
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	LRPPRC
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	LRPPRC
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	LRPPRC
+Amyotrophic Lateral Sclerosis	OPTN
+Amyotrophic Lateral Sclerosis With Dementia	OPTN
+Alzheimer's Disease	ADAM10
+Alzheimer Disease, Late Onset	ADAM10
+Alzheimer's Disease, Focal Onset	ADAM10
+Alzheimer Disease, Early Onset	ADAM10
+Autosomal Recessive Primary Microcephaly	CDK6
+Progressive supranuclear palsy	STX6
+Ophthalmoplegia, Progressive Supranuclear	STX6
+Supranuclear Palsy, Progressive, 1	STX6
+Epileptic encephalopathy	GPHN
+Muscular Dystrophy, Facioscapulohumeral	CDKN1A
+Sensory hearing loss	IRX5
+Ataxia, Spinocerebellar	STUB1
+Spinocerebellar Ataxia Type 1	STUB1
+Spinocerebellar Ataxia Type 2	STUB1
+Amyotrophic Lateral Sclerosis	SIGMAR1
+Amyotrophic Lateral Sclerosis With Dementia	SIGMAR1
+Frontotemporal Lobar Degeneration	SIGMAR1
+Single Seizure	SIGMAR1
+Juvenile amyotrophic lateral sclerosis	SIGMAR1
+Myopathy, Centronuclear, Autosomal Recessive	SPEG
+Autosomal Recessive Centronuclear Myopathy	SPEG
+Microcephaly	TRAIP
+Autism Spectrum Disorders	LAMC3
+Nemaline Myopathy, Childhood Onset	KLHL41
+Alzheimer's Disease	ABCA7
+Alzheimer Disease, Late Onset	ABCA7
+Alzheimer's Disease, Focal Onset	ABCA7
+Alzheimer Disease, Early Onset	ABCA7
+Alzheimer Disease 9	ABCA7
+Primary microcephaly	TUBGCP3
+Alzheimer's Disease	TOMM40
+Alzheimer Disease, Late Onset	TOMM40
+Alzheimer's Disease, Focal Onset	TOMM40
+Alzheimer Disease, Early Onset	TOMM40
+Microcephaly	SLC9A6
+Parkinson Disease	ADARB2
+Brain Ischemia	CEBPB
+Cerebral Ischemia	CEBPB
+Ataxia, Spinocerebellar	NOP56
+Spinocerebellar Ataxia Type 1	NOP56
+Spinocerebellar Ataxia Type 2	NOP56
+Charcot-Marie-Tooth Disease	SPTLC1
+Hereditary Sensory Autonomic Neuropathy, Type 1	SPTLC1
+Spastic Paraplegia, Hereditary	ERLIN1
+Epilepsy	STAMBP
+Microcephaly	STAMBP
+Microcephaly	CENPF
+Muscular Dystrophy, Duchenne	POSTN
+Becker Muscular Dystrophy	POSTN
+Duchenne and Becker Muscular Dystrophy	POSTN
+Diastematomyelia	SPINT2
+Neurenteric Cyst	SPINT2
+Tethered Cord Syndrome	SPINT2
+Iniencephaly	SPINT2
+Craniorachischisis	SPINT2
+Leigh Disease	FARS2
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	FARS2
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	FARS2
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	FARS2
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	FARS2
+Familial Progressive Myoclonic Epilepsy	CERS1
+Myoclonic Epilepsies, Progressive	CERS1
+Spina Bifida	CFL1
+Encephalopathy, Toxic	PTGES3
+Toxic Encephalitis	PTGES3
+Microcephaly	PLK4
+Primary microcephaly	PLK4
+Microcephaly	STAG2
+AMYOTROPHIC LATERAL SCLEROSIS 1	SIX2
+Amyotrophic Lateral Sclerosis, Sporadic	SIX2
+Amyotrophic Lateral Sclerosis, Familial	SIX2
+Autism Spectrum Disorders	RAI1
+ATAXIA, SPASTIC, 2, AUTOSOMAL RECESSIVE (disorder)	KIF1C
+Tonic-Clonic Epilepsy	NES
+Epilepsy, Tonic-Clonic, Familial	NES
+Brachial Neuralgia	SEPTIN9
+Brachial Plexus Neuritis	SEPTIN9
+Neuralgic Amyotrophy	SEPTIN9
+Status Epilepticus	CCR9
+Non-Convulsive Status Epilepticus	CCR9
+Epilepsy, Myoclonic, Infantile	CPLX1
+Alzheimer's Disease	PGRMC1
+Alzheimer Disease, Late Onset	PGRMC1
+Alzheimer's Disease, Focal Onset	PGRMC1
+Alzheimer Disease, Early Onset	PGRMC1
+Alzheimer's Disease	CYP46A1
+Alzheimer Disease, Late Onset	CYP46A1
+Alzheimer's Disease, Focal Onset	CYP46A1
+Alzheimer Disease, Early Onset	CYP46A1
+Amyotrophic Lateral Sclerosis	PPARGC1A
+Parkinson Disease	PPARGC1A
+Lewy Body Disease	PPARGC1A
+Spastic Paraplegia, Hereditary	PNPLA6
+Motor Neuron Disease	PNPLA6
+Polyneuropathy	PNPLA6
+Lateral Sclerosis	PNPLA6
+Familial Motor Neuron Disease	PNPLA6
+Motor Neuron Disease, Lower	PNPLA6
+Polyneuropathy, Motor	PNPLA6
+Motor Neuron Disease, Upper	PNPLA6
+Motor Neuron Disease, Secondary	PNPLA6
+Inherited neuropathies	PNPLA6
+Polyneuropathy, Familial	PNPLA6
+Acquired Polyneuropathy	PNPLA6
+Hereditary Autosomal Dominant Spastic Paraplegia	PNPLA6
+Autosomal Recessive Hereditary Spastic Paraplegia	PNPLA6
+Hereditary X-Linked Recessive Spastic Paraplegia	PNPLA6
+X-Linked, Spastic Paraplegia, Hereditary	PNPLA6
+Motor Neuron Disease	PRDX3
+Lateral Sclerosis	PRDX3
+Familial Motor Neuron Disease	PRDX3
+Motor Neuron Disease, Lower	PRDX3
+Motor Neuron Disease, Upper	PRDX3
+Motor Neuron Disease, Secondary	PRDX3
+Ataxia, Spinocerebellar	AFG3L2
+Familial Progressive Myoclonic Epilepsy	AFG3L2
+Myoclonic Epilepsies, Progressive	AFG3L2
+Spinocerebellar Ataxia Type 1	AFG3L2
+Spinocerebellar Ataxia Type 2	AFG3L2
+Congenital pontocerebellar hypoplasia	CLP1
+Single Seizure	CHAT
+Epilepsy	CHD2
+Lennox-Gastaut syndrome	CHD2
+Epileptic encephalopathy	CHD2
+Familial Progressive Myoclonic Epilepsy	CHD2
+Myoclonic Epilepsies, Progressive	CHD2
+Autism Spectrum Disorders	CHD2
+Benign Hereditary Chorea	ADCY5
+Chorea, Benign Familial	ADCY5
+Primary microcephaly	CIT
+Autosomal Recessive Primary Microcephaly	CIT
+Autism Spectrum Disorders	IL1RAPL1
+Epilepsy	WDR45
+Myofibrillar Myopathy	LDB3
+Spastic Paraplegia, Hereditary	ERLIN2
+Primary lateral sclerosis juvenile	ERLIN2
+Spina Bifida	CHKA
+Epilepsy	PRRT2
+Familial benign neonatal epilepsy	PRRT2
+Epilepsy	STX1B
+Seizure, Febrile, Simple	STX1B
+Seizure, Febrile, Complex	STX1B
+Brain Ischemia	CHRM1
+Epilepsy	CHRM1
+Single Seizure	CHRM1
+Cerebral Ischemia	CHRM1
+Microcephaly	PNKP
+Single Seizure	PNKP
+Epilepsy	CHRM2
+Diabetic Mononeuropathy	CHRM2
+Diabetic Amyotrophy	CHRM2
+Diabetic Autonomic Neuropathy	CHRM2
+Diabetic Neuralgia	CHRM2
+Spastic Paraplegia	LYST
+Parkinson Disease	PARK7
+Autosomal Dominant Juvenile Parkinson Disease	PARK7
+Autosomal Dominant Parkinsonism	PARK7
+Autosomal Recessive Parkinsonism	PARK7
+Familial Juvenile Parkinsonism	PARK7
+Parkinsonism, Juvenile	PARK7
+Progressive bulbar palsy	SLC52A3
+Childhood Progressive Bulbar Palsy	SLC52A3
+Bulbar palsy	SLC52A3
+Pontocerebellar Hypoplasia Type 1	EXOSC8
+Congenital microcephaly	RNF13
+Single Seizure	CHRNA3
+Spastic Paraplegia, Hereditary	CYP2U1
+Single Seizure	CHRNA4
+Attention deficit hyperactivity disorder	CHRNA4
+Single Seizure	CHRNA5
+Alzheimer's Disease	CHRNA7
+Spina Bifida Cystica	CHRNA7
+Epilepsy, Atonic	CHRNA7
+Epilepsy, Tonic	CHRNA7
+Alzheimer Disease, Late Onset	CHRNA7
+Alzheimer's Disease, Focal Onset	CHRNA7
+Alzheimer Disease, Early Onset	CHRNA7
+Single Seizure	CHRNA7
+Myasthenic Syndromes, Congenital	CHRNB1
+Congenital pontocerebellar hypoplasia	TOE1
+Alzheimer's Disease	CHRNB2
+Alzheimer Disease, Late Onset	CHRNB2
+Alzheimer's Disease, Focal Onset	CHRNB2
+Alzheimer Disease, Early Onset	CHRNB2
+Attention deficit hyperactivity disorder	CHRNB2
+Single Seizure	CHRNB4
+Absence Epilepsy	EFHC1
+Juvenile Myoclonic Epilepsy	EFHC1
+Epilepsy, Absence, Atypical	EFHC1
+Childhood Absence Epilepsy	EFHC1
+Juvenile Absence Epilepsy	EFHC1
+Myoclonic Epilepsy, Adolescent	EFHC1
+Myoclonic Epilepsy, Juvenile, 1	EFHC1
+Absence Seizure Disorder	EFHC1
+Myasthenic Syndromes, Congenital	CHRND
+Multiple Sclerosis	NLRP3
+Myasthenic Syndromes, Congenital	CHRNG
+Restless Legs Syndrome	BTBD9
+Autism Spectrum Disorders	CIRBP
+Encephalopathy, Toxic	ADCYAP1
+Toxic Encephalitis	ADCYAP1
+Single Seizure	ADCYAP1
+Epilepsy	RAB39B
+Pontocerebellar Hypoplasia Type 2	TSEN15
+Myotonia Congenita	CLCN1
+Juvenile Myoclonic Epilepsy	CLCN2
+Inherited neuropathies	ZFYVE27
+Alzheimer's Disease	CLU
+Alzheimer Disease, Late Onset	CLU
+Alzheimer's Disease, Focal Onset	CLU
+Alzheimer Disease, Early Onset	CLU
+Single Seizure	CLU
+AMYOTROPHIC LATERAL SCLEROSIS 1	CLU
+Amyotrophic Lateral Sclerosis, Sporadic	CLU
+Amyotrophic Lateral Sclerosis, Familial	CLU
+Brain Ischemia	ADD3
+Encephalopathy, Toxic	ADD3
+Toxic Encephalitis	ADD3
+Cerebral Ischemia	ADD3
+Cerebral Palsy, Spastic Quadriplegic, 1	ADD3
+Alzheimer's Disease	TPP1
+Alzheimer Disease, Late Onset	TPP1
+Alzheimer's Disease, Focal Onset	TPP1
+Alzheimer Disease, Early Onset	TPP1
+AMYOTROPHIC LATERAL SCLEROSIS 1	DBX1
+Amyotrophic Lateral Sclerosis, Sporadic	DBX1
+Amyotrophic Lateral Sclerosis, Familial	DBX1
+Parkinson Disease	LRRK2
+Autosomal Dominant Juvenile Parkinson Disease	LRRK2
+Autosomal Dominant Parkinsonism	LRRK2
+Autosomal Recessive Parkinsonism	LRRK2
+Familial Juvenile Parkinsonism	LRRK2
+Parkinsonism, Juvenile	LRRK2
+Attention deficit hyperactivity disorder	TPH2
+Status Epilepticus	CCR3
+Non-Convulsive Status Epilepticus	CCR3
+Brain Ischemia	CCR4
+Cerebral Ischemia	CCR4
+Status Epilepticus	CCR7
+Non-Convulsive Status Epilepticus	CCR7
+Inherited neuropathies	NIPA1
+Status Epilepticus	CCR8
+Non-Convulsive Status Epilepticus	CCR8
+Centronuclear myopathy	CCDC78
+X-linked centronuclear myopathy	CCDC78
+Congenital Structural Myopathy	CCDC78
+Myopathy, Centronuclear, Autosomal Dominant	CCDC78
+Autosomal Recessive Centronuclear Myopathy	CCDC78
+Myopathy, Centronuclear, 1	CCDC78
+Alzheimer's Disease	IQCK
+Alzheimer Disease, Late Onset	IQCK
+Alzheimer's Disease, Focal Onset	IQCK
+Alzheimer Disease, Early Onset	IQCK
+Status Epilepticus	ABCC2
+Single Seizure	ABCC2
+Non-Convulsive Status Epilepticus	ABCC2
+Epilepsy	EARS2
+Congenital Hydrocephalus	WDR81
+Cerebral Infarction	ADH1B
+Subcortical Infarction	ADH1B
+Huntington Disease	CNR1
+Multiple Sclerosis	CNR1
+Status Epilepticus	CNR1
+Huntington Disease, Late Onset	CNR1
+Epilepsy, Lateral Temporal	CNR1
+Single Seizure	CNR1
+Juvenile Huntington Disease	CNR1
+Non-Convulsive Status Epilepticus	CNR1
+Attention deficit hyperactivity disorder	CNR1
+Secondary Parkinson Disease	CNR2
+Parkinson Disease, Secondary Vascular	CNR2
+AMYOTROPHIC LATERAL SCLEROSIS 1	CNTF
+Amyotrophic Lateral Sclerosis, Sporadic	CNTF
+Amyotrophic Lateral Sclerosis, Familial	CNTF
+Myasthenic Syndromes, Congenital	SYT2
+Sensory hearing loss	COL2A1
+Muscular Dystrophy, Facioscapulohumeral	COL3A1
+Vertebral Artery Dissection	COL3A1
+Ischemic stroke	COL3A1
+Schizencephaly	COL4A1
+Congenital porencephaly	COL4A1
+Dementia	COL4A1
+Familial vascular leukoencephalopathy	COL4A1
+Familial schizencephaly	COL4A1
+Porencephaly	COL4A1
+Developmental Porencephaly	COL4A1
+Porencephaly, Type 1, Autosomal Dominant	COL4A1
+Autism Spectrum Disorders	IQGAP3
+Congenital porencephaly	COL4A2
+Porencephaly	COL4A2
+Developmental Porencephaly	COL4A2
+Porencephaly, Type 1, Autosomal Dominant	COL4A2
+Cerebral atrophy	PIGU
+Cerebellar Hypoplasia	PIGU
+Focal myoclonic seizures	PIGU
+Muscular Dystrophy	COL6A1
+Sensory hearing loss	COL9A1
+Sensory hearing loss	COL11A2
+Myasthenic Syndromes, Congenital	COL13A1
+Parkinson Disease	COL19A1
+Attention deficit hyperactivity disorder	COMT
+Transient Ischemic Attack	ADORA1
+Middle Cerebral Artery Thrombosis	ADORA1
+Middle Cerebral Artery Occlusion	ADORA1
+Infarction, Middle Cerebral Artery	ADORA1
+Transient Cerebral Ischemia	ADORA1
+Primary Insomnia	ADORA2A
+Single Seizure	ADORA2A
+Chronic Insomnia	ADORA2A
+Leigh Disease	COX10
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	COX10
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	COX10
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	COX10
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	COX10
+Leigh Disease	COX15
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	COX15
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	COX15
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	COX15
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	COX15
+Dyskinetic syndrome	CP
+Parkinson Disease	CP
+Hemiballismus	CP
+Dementia	CP
+Familial Dementia	CP
+Central Nervous System Metabolic Disorders	CPT2
+Metabolic Disorder, Central Nervous System, Acquired	CPT2
+Leigh Disease	NDUFAF6
+Alzheimer's Disease	CR1
+Alzheimer Disease, Late Onset	CR1
+Alzheimer's Disease, Focal Onset	CR1
+Alzheimer Disease, Early Onset	CR1
+AMYOTROPHIC LATERAL SCLEROSIS 1	CREBBP
+Amyotrophic Lateral Sclerosis, Sporadic	CREBBP
+Amyotrophic Lateral Sclerosis, Familial	CREBBP
+Alzheimer's Disease	CRH
+Status Epilepticus	CRH
+Alzheimer Disease, Late Onset	CRH
+Alzheimer's Disease, Focal Onset	CRH
+Alzheimer Disease, Early Onset	CRH
+Single Seizure	CRH
+Non-Convulsive Status Epilepticus	CRH
+Autism Spectrum Disorders	PTCHD1
+Meningitis	CRP
+Pachymeningitis	CRP
+Huntington Disease	NRSN1
+Myofibrillar Myopathy	CRYAB
+Brain Ischemia	PARP1
+Autosomal Dominant Juvenile Parkinson Disease	PARP1
+Autosomal Dominant Parkinsonism	PARP1
+Autosomal Recessive Parkinsonism	PARP1
+Familial Juvenile Parkinsonism	PARP1
+Parkinsonism, Juvenile	PARP1
+Cerebral Ischemia	PARP1
+Dementia	CSF1R
+Diastematomyelia	CSF2
+Neurenteric Cyst	CSF2
+Tethered Cord Syndrome	CSF2
+Iniencephaly	CSF2
+Craniorachischisis	CSF2
+Parkinson Disease	SLC2A14
+Muscular Dystrophy	PRIMA1
+Ataxia, Spinocerebellar	TTBK2
+Inherited neuropathies	TTBK2
+Spinocerebellar Ataxia Type 1	TTBK2
+Spinocerebellar Ataxia Type 2	TTBK2
+Encephalopathy, Toxic	ADRA1B
+Toxic Encephalitis	ADRA1B
+Single Seizure	ADRA1B
+Alzheimer's Disease	CST3
+Familial Cerebral Amyloid Angiopathy	CST3
+Alzheimer Disease, Late Onset	CST3
+Dementia	CST3
+Alzheimer's Disease, Focal Onset	CST3
+Alzheimer Disease, Early Onset	CST3
+Cerebral Amyloid Angiopathy, Hereditary	CST3
+AMYOTROPHIC LATERAL SCLEROSIS 1	CST3
+Amyotrophic Lateral Sclerosis, Sporadic	CST3
+Cerebral Amyloid Angiopathy, Genetic	CST3
+Amyotrophic Lateral Sclerosis, Familial	CST3
+Myotonic Dystrophy	NKX2-5
+Congenital Myotonic Dystrophy	NKX2-5
+Lissencephaly	CTNNA2
+Primary microcephaly	CTNNB1
+Epilepsy	ADRA2A
+X-linked infantile spasms	SIK1
+AMYOTROPHIC LATERAL SCLEROSIS 1	CTSD
+Amyotrophic Lateral Sclerosis, Sporadic	CTSD
+Amyotrophic Lateral Sclerosis, Familial	CTSD
+Autism Spectrum Disorders	UPP2
+Brain Infarction	CYBB
+Diastematomyelia	CYP1A2
+Neurenteric Cyst	CYP1A2
+Tethered Cord Syndrome	CYP1A2
+Iniencephaly	CYP1A2
+Craniorachischisis	CYP1A2
+Secondary Parkinson Disease	FMC1
+Parkinson Disease, Secondary Vascular	FMC1
+Alzheimer's Disease	CYP2D6
+Tonic-Clonic Epilepsy	CYP2D6
+Parkinson Disease	CYP2D6
+Alzheimer Disease, Late Onset	CYP2D6
+Alzheimer's Disease, Focal Onset	CYP2D6
+Alzheimer Disease, Early Onset	CYP2D6
+Epilepsy, Tonic-Clonic, Familial	CYP2D6
+Parkinson Disease	CYP2E1
+Encephalopathy, Toxic	CYP3A5
+Toxic Encephalitis	CYP3A5
+Epileptic encephalopathy	ADSL
+Single Seizure	CYP11A1
+Polymyositis	CYP27B1
+Polymyositis, Idiopathic	CYP27B1
+Lissencephaly	TMTC3
+Amyotrophic Lateral Sclerosis	DAO
+Agenesis of corpus callosum	DCC
+Corpus Callosum Malformation	DCC
+Muscular Dystrophy, Facioscapulohumeral	DCN
+Alzheimer's Disease	ACE
+Brain Ischemia	ACE
+Alzheimer Disease, Late Onset	ACE
+Alzheimer's Disease, Focal Onset	ACE
+Alzheimer Disease, Early Onset	ACE
+Cerebral Ischemia	ACE
+Autosomal Recessive Primary Microcephaly	SASS6
+Amyotrophic Lateral Sclerosis	DCTN1
+Autosomal Dominant Juvenile Parkinson Disease	DCTN1
+Autosomal Dominant Parkinsonism	DCTN1
+Autosomal Recessive Parkinsonism	DCTN1
+Familial Juvenile Parkinsonism	DCTN1
+Parkinsonism, Juvenile	DCTN1
+AMYOTROPHIC LATERAL SCLEROSIS 1	DCTN1
+Amyotrophic Lateral Sclerosis, Sporadic	DCTN1
+Amyotrophic Lateral Sclerosis, Familial	DCTN1
+X-Linked Lissencephaly	DCX
+Lissencephaly, X-Linked, 1	DCX
+Parkinson Disease	DDC
+Autosomal Dominant Juvenile Parkinson Disease	DDC
+Autosomal Dominant Parkinsonism	DDC
+Autosomal Recessive Parkinsonism	DDC
+Familial Juvenile Parkinsonism	DDC
+Parkinsonism, Juvenile	DDC
+Epilepsy	DDX3X
+Myofibrillar Myopathy	DES
+Amaurosis	LCA5
+Sensorineural hearing loss, bilateral	GSDME
+Lissencephaly, X-Linked, 2	ARX
+X-linked infantile spasms	ARX
+AMYOTROPHIC LATERAL SCLEROSIS 1	GSX2
+Amyotrophic Lateral Sclerosis, Sporadic	GSX2
+Amyotrophic Lateral Sclerosis, Familial	GSX2
+Alzheimer's Disease	DHCR24
+Alzheimer Disease, Late Onset	DHCR24
+Alzheimer's Disease, Focal Onset	DHCR24
+Alzheimer Disease, Early Onset	DHCR24
+Autism Spectrum Disorders	DHCR24
+Parkinson Disease	NQO1
+Encephalopathy, Toxic	NQO1
+Toxic Encephalitis	NQO1
+Autism Spectrum Disorders	DIO2
+Autism Spectrum Disorders	DIO3
+Leigh Disease	DLD
+Autism Spectrum Disorders	DLG4
+Autism Spectrum Disorders	DLX1
+Muscular Dystrophy, Duchenne	DMD
+Muscular Dystrophy	DMD
+Status Epilepticus	DMD
+Non-Convulsive Status Epilepticus	DMD
+Becker Muscular Dystrophy	DMD
+Duchenne and Becker Muscular Dystrophy	DMD
+Duchenne or Becker muscular dystrophy	DMD
+Epilepsy	DNM1
+Lennox-Gastaut syndrome	DNM1
+Epileptic encephalopathy	DNM1
+X-linked infantile spasms	DNM1
+Muscular Dystrophy, Facioscapulohumeral	ACAN
+Myotonic Dystrophy	DMPK
+Congenital Myotonic Dystrophy	DMPK
+Lewy Body Disease	AGER
+Microcephaly	DYNC1H1
+Juvenile Spinal Muscular Atrophy	DYNC1H1
+Muscular Atrophy, Spinal, Type II	DYNC1H1
+Cortical Dysplasia	DYNC1H1
+Spinal Muscular Atrophies of Childhood	DYNC1H1
+Malformations of Cortical Development	DYNC1H1
+Muscular atrophy, spinal, infantile chronic form	DYNC1H1
+Microcephaly	DYNC1I2
+Centronuclear myopathy	DNM2
+X-linked centronuclear myopathy	DNM2
+Congenital Structural Myopathy	DNM2
+Myopathy, Centronuclear, Autosomal Dominant	DNM2
+Autosomal Recessive Centronuclear Myopathy	DNM2
+Myopathy, Centronuclear, 1	DNM2
+Hereditary Sensory Autonomic Neuropathy, Type 1	DNMT1
+Hereditary Sensory Autonomic Neuropathy, Type 2	DNMT1
+Dementia	DNMT1
+Sensory Neuropathy, Hereditary	DNMT1
+Familial Dementia	DNMT1
+Microcephaly	DNMT3A
+Autism Spectrum Disorders	DNMT3A
+Autism Spectrum Disorders	DNMT3B
+Myasthenic Syndromes, Congenital	DPAGT1
+Single Seizure	ABAT
+Amyotrophic Lateral Sclerosis	DPP6
+Microcephaly autosomal dominant	DPP6
+Amyotrophic Lateral Sclerosis With Dementia	DPP6
+Primary microcephaly	DPP6
+Autism Spectrum Disorders	DPP6
+Autism Spectrum Disorders	DPYD
+Alzheimer's Disease	DPYSL2
+Alzheimer Disease, Late Onset	DPYSL2
+Alzheimer's Disease, Focal Onset	DPYSL2
+Alzheimer Disease, Early Onset	DPYSL2
+Parkinson Disease	DRD1
+Single Seizure	DRD1
+Delirium	DRD2
+Dyskinetic syndrome	DRD2
+Parkinson Disease	DRD2
+Hemiballismus	DRD2
+Single Seizure	DRD2
+Autosomal Dominant Juvenile Parkinson Disease	DRD2
+Autosomal Dominant Parkinsonism	DRD2
+Autosomal Recessive Parkinsonism	DRD2
+Familial Juvenile Parkinsonism	DRD2
+Parkinsonism, Juvenile	DRD2
+Attention deficit hyperactivity disorder	DRD2
+Myoclonic dystonia	DRD2
+Delirium	DRD3
+Single Seizure	DRD3
+Tic disorder	DRD4
+Transient Tic Disorder	DRD4
+Childhood Tic Disorders	DRD4
+Motor Tic Disorders	DRD4
+Attention deficit hyperactivity disorder	DRD4
+Attention deficit hyperactivity disorder	DRD5
+Moyamoya Disease	JAG1
+Familial Progressive Myoclonic Epilepsy	ATN1
+Myoclonic Epilepsies, Progressive	ATN1
+Huntington Disease	RCAN1
+Huntington Disease, Late Onset	RCAN1
+Juvenile Huntington Disease	RCAN1
+Carotid Atherosclerosis	AGT
+Arterial Diseases, Common Carotid	AGT
+Single Seizure	AGT
+Tonic-Clonic Epilepsy	HBEGF
+Epilepsy, Tonic-Clonic, Familial	HBEGF
+Dandy-Walker Syndrome	DWS
+Epilepsy	DYRK1A
+Microcephaly	DYRK1A
+Idiopathic familial dystonia	TOR1A
+Focal Dystonia	TOR1A
+Autosomal Dominant Familial Dystonia	TOR1A
+Autosomal Recessive Familial Dystonia	TOR1A
+Dystonia, Primary	TOR1A
+Dystonia, Secondary	TOR1A
+Familial Dystonia	TOR1A
+Myoclonic dystonia	TOR1A
+Leigh Disease	ECHS1
+Parkinson Disease	EDN1
+Cerebrovascular Occlusion	EDN1
+Middle Cerebral Artery Thrombosis	EDN1
+Middle Cerebral Artery Occlusion	EDN1
+Infarction, Middle Cerebral Artery	EDN1
+Lewy Body Disease	EDN1
+Primary microcephaly	PHC1
+Autosomal Recessive Primary Microcephaly	PHC1
+Epilepsy	EEF1A2
+Brain Ischemia	EGR1
+Cerebral Ischemia	EGR1
+Rett Syndrome	EGR2
+Alzheimer's Disease	EIF2S1
+Status Epilepticus	EIF2S1
+Alzheimer Disease, Late Onset	EIF2S1
+Alzheimer's Disease, Focal Onset	EIF2S1
+Alzheimer Disease, Early Onset	EIF2S1
+Non-Convulsive Status Epilepticus	EIF2S1
+Epilepsy	EIF2S3
+Microcephaly	EIF2S3
+Parkinson Disease	AIF1
+Trigeminal Neuralgia	AIF1
+Trigeminal Neuralgia, Idiopathic	AIF1
+Secondary Trigeminal Neuralgia	AIF1
+Lewy Body Disease	AIF1
+Myasthenic Syndromes, Congenital	ALG14
+Alzheimer's Disease	A2M
+Alzheimer Disease, Late Onset	A2M
+Alzheimer's Disease, Focal Onset	A2M
+Alzheimer Disease, Early Onset	A2M
+Ataxia, Spinocerebellar	VWA3B
+Spinocerebellar Ataxia Type 1	VWA3B
+Spinocerebellar Ataxia Type 2	VWA3B
+Autism Spectrum Disorders	TET3
+Moyamoya Disease	ELN
+Muscular Dystrophy, Facioscapulohumeral	ELN
+Muscular Dystrophy, Emery-Dreifuss	EMD
+X-Linked Emery-Dreifuss Muscular Dystrophy	EMD
+Autosomal Recessive Emery-Dreifuss Muscular Dystrophy	EMD
+Schizencephaly	EMX2
+Familial schizencephaly	EMX2
+Autism Spectrum Disorders	EN2
+Alzheimer's Disease	ENO1
+Alzheimer Disease, Late Onset	ENO1
+Alzheimer's Disease, Focal Onset	ENO1
+Alzheimer Disease, Early Onset	ENO1
+Parkinson Disease	ENO2
+Lewy Body Disease	ENO2
+Huntington Disease	SLC29A1
+Huntington Disease, Late Onset	SLC29A1
+Alcohol Withdrawal Seizures	SLC29A1
+Juvenile Huntington Disease	SLC29A1
+Amyotrophic Lateral Sclerosis	C9orf72
+Frontotemporal dementia	C9orf72
+Amyotrophic Lateral Sclerosis With Dementia	C9orf72
+Frontotemporal Lobar Degeneration	C9orf72
+Frontotemporal Dementia With Motor Neuron Disease	C9orf72
+Alzheimer's Disease	EPHA1
+Alzheimer Disease, Late Onset	EPHA1
+Alzheimer's Disease, Focal Onset	EPHA1
+Alzheimer Disease, Early Onset	EPHA1
+Amyotrophic Lateral Sclerosis	EPHA4
+Vein of Galen aneurysm	EPHB4
+Autism Spectrum Disorders	EPHX2
+Autism Spectrum Disorders	DIPK2A
+Status Epilepticus	EPO
+Polyneuropathy	EPO
+Polyneuropathy, Motor	EPO
+Polyneuropathy, Familial	EPO
+Acquired Polyneuropathy	EPO
+Non-Convulsive Status Epilepticus	EPO
+Amyotrophic Lateral Sclerosis	ERBB4
+Epilepsy	AKT1
+Microcephaly	ERCC6
+Arnold-Chiari Malformation, Type I	ERF
+Arnold-Chiari Malformation, Type III	ERF
+Arnold-Chiari Malformation, Type IV	ERF
+Epilepsy	ERN1
+Alzheimer's Disease	ESR1
+Cervical Migraine Syndrome	ESR1
+Status Migrainosus	ESR1
+Alzheimer Disease, Late Onset	ESR1
+Alzheimer's Disease, Focal Onset	ESR1
+Alzheimer Disease, Early Onset	ESR1
+Single Seizure	ALAD
+Brain Ischemia	ALB
+Epilepsy	ALB
+Cerebral Ischemia	ALB
+Amyotrophic Lateral Sclerosis	EWSR1
+Conductive hearing loss	EYA1
+Alzheimer's Disease	F2
+Cerebral Infarction	F2
+Brain Ischemia	F2
+Sinus Thrombosis, Intracranial	F2
+Alzheimer Disease, Late Onset	F2
+Alzheimer's Disease, Focal Onset	F2
+Alzheimer Disease, Early Onset	F2
+Subcortical Infarction	F2
+Cerebral Ischemia	F2
+Spastic Paraplegia, Hereditary	ABCD1
+Adrenoleukodystrophy	ABCD1
+Cerebral Infarction	F5
+Brain Ischemia	F5
+Subcortical Infarction	F5
+Cerebral Ischemia	F5
+Autosomal Dominant Juvenile Parkinson Disease	ALDH1A1
+Autosomal Dominant Parkinsonism	ALDH1A1
+Autosomal Recessive Parkinsonism	ALDH1A1
+Familial Juvenile Parkinsonism	ALDH1A1
+Parkinsonism, Juvenile	ALDH1A1
+Huntington Disease	FAAH
+Huntington Disease, Late Onset	FAAH
+Single Seizure	FAAH
+Juvenile Huntington Disease	FAAH
+Status Epilepticus	PTK2B
+Non-Convulsive Status Epilepticus	PTK2B
+Parkinson Disease	FBP1
+Encephalitis	FCER2
+Parkinson Disease	FCER2
+Common Migraine	PHACTR1
+Muscular Dystrophy	FKTN
+Inherited neuropathies	ALDH3A2
+Parkinson Disease	FGB
+Attention deficit hyperactivity disorder	FGD1
+Tonic-Clonic Epilepsy	FGF2
+Single Seizure	FGF2
+Epilepsy, Tonic-Clonic, Familial	FGF2
+Brain Infarction	FGF2
+Sensory hearing loss	FGF3
+AMYOTROPHIC LATERAL SCLEROSIS 1	FGF6
+Amyotrophic Lateral Sclerosis, Sporadic	FGF6
+Amyotrophic Lateral Sclerosis, Familial	FGF6
+Holoprosencephaly	FGF8
+Lobar Holoprosencephaly	FGF8
+Epileptic encephalopathy	FGF12
+Inherited neuropathies	FGF14
+Lobar Holoprosencephaly	FGFR1
+Epilepsy	FGFR3
+Spina Bifida	FGFR2
+Muscular Dystrophy, Emery-Dreifuss	FHL1
+X-Linked Emery-Dreifuss Muscular Dystrophy	FHL1
+Carotid Atherosclerosis	MRAS
+Arterial Diseases, Common Carotid	MRAS
+Rett Syndrome, Atypical	NTNG1
+Juvenile Myoclonic Epilepsy	CILK1
+Charcot-Marie-Tooth Disease	MORC2
+Hereditary Motor and Sensory Neuropathy Type I	MORC2
+Epilepsy	FOXG1
+Microcephaly	FOXG1
+Single Seizure	FOXG1
+Rett Syndrome, Atypical	FOXG1
+Arnold-Chiari Malformation, Type I	DKK1
+Muscular Dystrophy, Facioscapulohumeral	DUX4L1
+Neuropathy, Hereditary Sensory, with Spastic Paraplegia, Autosomal Recessive	CCT5
+Epilepsy	P2RX2
+Dandy-Walker Syndrome	FOXC1
+Ataxia, Spinocerebellar	FOXC1
+Spinocerebellar Ataxia Type 1	FOXC1
+Spinocerebellar Ataxia Type 2	FOXC1
+Dandy-Walker Syndrome, Familial	FOXC1
+Primary microcephaly	CEP152
+Autosomal Recessive Primary Microcephaly	CEP152
+Amyotrophic Lateral Sclerosis	UNC13A
+Amyotrophic Lateral Sclerosis With Dementia	UNC13A
+Microcephaly	ZNF292
+Attention deficit hyperactivity disorder	ZNF292
+Autism Spectrum Disorders	MYT1L
+Hydrocephalus	NMNAT2
+Polyneuropathy	NMNAT2
+Cerebellar Hypoplasia	NMNAT2
+Amyotrophic Lateral Sclerosis	SETX
+Charcot-Marie-Tooth Disease	SETX
+Multiple Sclerosis	KIF1B
+Epilepsy	IQSEC2
+Inherited neuropathies	SPART
+Autosomal Recessive Primary Microcephaly	ANKLE2
+Ataxia, Spinocerebellar	CIC
+Spinocerebellar Ataxia Type 1	CIC
+Spinocerebellar Ataxia Type 2	CIC
+Attention deficit hyperactivity disorder	CIC
+Autism Spectrum Disorders	CIC
+Epilepsy	FLNA
+Epileptic encephalopathy	FLNA
+Autism Spectrum Disorders	DIP2A
+Cerebral Palsy, Spastic Quadriplegic, 1	KANK1
+Cerebral Palsy, Spastic Quadriplegic, 2	KANK1
+Spastic Paraplegia	ARL6IP1
+Muscular Dystrophy, Emery-Dreifuss	SYNE2
+X-Linked Emery-Dreifuss Muscular Dystrophy	SYNE2
+Autosomal Recessive Emery-Dreifuss Muscular Dystrophy	SYNE2
+Alzheimer's Disease	ARC
+Alzheimer Disease, Late Onset	ARC
+Alzheimer's Disease, Focal Onset	ARC
+Alzheimer Disease, Early Onset	ARC
+Common Migraine	ASTN2
+Amyotrophic Lateral Sclerosis	SCFD1
+Amyotrophic Lateral Sclerosis With Dementia	SCFD1
+Epileptic encephalopathy	DENND5A
+AMYOTROPHIC LATERAL SCLEROSIS 1	FMO1
+Amyotrophic Lateral Sclerosis, Sporadic	FMO1
+Amyotrophic Lateral Sclerosis, Familial	FMO1
+Multiple Sclerosis	CLEC16A
+Attention deficit hyperactivity disorder	ADGRL3
+Autosomal Recessive Primary Microcephaly	NCAPD3
+Dementia	SLC9A8
+Familial Dementia	SLC9A8
+Lennox-Gastaut syndrome	CUX2
+Epileptic encephalopathy	NEDD4L
+Muscular Dystrophy, Emery-Dreifuss	SYNE1
+X-Linked Emery-Dreifuss Muscular Dystrophy	SYNE1
+Autosomal Recessive Emery-Dreifuss Muscular Dystrophy	SYNE1
+Autosomal Recessive Cerebellar Ataxia Type 1	SYNE1
+Muscular Dystrophy, Facioscapulohumeral	SMCHD1
+Episodic Ataxia	UBR4
+Alzheimer's Disease	NCSTN
+Alzheimer Disease, Late Onset	NCSTN
+Alzheimer's Disease, Focal Onset	NCSTN
+Alzheimer Disease, Early Onset	NCSTN
+Microcephaly	NCAPH
+Parkinson Disease	ATP13A2
+Secondary Parkinson Disease	ATP13A2
+Complicated hereditary spastic paraplegia	ATP13A2
+Parkinson Disease, Secondary Vascular	ATP13A2
+Autosomal Dominant Juvenile Parkinson Disease	ATP13A2
+Autosomal Dominant Parkinsonism	ATP13A2
+Autosomal Recessive Parkinsonism	ATP13A2
+Familial Juvenile Parkinsonism	ATP13A2
+Parkinsonism, Juvenile	ATP13A2
+Brain Infarction	SIRT1
+Amyotrophic Lateral Sclerosis	TARDBP
+Frontotemporal dementia	TARDBP
+Amyotrophic Lateral Sclerosis With Dementia	TARDBP
+Frontotemporal Lobar Degeneration	TARDBP
+Frontotemporal Dementia With Motor Neuron Disease	TARDBP
+Autism Spectrum Disorders	HEY1
+Leigh Disease	ETHE1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	ETHE1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	ETHE1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	ETHE1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	ETHE1
+Microcephaly	BRD4
+Diastematomyelia	FOLR1
+Epilepsy	FOLR1
+Neurenteric Cyst	FOLR1
+Tethered Cord Syndrome	FOLR1
+Iniencephaly	FOLR1
+Craniorachischisis	FOLR1
+Lissencephaly	MACF1
+Diastematomyelia	FOLR2
+Neurenteric Cyst	FOLR2
+Tethered Cord Syndrome	FOLR2
+Iniencephaly	FOLR2
+Craniorachischisis	FOLR2
+Inherited neuropathies	ZFYVE26
+Epilepsy	FOS
+Status Epilepticus	FOS
+Trigeminal Neuralgia	FOS
+Encephalopathy, Toxic	FOS
+Toxic Encephalitis	FOS
+Trigeminal Neuralgia, Idiopathic	FOS
+Secondary Trigeminal Neuralgia	FOS
+Middle Cerebral Artery Thrombosis	FOS
+Middle Cerebral Artery Occlusion	FOS
+Infarction, Middle Cerebral Artery	FOS
+Single Seizure	FOS
+Non-Convulsive Status Epilepticus	FOS
+AMYOTROPHIC LATERAL SCLEROSIS 1	FOS
+Amyotrophic Lateral Sclerosis, Sporadic	FOS
+Amyotrophic Lateral Sclerosis, Familial	FOS
+Epilepsy	FOSB
+Alzheimer's Disease	CD2AP
+Alzheimer Disease, Late Onset	CD2AP
+Alzheimer's Disease, Focal Onset	CD2AP
+Alzheimer Disease, Early Onset	CD2AP
+Alzheimer's Disease	BACE1
+Alzheimer Disease, Late Onset	BACE1
+Alzheimer's Disease, Focal Onset	BACE1
+Alzheimer Disease, Early Onset	BACE1
+Microcephaly	PISD
+Brain Ischemia	IL17RA
+Cerebral Ischemia	IL17RA
+Spastic Paraplegia, Optic Atrophy, and Neuropathy	FLRT1
+Friedreich Ataxia	FXN
+Inherited neuropathies	FXN
+Middle Cerebral Artery Thrombosis	ALOX5
+Middle Cerebral Artery Occlusion	ALOX5
+Infarction, Middle Cerebral Artery	ALOX5
+Cerebral Infarction	ALOX5AP
+Encephalopathy, Toxic	ALOX5AP
+Toxic Encephalitis	ALOX5AP
+Subcortical Infarction	ALOX5AP
+Encephalopathy, Toxic	MTOR
+Toxic Encephalitis	MTOR
+Cortical Dysplasia	MTOR
+Epileptic encephalopathy	MTOR
+Malformations of Cortical Development	MTOR
+Muscular Dystrophy, Facioscapulohumeral	FRG1
+Single Seizure	ALPL
+Amyotrophic Lateral Sclerosis	FUS
+Amyotrophic Lateral Sclerosis With Dementia	FUS
+Dementia	FUS
+Juvenile amyotrophic lateral sclerosis	FUS
+Frontotemporal Dementia With Motor Neuron Disease	FUS
+Essential Tremor	GABRA1
+Juvenile Myoclonic Epilepsy	GABRA1
+Familial Tremor	GABRA1
+Epileptic encephalopathy	GABRA1
+AMYOTROPHIC LATERAL SCLEROSIS 1	GABRA1
+Amyotrophic Lateral Sclerosis, Sporadic	GABRA1
+Amyotrophic Lateral Sclerosis, Familial	GABRA1
+Myoclonic Epilepsy, Adolescent	GABRA1
+Myoclonic Epilepsy, Juvenile, 1	GABRA1
+Single Seizure	GABRA5
+Autism Spectrum Disorders	GABRA5
+Middle Cerebral Artery Thrombosis	GABRA6
+Middle Cerebral Artery Occlusion	GABRA6
+Infarction, Middle Cerebral Artery	GABRA6
+Ataxia, Spinocerebellar	SYT14
+Spinocerebellar Ataxia Type 1	SYT14
+Spinocerebellar Ataxia Type 2	SYT14
+Epilepsy	GABRB2
+Epilepsy	GABRB3
+Absence Epilepsy	GABRB3
+Primary Insomnia	GABRB3
+Lennox-Gastaut syndrome	GABRB3
+Epilepsy, Absence, Atypical	GABRB3
+Chronic Insomnia	GABRB3
+Autism Spectrum Disorders	GABRB3
+Childhood Absence Epilepsy	GABRB3
+Juvenile Absence Epilepsy	GABRB3
+Absence Seizure Disorder	GABRB3
+Juvenile Myoclonic Epilepsy	GABRD
+Epilepsy	GABRG2
+Seizure, Febrile, Simple	GABRG2
+Seizure, Febrile, Complex	GABRG2
+Encephalopathy, Toxic	GABRR2
+Toxic Encephalitis	GABRR2
+Cerebral Palsy, Spastic Quadriplegic, 1	GAD1
+Single Seizure	GAD2
+Spastic Paraplegia	RAB3GAP2
+CERVICAL DYSTONIA, PRIMARY	CIZ1
+Parkinsonism, Juvenile	FBXO7
+Parkinson Disease	GAK
+Spina Bifida	TXN2
+Primary microcephaly	POC1A
+Primary microcephaly	RTTN
+Hereditary Sensory Autonomic Neuropathy, Type 1	ATL3
+Primary microcephaly	ASPM
+Autosomal Recessive Primary Microcephaly	ASPM
+Single Seizure	GAMT
+Moyamoya Disease	SAMHD1
+Communicating Hydrocephalus	SIN3A
+Hydrocephalus	SIN3A
+Congenital Hydrocephalus	SIN3A
+Microcephaly	SIN3A
+Agenesis of corpus callosum	SIN3A
+Hydrocephalus Ex-Vacuo	SIN3A
+Obstructive Hydrocephalus	SIN3A
+Autism Spectrum Disorders	SIN3A
+Corpus Callosum Malformation	SIN3A
+Huntington Disease	GAP43
+Status Epilepticus	GAP43
+Non-Convulsive Status Epilepticus	GAP43
+Amyotrophic Lateral Sclerosis	CHMP2B
+Frontotemporal dementia	CHMP2B
+Amyotrophic Lateral Sclerosis With Dementia	CHMP2B
+Frontotemporal Lobar Degeneration	CHMP2B
+Frontotemporal Dementia With Motor Neuron Disease	CHMP2B
+AMYOTROPHIC LATERAL SCLEROSIS 1	SS18L1
+Epilepsy	CNTNAP2
+Parkinson Disease	CNTNAP2
+Autism Spectrum Disorders	CNTNAP2
+Cortical dysplasia with focal epilepsy syndrome	CNTNAP2
+Epilepsy	AUTS2
+Optic Atrophy	ABHD12
+Peripheral demyelinating neuropathy	ABHD12
+Epilepsy	TANC2
+Microcephaly	KIFBP
+Cortical Dysplasia	KIFBP
+Malformations of Cortical Development	KIFBP
+Holoprosencephaly	GAS1
+Lobar Holoprosencephaly	GAS1
+Temporal Arteritis	PTPN22
+Inherited neuropathies	SACS
+Familial Progressive Myoclonic Epilepsy	SACS
+Myoclonic Epilepsies, Progressive	SACS
+Parkinson Disease	GBA
+Autosomal Dominant Juvenile Parkinson Disease	GBA
+Autosomal Dominant Parkinsonism	GBA
+Autosomal Recessive Parkinsonism	GBA
+Familial Juvenile Parkinsonism	GBA
+Parkinsonism, Juvenile	GBA
+Lewy Body Disease	GBA
+Middle Cerebral Artery Thrombosis	FGF21
+Middle Cerebral Artery Occlusion	FGF21
+Infarction, Middle Cerebral Artery	FGF21
+Alzheimer's Disease	GAPDHS
+Alzheimer Disease, Late Onset	GAPDHS
+Alzheimer's Disease, Focal Onset	GAPDHS
+Alzheimer Disease, Early Onset	GAPDHS
+Distal Hereditary Motor Neuropathy, Type II	HSPB8
+AMYOTROPHIC LATERAL SCLEROSIS 1	GBX2
+Amyotrophic Lateral Sclerosis, Sporadic	GBX2
+Amyotrophic Lateral Sclerosis, Familial	GBX2
+Multiple Sclerosis	GC
+Spastic Paraplegia	GCH1
+Myopathies, Nemaline	SRPK3
+AMYOTROPHIC LATERAL SCLEROSIS 1	GDI1
+Amyotrophic Lateral Sclerosis, Sporadic	GDI1
+Amyotrophic Lateral Sclerosis, Familial	GDI1
+Huntington Disease	GDNF
+Parkinson Disease	GDNF
+Secondary Parkinson Disease	GDNF
+Status Epilepticus	GDNF
+Huntington Disease, Late Onset	GDNF
+Juvenile Huntington Disease	GDNF
+Parkinson Disease, Secondary Vascular	GDNF
+Non-Convulsive Status Epilepticus	GDNF
+Autosomal Dominant Juvenile Parkinson Disease	GDNF
+Autosomal Dominant Parkinsonism	GDNF
+Autosomal Recessive Parkinsonism	GDNF
+Familial Juvenile Parkinsonism	GDNF
+Parkinsonism, Juvenile	GDNF
+Alzheimer's Disease	AMFR
+Alzheimer Disease, Late Onset	AMFR
+Alzheimer's Disease, Focal Onset	AMFR
+Alzheimer Disease, Early Onset	AMFR
+Amyotrophic Lateral Sclerosis	GFAP
+Epilepsy	GFAP
+Neuromyelitis Optica	GFAP
+Parkinson Disease	GFAP
+Spina Bifida Cystica	GFAP
+Trigeminal Neuralgia	GFAP
+Alexander Disease	GFAP
+Amyotrophic Lateral Sclerosis With Dementia	GFAP
+Trigeminal Neuralgia, Idiopathic	GFAP
+Secondary Trigeminal Neuralgia	GFAP
+Lewy Body Disease	GFAP
+AMYOTROPHIC LATERAL SCLEROSIS 1	GFAP
+Amyotrophic Lateral Sclerosis, Sporadic	GFAP
+Amyotrophic Lateral Sclerosis, Familial	GFAP
+Ataxia, Spinocerebellar	GFI1
+Spinocerebellar Ataxia Type 1	GFI1
+Spinocerebellar Ataxia Type 2	GFI1
+Myasthenic Syndromes, Congenital	GFPT1
+Encephalopathy, Toxic	LAT
+Toxic Encephalitis	LAT
+AMYOTROPHIC LATERAL SCLEROSIS 1	LAT
+Amyotrophic Lateral Sclerosis, Sporadic	LAT
+Amyotrophic Lateral Sclerosis, Familial	LAT
+Charcot-Marie-Tooth disease, X-linked, 1	GJB1
+Sensory hearing loss	GJB2
+Sensory hearing loss	GJB3
+Autism Spectrum Disorders	FOXP1
+Leigh Disease	UQCRQ
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	UQCRQ
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	UQCRQ
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	UQCRQ
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	UQCRQ
+Congenital pontocerebellar hypoplasia	AMPD2
+Brain Ischemia	BBC3
+Cerebral Ischemia	BBC3
+Epilepsy	KCNH5
+Moyamoya Disease	GLA
+Ischemic stroke	GLA
+Amyotrophic Lateral Sclerosis	TNFRSF21
+Amyotrophic Lateral Sclerosis With Dementia	TNFRSF21
+Myoclonic Epilepsy	TNRC6A
+Idiopathic Myoclonic Epilepsy	TNRC6A
+Myoclonic Absence Epilepsy	TNRC6A
+Myoclonic Encephalopathy	TNRC6A
+Benign Infantile Myoclonic Epilepsy	TNRC6A
+Epilepsy, Myoclonic, Infantile	TNRC6A
+Alzheimer's Disease	PCDH11X
+Alzheimer Disease, Late Onset	PCDH11X
+Alzheimer's Disease, Focal Onset	PCDH11X
+Alzheimer Disease, Early Onset	PCDH11X
+Amyotrophic Lateral Sclerosis	GLE1
+Holoprosencephaly	GLI2
+Lobar Holoprosencephaly	GLI2
+Diastematomyelia	GLI3
+Neurenteric Cyst	GLI3
+Tethered Cord Syndrome	GLI3
+Iniencephaly	GLI3
+Craniorachischisis	GLI3
+Alzheimer's Disease	BIN1
+Centronuclear myopathy	BIN1
+X-linked centronuclear myopathy	BIN1
+Myopathy, Centronuclear, Autosomal Recessive	BIN1
+Alzheimer Disease, Late Onset	BIN1
+Alzheimer's Disease, Focal Onset	BIN1
+Alzheimer Disease, Early Onset	BIN1
+Congenital Structural Myopathy	BIN1
+Myopathy, Centronuclear, Autosomal Dominant	BIN1
+Autosomal Recessive Centronuclear Myopathy	BIN1
+Myopathy, Centronuclear, 1	BIN1
+Idiopathic familial dystonia	GLRA1
+Focal Dystonia	GLRA1
+Autosomal Dominant Familial Dystonia	GLRA1
+Autosomal Recessive Familial Dystonia	GLRA1
+Dystonia, Primary	GLRA1
+Dystonia, Secondary	GLRA1
+Familial Dystonia	GLRA1
+Autism Spectrum Disorders	GLRA2
+Transient Ischemic Attack	HTRA2
+Autosomal Dominant Juvenile Parkinson Disease	HTRA2
+Autosomal Dominant Parkinsonism	HTRA2
+Autosomal Recessive Parkinsonism	HTRA2
+Familial Juvenile Parkinsonism	HTRA2
+Parkinsonism, Juvenile	HTRA2
+Transient Cerebral Ischemia	HTRA2
+Diastematomyelia	CECR2
+Neurenteric Cyst	CECR2
+Tethered Cord Syndrome	CECR2
+Iniencephaly	CECR2
+Craniorachischisis	CECR2
+Epilepsy	GLUD1
+Idiopathic familial dystonia	GNAL
+Focal Dystonia	GNAL
+Autosomal Dominant Familial Dystonia	GNAL
+Autosomal Recessive Familial Dystonia	GNAL
+Dystonia, Primary	GNAL
+Dystonia, Secondary	GNAL
+Familial Dystonia	GNAL
+Epilepsy	GNAO1
+Epileptic encephalopathy	GNAO1
+X-linked infantile spasms	GNAO1
+Single Seizure	GNB3
+Microcephaly	GOT2
+Status Epilepticus	CCR10
+Non-Convulsive Status Epilepticus	CCR10
+Amyotrophic Lateral Sclerosis	ANG
+Microcephaly	TSEN54
+Congenital pontocerebellar hypoplasia	TSEN54
+Pontocerebellar Hypoplasia Type 1	TSEN54
+Brain Infarction	GPR17
+Microcephaly	WDR62
+Primary microcephaly	WDR62
+Cortical Dysplasia	WDR62
+Malformations of Cortical Development	WDR62
+Microcephaly, Primary Autosomal Recessive, 2	WDR62
+Autosomal Recessive Primary Microcephaly	WDR62
+Lobar Holoprosencephaly	DLL1
+Autism Spectrum Disorders	UNC80
+Myasthenic Syndromes, Congenital	DOK7
+Brain Ischemia	GPX1
+Epilepsy	GPX1
+Parkinson Disease	GPX1
+Cerebral Ischemia	GPX1
+Status Epilepticus	ANK3
+Non-Convulsive Status Epilepticus	ANK3
+Status Epilepticus	GRIA2
+Non-Convulsive Status Epilepticus	GRIA2
+AMYOTROPHIC LATERAL SCLEROSIS 1	GRIA3
+Amyotrophic Lateral Sclerosis, Sporadic	GRIA3
+Amyotrophic Lateral Sclerosis, Familial	GRIA3
+Ataxia, Spinocerebellar	GRID2
+Spinocerebellar Ataxia Type 1	GRID2
+Spinocerebellar Ataxia Type 2	GRID2
+Frontotemporal dementia	GRN
+Dementia	GRN
+Familial Dementia	GRN
+Frontotemporal Lobar Degeneration	GRN
+Attention deficit hyperactivity disorder	GIT1
+Single Seizure	GRIK1
+Trigeminal Neuralgia	GRIN1
+Trigeminal Neuralgia, Idiopathic	GRIN1
+Secondary Trigeminal Neuralgia	GRIN1
+Epileptic encephalopathy	GRIN1
+Epilepsy	GRIN2A
+Epilepsy	GRIN2B
+Epileptic encephalopathy	GRIN2B
+Autism Spectrum Disorders	GRIN2B
+Parkinson Disease	TMEM230
+Microcephaly	METTL5
+Epilepsy	GRM1
+Status Epilepticus	GRM1
+Ataxia, Spinocerebellar	GRM1
+Epilepsy, Lateral Temporal	GRM1
+Non-Convulsive Status Epilepticus	GRM1
+Spinocerebellar Ataxia Type 1	GRM1
+Spinocerebellar Ataxia Type 2	GRM1
+Attention deficit hyperactivity disorder	GRM1
+Amyotrophic Lateral Sclerosis	TBK1
+Frontotemporal Lobar Degeneration	TBK1
+Frontotemporal Dementia With Motor Neuron Disease	TBK1
+Epilepsy, Lateral Temporal	GRM2
+Epilepsy	ANKRD11
+Autism Spectrum Disorders	ANKRD11
+Epilepsy, Lateral Temporal	GRM3
+Epilepsy, Lateral Temporal	GRM4
+Status Epilepticus	GRM5
+Diabetic Mononeuropathy	GRM5
+Diabetic Amyotrophy	GRM5
+Diabetic Autonomic Neuropathy	GRM5
+Epilepsy, Lateral Temporal	GRM5
+Diabetic Neuralgia	GRM5
+Non-Convulsive Status Epilepticus	GRM5
+Attention deficit hyperactivity disorder	GRM5
+Attention deficit hyperactivity disorder	GRM7
+Attention deficit hyperactivity disorder	GRM8
+Middle Cerebral Artery Thrombosis	CXCL2
+Middle Cerebral Artery Occlusion	CXCL2
+Infarction, Middle Cerebral Artery	CXCL2
+Alzheimer's Disease	GSK3B
+Alzheimer Disease, Late Onset	GSK3B
+Alzheimer's Disease, Focal Onset	GSK3B
+Alzheimer Disease, Early Onset	GSK3B
+Familial Amyloid Polyneuropathy, Type IV	GSN
+Amyotrophic Lateral Sclerosis	GSR
+Amyotrophic Lateral Sclerosis With Dementia	GSR
+Autosomal Dominant Juvenile Parkinson Disease	GSR
+Autosomal Dominant Parkinsonism	GSR
+Autosomal Recessive Parkinsonism	GSR
+Familial Juvenile Parkinsonism	GSR
+Parkinsonism, Juvenile	GSR
+Parkinson Disease	GSTA4
+Parkinson Disease	GSTM1
+Amyotrophic Lateral Sclerosis	GSTP1
+Parkinson Disease	GSTP1
+Essential Tremor	GSTP1
+Amyotrophic Lateral Sclerosis With Dementia	GSTP1
+Familial Tremor	GSTP1
+Carotid Atherosclerosis	GSTP1
+Arterial Diseases, Common Carotid	GSTP1
+Muscular Dystrophy, Facioscapulohumeral	GSTT2
+Autism Spectrum Disorders	GTF2I
+Autosomal Recessive Primary Microcephaly	PYCR2
+Myasthenic Syndromes, Congenital	GMPPB
+Amyotrophic Lateral Sclerosis	UBQLN2
+Microcephaly	DONSON
+Cerebral Infarction	HBA1
+Subcortical Infarction	HBA1
+Parkinson Disease	HBG1
+Carotid Artery Thrombosis	SERPIND1
+Common Carotid Artery Thrombosis	SERPIND1
+External Carotid Artery Thrombosis	SERPIND1
+Huntington Disease	HTT
+Huntington Disease, Late Onset	HTT
+Juvenile Huntington Disease	HTT
+Myoclonic Epilepsy	HEXB
+Alzheimer's Disease	HFE
+Parkinson Disease	HFE
+Alzheimer Disease, Late Onset	HFE
+Alzheimer's Disease, Focal Onset	HFE
+Alzheimer Disease, Early Onset	HFE
+Autism Spectrum Disorders	HFE
+Parkinson Disease	HGF
+Diabetic Mononeuropathy	HGF
+Diabetic Amyotrophy	HGF
+Diabetic Autonomic Neuropathy	HGF
+Diabetic Neuralgia	HGF
+Brain Ischemia	HIF1A
+Cerebral Ischemia	HIF1A
+Acquired Neuromyotonia	HINT1
+Inherited Peripheral Neuropathy	HINT1
+Dermatomyositis	HLA-B
+Moyamoya Disease	HLA-B
+Adult type dermatomyositis	HLA-B
+Dermatomyositis, Childhood Type	HLA-B
+Amyotrophic Lateral Sclerosis	ANXA11
+Multiple Sclerosis	HLA-DPB1
+Moyamoya Disease	HLA-DQB1
+Multiple Sclerosis	HLA-DQB1
+Multiple Sclerosis	HLA-DRA
+Parkinson Disease	HLA-DRA
+Moyamoya Disease	HLA-DRB1
+Multiple Sclerosis	HLA-DRB1
+Alzheimer's Disease	HLA-DRB5
+Parkinson Disease	HLA-DRB5
+Alzheimer Disease, Late Onset	HLA-DRB5
+Alzheimer's Disease, Focal Onset	HLA-DRB5
+Alzheimer Disease, Early Onset	HLA-DRB5
+Neuropathy, Painful	HMGB1
+Alzheimer's Disease	HMOX1
+Parkinson Disease	HMOX1
+Status Epilepticus	HMOX1
+Adrenoleukodystrophy	HMOX1
+Alzheimer Disease, Late Onset	HMOX1
+Carotid Atherosclerosis	HMOX1
+Alzheimer's Disease, Focal Onset	HMOX1
+Alzheimer Disease, Early Onset	HMOX1
+Arterial Diseases, Common Carotid	HMOX1
+Non-Convulsive Status Epilepticus	HMOX1
+Myoclonic dystonia	DYT15
+Amyotrophic Lateral Sclerosis	HNRNPA1
+Amyotrophic Lateral Sclerosis	HNRNPA2B1
+Epilepsy	HNRNPU
+Epileptic encephalopathy	HNRNPU
+Charcot-Marie-Tooth Disease	HOXD10
+Hereditary Motor and Sensory Neuropathy Type I	HOXD10
+Holoprosencephaly	HPE1
+Cortical Dysplasia	HRAS
+Malformations of Cortical Development	HRAS
+Single Seizure	APEX1
+AMYOTROPHIC LATERAL SCLEROSIS 1	HSF1
+Amyotrophic Lateral Sclerosis, Sporadic	HSF1
+Amyotrophic Lateral Sclerosis, Familial	HSF1
+Inherited neuropathies	DNAJB2
+Parkinson Disease	HSPA1A
+Muscular Dystrophy, Facioscapulohumeral	HSPA1B
+Muscular Dystrophy, Facioscapulohumeral	HSPA4
+AMYOTROPHIC LATERAL SCLEROSIS 1	XIAP
+Amyotrophic Lateral Sclerosis, Sporadic	XIAP
+Amyotrophic Lateral Sclerosis, Familial	XIAP
+Parkinson Disease	HSPA9
+Status Epilepticus	HSPB1
+Non-Convulsive Status Epilepticus	HSPB1
+Distal Hereditary Motor Neuropathy, Type II	HSPB1
+Middle Cerebral Artery Thrombosis	HSPD1
+Middle Cerebral Artery Occlusion	HSPD1
+Infarction, Middle Cerebral Artery	HSPD1
+Cortical Dysplasia	NDST1
+Malformations of Cortical Development	NDST1
+Single Seizure	HTR1A
+Single Seizure	HTR1B
+Cervical Migraine Syndrome	HTR2A
+Dyskinetic syndrome	HTR2A
+Hemiballismus	HTR2A
+Status Migrainosus	HTR2A
+Microcephaly	IARS1
+Brain Ischemia	ICAM1
+Multiple Sclerosis	ICAM1
+Middle Cerebral Artery Thrombosis	ICAM1
+Middle Cerebral Artery Occlusion	ICAM1
+Infarction, Middle Cerebral Artery	ICAM1
+Cerebral Ischemia	ICAM1
+Multiple Sclerosis	IRF8
+Myofibrillar Myopathy	KY
+Epilepsy	NEXMIF
+AMYOTROPHIC LATERAL SCLEROSIS 1	OTOG
+Amyotrophic Lateral Sclerosis, Sporadic	OTOG
+Amyotrophic Lateral Sclerosis, Familial	OTOG
+Alzheimer's Disease	APOC1
+Alzheimer Disease, Late Onset	APOC1
+Alzheimer's Disease, Focal Onset	APOC1
+Alzheimer Disease, Early Onset	APOC1
+Alzheimer's Disease	IDE
+Alzheimer Disease, Late Onset	IDE
+Alzheimer's Disease, Focal Onset	IDE
+Alzheimer Disease, Early Onset	IDE
+Single Seizure	IDH2
+Ataxia, Spinocerebellar	ATXN1L
+Spinocerebellar Ataxia Type 1	ATXN1L
+Spinocerebellar Ataxia Type 2	ATXN1L
+Epilepsy	KCNT2
+Ataxia, Spinocerebellar	TGM6
+Spinocerebellar Ataxia Type 1	TGM6
+Spinocerebellar Ataxia Type 2	TGM6
+Optic Neuropathy, Ischemic	IFNA2
+Anterior Ischemic Optic Neuropathy	IFNA2
+Posterior Ischemic Optic Neuropathy	IFNA2
+Multiple Sclerosis	IFNB1
+Single Seizure	IFNB1
+Diastematomyelia	IFNG
+Multiple Sclerosis	IFNG
+Neurenteric Cyst	IFNG
+Tethered Cord Syndrome	IFNG
+Iniencephaly	IFNG
+Craniorachischisis	IFNG
+Adrenoleukodystrophy	IFNG
+Autism Spectrum Disorders	LRRTM3
+Cortical Dysplasia	TUBB2B
+Malformations of Cortical Development	TUBB2B
+Alzheimer's Disease	IGF1
+Delirium	IGF1
+Alzheimer Disease, Late Onset	IGF1
+Middle Cerebral Artery Thrombosis	IGF1
+Middle Cerebral Artery Occlusion	IGF1
+Infarction, Middle Cerebral Artery	IGF1
+Alzheimer's Disease, Focal Onset	IGF1
+Alzheimer Disease, Early Onset	IGF1
+Alzheimer's Disease	APOE
+Carotid Stenosis	APOE
+Delirium	APOE
+Multiple Sclerosis	APOE
+Cerebral Amyloid Angiopathy	APOE
+Sporadic Cerebral Amyloid Angiopathy	APOE
+Alzheimer Disease, Late Onset	APOE
+Carotid Atherosclerosis	APOE
+Alzheimer's Disease, Focal Onset	APOE
+Alzheimer Disease, Early Onset	APOE
+Arterial Diseases, Common Carotid	APOE
+Single Seizure	APOE
+Common Carotid Artery Stenosis	APOE
+External Carotid Artery Stenosis	APOE
+Multiple Sclerosis, Relapsing-Remitting	APOE
+ALZHEIMER DISEASE 4	APOE
+ALZHEIMER DISEASE 2	APOE
+Alzheimer's Disease	IGF1R
+Parkinson Disease	IGF1R
+Alzheimer Disease, Late Onset	IGF1R
+Alzheimer's Disease, Focal Onset	IGF1R
+Alzheimer Disease, Early Onset	IGF1R
+Lewy Body Disease	IGF1R
+Alzheimer's Disease	IGF2
+Parkinson Disease	IGF2
+Alzheimer Disease, Late Onset	IGF2
+Alzheimer's Disease, Focal Onset	IGF2
+Alzheimer Disease, Early Onset	IGF2
+Lewy Body Disease	IGF2
+Alzheimer's Disease	IGF2R
+Parkinson Disease	IGF2R
+Alzheimer Disease, Late Onset	IGF2R
+Alzheimer's Disease, Focal Onset	IGF2R
+Alzheimer Disease, Early Onset	IGF2R
+Lewy Body Disease	IGF2R
+Epilepsy	HCN1
+Single Seizure	HCN1
+X-linked infantile spasms	HCN1
+Myositis	IGHG1
+Infectious Myositis	IGHG1
+Idiopathic Inflammatory Myopathies	IGHG1
+Myositis, Focal	IGHG1
+Myositis	IGHG2
+Infectious Myositis	IGHG2
+Idiopathic Inflammatory Myopathies	IGHG2
+Myositis, Focal	IGHG2
+Alzheimer's Disease	APP
+Cerebral Amyloid Angiopathy	APP
+Sporadic Cerebral Amyloid Angiopathy	APP
+Alzheimer Disease, Late Onset	APP
+Dementia	APP
+Alzheimer's Disease, Focal Onset	APP
+Alzheimer Disease, Early Onset	APP
+Familial Dementia	APP
+Ischemic stroke	APP
+Myositis	IGKC
+Infectious Myositis	IGKC
+Idiopathic Inflammatory Myopathies	IGKC
+Myositis, Focal	IGKC
+Multiple Sclerosis	RBPJ
+Brain Ischemia	IL1A
+Dermatomyositis	IL1A
+Polymyositis	IL1A
+Chronic progressive external ophthalmoplegia	IL1A
+Adult type dermatomyositis	IL1A
+Dermatomyositis, Childhood Type	IL1A
+Polymyositis, Idiopathic	IL1A
+Cerebral Ischemia	IL1A
+Alzheimer's Disease	IL1B
+Brain Ischemia	IL1B
+Dermatomyositis	IL1B
+Multiple Sclerosis	IL1B
+Trigeminal Neuralgia	IL1B
+Polymyositis	IL1B
+Chronic progressive external ophthalmoplegia	IL1B
+Adult type dermatomyositis	IL1B
+Dermatomyositis, Childhood Type	IL1B
+Trigeminal Neuralgia, Idiopathic	IL1B
+Secondary Trigeminal Neuralgia	IL1B
+Alzheimer Disease, Late Onset	IL1B
+Polymyositis, Idiopathic	IL1B
+Middle Cerebral Artery Thrombosis	IL1B
+Middle Cerebral Artery Occlusion	IL1B
+Infarction, Middle Cerebral Artery	IL1B
+Alzheimer's Disease, Focal Onset	IL1B
+Alzheimer Disease, Early Onset	IL1B
+Single Seizure	IL1B
+Cerebral Ischemia	IL1B
+Brain Ischemia	IL1RN
+Delirium	IL1RN
+Multiple Sclerosis	IL1RN
+Myositis	IL1RN
+Status Epilepticus	IL1RN
+Infectious Myositis	IL1RN
+Idiopathic Inflammatory Myopathies	IL1RN
+Myositis, Focal	IL1RN
+Non-Convulsive Status Epilepticus	IL1RN
+Cerebral Ischemia	IL1RN
+Multiple Sclerosis	IL2RA
+Carotid Atherosclerosis	FASLG
+Arterial Diseases, Common Carotid	FASLG
+Intracranial Arteriovenous Malformation	IL6
+Brain Ischemia	IL6
+Delirium	IL6
+Parkinson Disease	IL6
+Polymyositis	IL6
+Polymyositis, Idiopathic	IL6
+Middle Cerebral Artery Thrombosis	IL6
+Middle Cerebral Artery Occlusion	IL6
+Infarction, Middle Cerebral Artery	IL6
+Single Seizure	IL6
+Cerebral Ischemia	IL6
+Middle Cerebral Artery Thrombosis	IL6ST
+Middle Cerebral Artery Occlusion	IL6ST
+Infarction, Middle Cerebral Artery	IL6ST
+Multiple Sclerosis	IL7
+Multiple Sclerosis	IL7R
+Delirium	CXCL8
+Middle Cerebral Artery Thrombosis	CXCR2
+Middle Cerebral Artery Occlusion	CXCR2
+Infarction, Middle Cerebral Artery	CXCR2
+Multiple Sclerosis	IL10
+Brain Ischemia	IL10RB
+Cerebral Ischemia	IL10RB
+Middle Cerebral Artery Thrombosis	IL11
+Middle Cerebral Artery Occlusion	IL11
+Infarction, Middle Cerebral Artery	IL11
+Multiple Sclerosis	IL12A
+Brain Ischemia	IL12RB1
+Cerebral Ischemia	IL12RB1
+Brain Ischemia	IL17A
+Multiple Sclerosis	IL17A
+Cerebral Ischemia	IL17A
+Brain Ischemia	IL18
+Cerebral Ischemia	IL18
+Neuromyelitis Optica	AQP4
+Status Epilepticus	AQP4
+Non-Convulsive Status Epilepticus	AQP4
+Transient Ischemic Attack	ILK
+Epilepsy	ILK
+Transient Cerebral Ischemia	ILK
+Single Seizure	IMPA1
+Seizure, Febrile, Simple	IMPA2
+Seizure, Febrile, Complex	IMPA2
+Brain Ischemia	CXCL10
+Cerebral Ischemia	CXCL10
+Alzheimer's Disease	INS
+Diastematomyelia	INS
+Neurenteric Cyst	INS
+Parkinson Disease	INS
+Tethered Cord Syndrome	INS
+Iniencephaly	INS
+Craniorachischisis	INS
+Alzheimer Disease, Late Onset	INS
+Alzheimer's Disease, Focal Onset	INS
+Alzheimer Disease, Early Onset	INS
+Single Seizure	INS
+Lewy Body Disease	INS
+Alzheimer's Disease	INPP5D
+Alzheimer Disease, Late Onset	INPP5D
+Alzheimer's Disease, Focal Onset	INPP5D
+Alzheimer Disease, Early Onset	INPP5D
+Alzheimer's Disease	INSR
+Parkinson Disease	INSR
+Diabetic Mononeuropathy	INSR
+Diabetic Amyotrophy	INSR
+Diabetic Autonomic Neuropathy	INSR
+Alzheimer Disease, Late Onset	INSR
+Alzheimer's Disease, Focal Onset	INSR
+Alzheimer Disease, Early Onset	INSR
+Diabetic Neuralgia	INSR
+Lewy Body Disease	INSR
+Carotid Artery Thrombosis	ITGA2B
+Common Carotid Artery Thrombosis	ITGA2B
+External Carotid Artery Thrombosis	ITGA2B
+Moyamoya Disease	ABCC6
+Carotid Artery Thrombosis	ITGB3
+Common Carotid Artery Thrombosis	ITGB3
+External Carotid Artery Thrombosis	ITGB3
+Autism Spectrum Disorders	ITGB3
+Inherited neuropathies	ITPR1
+AMYOTROPHIC LATERAL SCLEROSIS 1	JAK3
+Amyotrophic Lateral Sclerosis, Sporadic	JAK3
+Amyotrophic Lateral Sclerosis, Familial	JAK3
+Autism Spectrum Disorders	JARID2
+Brain Ischemia	JUN
+Status Epilepticus	JUN
+Non-Convulsive Status Epilepticus	JUN
+Cerebral Ischemia	JUN
+Status Epilepticus	JUNB
+Middle Cerebral Artery Thrombosis	JUNB
+Middle Cerebral Artery Occlusion	JUNB
+Infarction, Middle Cerebral Artery	JUNB
+Non-Convulsive Status Epilepticus	JUNB
+Status Epilepticus	JUND
+Non-Convulsive Status Epilepticus	JUND
+AMYOTROPHIC LATERAL SCLEROSIS 1	JUND
+Amyotrophic Lateral Sclerosis, Sporadic	JUND
+Amyotrophic Lateral Sclerosis, Familial	JUND
+Inherited neuropathies	KCNA1
+Episodic ataxia type 1	KCNA1
+Episodic Ataxia	KCNA1
+Epileptic encephalopathy	KCNA2
+Single Seizure	KCNA2
+Leigh Disease	NDUFS7
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFS7
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFS7
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFS7
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFS7
+Familial Progressive Myoclonic Epilepsy	KCNC1
+Myoclonic Epilepsies, Progressive	KCNC1
+Inherited neuropathies	KCNC3
+Epilepsy, Lateral Temporal	KCNC4
+Parkinson Disease	DRAXIN
+Epilepsy	KCND2
+Epilepsy	KCNH1
+Myasthenic Syndromes, Congenital	AGRN
+Familial Periodic Paralysis	KCNJ2
+Parkinson Disease	KCNJ4
+Multiple Sclerosis	KCNJ10
+Single Seizure	KCNJ11
+Status Epilepticus	KCNMA1
+Non-Convulsive Status Epilepticus	KCNMA1
+Epilepsy	KCNQ2
+Familial benign neonatal epilepsy	KCNQ2
+Benign neonatal epilepsy	KCNQ2
+Single Seizure	KCNQ2
+Familial benign neonatal epilepsy	KCNQ3
+Juvenile Myoclonic Epilepsy	KCNQ3
+Familial Progressive Myoclonic Epilepsy	NHLRC1
+Myoclonic Epilepsies, Progressive	NHLRC1
+Epilepsy, Lateral Temporal	KDR
+Microcephaly	KIF2A
+Cortical Dysplasia	KIF2A
+Malformations of Cortical Development	KIF2A
+AMYOTROPHIC LATERAL SCLEROSIS 1	KIF3C
+Amyotrophic Lateral Sclerosis, Sporadic	KIF3C
+Amyotrophic Lateral Sclerosis, Familial	KIF3C
+Spastic Paraplegia, Hereditary	KIF5A
+Inherited neuropathies	KIF5A
+Single Seizure	ACAT1
+Microcephaly	KIF5C
+Cortical Dysplasia	KIF5C
+Malformations of Cortical Development	KIF5C
+Carotid Artery Thrombosis	KLKB1
+Common Carotid Artery Thrombosis	KLKB1
+External Carotid Artery Thrombosis	KLKB1
+Intracranial Arteriovenous Malformation	KRAS
+Aphasia	L1CAM
+Aphasia, Acquired	L1CAM
+Spastic Paraplegia, Hereditary	L1CAM
+Aphasia, Global	L1CAM
+X-linked hydrocephalus syndrome	L1CAM
+Aphasia, Progressive	L1CAM
+Aphasia, Mixed	L1CAM
+Inherited neuropathies	L1CAM
+Nemaline Myopathy, Childhood Onset	KBTBD13
+Muscular Dystrophy	LAMA2
+Lissencephaly	LAMB1
+Myasthenic Syndromes, Congenital	LAMB2
+Status Epilepticus	LAMP2
+Non-Convulsive Status Epilepticus	LAMP2
+Epilepsy	AGMO
+Microcephaly	AGMO
+AMYOTROPHIC LATERAL SCLEROSIS 1	LDLR
+Amyotrophic Lateral Sclerosis, Sporadic	LDLR
+Amyotrophic Lateral Sclerosis, Familial	LDLR
+Alzheimer's Disease	LEP
+Alzheimer Disease, Late Onset	LEP
+Alzheimer's Disease, Focal Onset	LEP
+Alzheimer Disease, Early Onset	LEP
+Single Seizure	LEP
+Diabetic Mononeuropathy	LEPR
+Diabetic Amyotrophy	LEPR
+Diabetic Autonomic Neuropathy	LEPR
+Diabetic Neuralgia	LEPR
+Single Seizure	LETM1
+Delirium	LIF
+Microcephaly	LIG4
+Muscular Dystrophy, Emery-Dreifuss	LMNA
+X-Linked Emery-Dreifuss Muscular Dystrophy	LMNA
+Autosomal Recessive Emery-Dreifuss Muscular Dystrophy	LMNA
+Pelizaeus-Merzbacher Disease	LMNB1
+Adult Pelizaeus-Merzbacher Disease	LMNB1
+Pelizaeus-Merzbacher Disease, Atypical	LMNB1
+Amyotrophic Lateral Sclerosis	CHCHD10
+Frontotemporal Dementia With Motor Neuron Disease	CHCHD10
+Primary Insomnia	LMX1B
+Chronic Insomnia	LMX1B
+Myoclonic Epilepsy	SAMD12
+Idiopathic Myoclonic Epilepsy	SAMD12
+Myoclonic Absence Epilepsy	SAMD12
+Myoclonic Encephalopathy	SAMD12
+Benign Infantile Myoclonic Epilepsy	SAMD12
+Epilepsy, Myoclonic, Infantile	SAMD12
+Cervical Migraine Syndrome	LRP1
+Common Migraine	LRP1
+Status Migrainosus	LRP1
+Sensory hearing loss	LRP2
+Myasthenic Syndromes, Congenital	LRP4
+Microcephaly	LSS
+Muscular Dystrophy, Facioscapulohumeral	LUM
+Alzheimer's Disease	MIR100
+Alzheimer Disease, Late Onset	MIR100
+Alzheimer's Disease, Focal Onset	MIR100
+Alzheimer Disease, Early Onset	MIR100
+Alzheimer's Disease	MIR146A
+Alzheimer Disease, Late Onset	MIR146A
+Alzheimer's Disease, Focal Onset	MIR146A
+Alzheimer Disease, Early Onset	MIR146A
+Parkinson Disease	MIR181C
+Alzheimer's Disease	MIR296
+Alzheimer Disease, Late Onset	MIR296
+Alzheimer's Disease, Focal Onset	MIR296
+Alzheimer Disease, Early Onset	MIR296
+Microcephaly	MIR17HG
+Cerebellar Hypoplasia	MAB21L1
+Parkinson Disease	MAG
+Lewy Body Disease	MAG
+Brain Ischemia	ASIC1
+Cerebral Ischemia	ASIC1
+Leukodystrophy, Metachromatic	ARSA
+Metachromatic leukodystrophy, juvenile type	ARSA
+Attention deficit hyperactivity disorder	STS
+Huntington Disease	MAOA
+Parkinson Disease	MAOA
+Huntington Disease, Late Onset	MAOA
+Juvenile Huntington Disease	MAOA
+Alzheimer's Disease	MAOB
+Huntington Disease	MAOB
+Parkinson Disease	MAOB
+Huntington Disease, Late Onset	MAOB
+Alzheimer Disease, Late Onset	MAOB
+Alzheimer's Disease, Focal Onset	MAOB
+Alzheimer Disease, Early Onset	MAOB
+Juvenile Huntington Disease	MAOB
+Parkinson Disease	MAP2
+Lewy Body Disease	MAP2
+Alzheimer's Disease	MAPT
+Parkinson Disease	MAPT
+Progressive supranuclear palsy	MAPT
+Frontotemporal dementia	MAPT
+Alzheimer Disease, Late Onset	MAPT
+Dementia	MAPT
+Alzheimer's Disease, Focal Onset	MAPT
+Alzheimer Disease, Early Onset	MAPT
+Familial Dementia	MAPT
+Autosomal Dominant Juvenile Parkinson Disease	MAPT
+Autosomal Dominant Parkinsonism	MAPT
+Autosomal Recessive Parkinsonism	MAPT
+Familial Juvenile Parkinsonism	MAPT
+Parkinsonism, Juvenile	MAPT
+Supranuclear Palsy, Progressive, 1, Atypical	MAPT
+Ophthalmoplegia, Progressive Supranuclear	MAPT
+Supranuclear Palsy, Progressive, 1	MAPT
+Neuromyelitis Optica	MBP
+Multiple Sclerosis	MCAM
+Immune Disorders, Nervous System	MCAM
+Epilepsy	MECP2
+Rett Syndrome	MECP2
+Single Seizure	MECP2
+Epilepsy	MEF2C
+Status Epilepticus	MEF2C
+Non-Convulsive Status Epilepticus	MEF2C
+Autism Spectrum Disorders	MEF2C
+Common Migraine	MEF2D
+Primary Insomnia	MEIS1
+Restless Legs Syndrome	MEIS1
+Chronic Insomnia	MEIS1
+Parkinson Disease	MAP3K5
+Carotid Stenosis	CXCL9
+Common Carotid Artery Stenosis	CXCL9
+External Carotid Artery Stenosis	CXCL9
+Alzheimer's Disease	ACHE
+Muscular Dystrophy	ACHE
+Alzheimer Disease, Late Onset	ACHE
+Alzheimer's Disease, Focal Onset	ACHE
+Alzheimer Disease, Early Onset	ACHE
+Single Seizure	ACHE
+Ataxia, Spinocerebellar	MME
+Diabetic Mononeuropathy	MME
+Diabetic Amyotrophy	MME
+Diabetic Autonomic Neuropathy	MME
+Diabetic Neuralgia	MME
+Spinocerebellar Ataxia Type 1	MME
+Spinocerebellar Ataxia Type 2	MME
+Diabetic Mononeuropathy	MMP2
+Diabetic Amyotrophy	MMP2
+Diabetic Autonomic Neuropathy	MMP2
+Diabetic Neuralgia	MMP2
+Brain Ischemia	MMP9
+Diabetic Mononeuropathy	MMP9
+Diabetic Amyotrophy	MMP9
+Diabetic Autonomic Neuropathy	MMP9
+Middle Cerebral Artery Thrombosis	MMP9
+Middle Cerebral Artery Occlusion	MMP9
+Infarction, Middle Cerebral Artery	MMP9
+Diabetic Neuralgia	MMP9
+Cerebral Ischemia	MMP9
+Polymicrogyria	MN1
+X-Linked Lissencephaly	MNT
+Lissencephaly, X-Linked, 1	MNT
+Amyotrophic Lateral Sclerosis	MOBP
+Progressive supranuclear palsy	MOBP
+Amyotrophic Lateral Sclerosis With Dementia	MOBP
+Ophthalmoplegia, Progressive Supranuclear	MOBP
+Supranuclear Palsy, Progressive, 1	MOBP
+Alzheimer's Disease	MPO
+Brain Ischemia	MPO
+Alzheimer Disease, Late Onset	MPO
+Alzheimer's Disease, Focal Onset	MPO
+Alzheimer Disease, Early Onset	MPO
+Cerebral Ischemia	MPO
+Charcot-Marie-Tooth Disease	MPZ
+Hereditary Motor and Sensory Neuropathy Type I	MPZ
+Autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain	MPZ
+Inherited neuropathies	MRE11
+Communicating Hydrocephalus	CCDC88C
+Hydrocephalus	CCDC88C
+Congenital Hydrocephalus	CCDC88C
+Ataxia, Spinocerebellar	CCDC88C
+Hydrocephalus Ex-Vacuo	CCDC88C
+Obstructive Hydrocephalus	CCDC88C
+Spinocerebellar Ataxia Type 1	CCDC88C
+Spinocerebellar Ataxia Type 2	CCDC88C
+Single Seizure	MT3
+Leigh Disease	ATP6
+Epilepsy, Lateral Temporal	COX3
+Diastematomyelia	MTHFD1
+Neurenteric Cyst	MTHFD1
+Tethered Cord Syndrome	MTHFD1
+Iniencephaly	MTHFD1
+Craniorachischisis	MTHFD1
+Spina bifida aperta of cervical spine	MTHFD1
+Alzheimer's Disease	MTHFR
+Anencephaly	MTHFR
+Brain Ischemia	MTHFR
+Diastematomyelia	MTHFR
+Neurenteric Cyst	MTHFR
+Parkinson Disease	MTHFR
+Sinus Thrombosis, Intracranial	MTHFR
+Spina Bifida	MTHFR
+Tethered Cord Syndrome	MTHFR
+Iniencephaly	MTHFR
+Craniorachischisis	MTHFR
+Alzheimer Disease, Late Onset	MTHFR
+Alzheimer's Disease, Focal Onset	MTHFR
+Alzheimer Disease, Early Onset	MTHFR
+Cerebral Ischemia	MTHFR
+Spina bifida aperta of cervical spine	MTHFR
+Centronuclear myopathy	MTM1
+X-linked centronuclear myopathy	MTM1
+Congenital Structural Myopathy	MTM1
+Myopathy, Centronuclear, Autosomal Dominant	MTM1
+Autosomal Recessive Centronuclear Myopathy	MTM1
+Myopathy, Centronuclear, 1	MTM1
+Leigh Disease	ND3
+Leigh Disease	ND5
+Leigh Disease	ND6
+Autism Spectrum Disorders	MTNR1A
+Autism Spectrum Disorders	MTNR1B
+Inherited neuropathies	MTTP
+Mitochondrial Myopathy with Diabetes	TRNE
+Chronic progressive external ophthalmoplegia	TRNL1
+Chronic progressive external ophthalmoplegia	TRNL2
+Chronic progressive external ophthalmoplegia	TRNN
+Chronic progressive external ophthalmoplegia	TRNS1
+Myasthenic Syndromes, Congenital	MUSK
+Epilepsy	ASTN1
+Myopathy, Centronuclear, Autosomal Dominant	MYF6
+Cerebral Thrombosis	SERPINC1
+Intracranial Thrombosis	SERPINC1
+Brain Thrombosis	SERPINC1
+Centronuclear myopathy	MYH7
+X-linked centronuclear myopathy	MYH7
+X-Linked Emery-Dreifuss Muscular Dystrophy	MYH7
+Congenital Structural Myopathy	MYH7
+Tibial Muscular Dystrophy	MYH7
+Myopathy, Centronuclear, Autosomal Dominant	MYH7
+Scapuloperoneal myopathy	MYH7
+Autosomal Recessive Centronuclear Myopathy	MYH7
+Myopathy, Centronuclear, 1	MYH7
+Distal Myopathy 1	MYH7
+Sensorineural hearing loss, bilateral	MYO1C
+Holoprosencephaly	PPP1R12A
+Middle Cerebral Artery Thrombosis	ATF3
+Middle Cerebral Artery Occlusion	ATF3
+Infarction, Middle Cerebral Artery	ATF3
+Juvenile Spinal Muscular Atrophy	NAIP
+Muscular Atrophy, Spinal, Type II	NAIP
+Muscular atrophy, spinal, infantile chronic form	NAIP
+Parkinson Disease	CEACAM6
+Leigh Disease	NDUFA1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFA1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFA1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFA1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFA1
+Leigh Disease	NDUFA2
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFA2
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFA2
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFA2
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFA2
+Myopathies, Nemaline	NEB
+Nemaline Myopathy, Childhood Onset	NEB
+Nemaline Myopathy 2	NEB
+Leigh Disease	NDUFA9
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFA9
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFA9
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFA9
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFA9
+Leigh Disease	NDUFA10
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFA10
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFA10
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFA10
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFA10
+Amaurosis	ATIC
+Leigh Disease	NDUFS1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFS1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFS1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFS1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFS1
+Inherited neuropathies	ATM
+Leigh Disease	NDUFS2
+Leigh Disease	NDUFS3
+Optic Atrophy	NDUFS3
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFS3
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFS3
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFS3
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFS3
+Leigh Disease	NDUFV1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFV1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFV1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFV1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFV1
+Leigh Disease	NDUFS4
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFS4
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFS4
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFS4
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFS4
+Leigh Disease	NDUFS8
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFS8
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFS8
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFS8
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFS8
+Leigh Disease	NDUFV2
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFV2
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFV2
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFV2
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFV2
+Amyotrophic Lateral Sclerosis	NEFH
+AMYOTROPHIC LATERAL SCLEROSIS 1	NEFH
+Amyotrophic Lateral Sclerosis, Sporadic	NEFH
+Amyotrophic Lateral Sclerosis, Familial	NEFH
+Myopathies, Nemaline	NEFL
+Amyotrophic Lateral Sclerosis	NEK1
+Amyotrophic Lateral Sclerosis With Dementia	NEK1
+Familial Progressive Myoclonic Epilepsy	NEU1
+Myoclonic Epilepsies, Progressive	NEU1
+Moyamoya Disease	NF1
+Microcephaly	ATP1A2
+Familial benign neonatal epilepsy	ATP1A2
+Autosomal Dominant Juvenile Parkinson Disease	ATP1A3
+Autosomal Dominant Parkinsonism	ATP1A3
+Autosomal Recessive Parkinsonism	ATP1A3
+Familial Juvenile Parkinsonism	ATP1A3
+Parkinsonism, Juvenile	ATP1A3
+Encephalopathy, Toxic	NFE2L2
+Toxic Encephalitis	NFE2L2
+Brain Ischemia	NFKB1
+Cerebral Ischemia	NFKB1
+Brain Ischemia	NFKBIA
+Cerebral Ischemia	NFKBIA
+Tonic-Clonic Epilepsy	NGF
+Hereditary Sensory Autonomic Neuropathy, Type 1	NGF
+Hereditary Sensory Autonomic Neuropathy, Type 2	NGF
+Parkinson Disease	NGF
+Status Epilepticus	NGF
+Sensory Neuropathy, Hereditary	NGF
+Middle Cerebral Artery Thrombosis	NGF
+Middle Cerebral Artery Occlusion	NGF
+Infarction, Middle Cerebral Artery	NGF
+Single Seizure	NGF
+Epilepsy, Tonic-Clonic, Familial	NGF
+Non-Convulsive Status Epilepticus	NGF
+Autosomal Dominant Juvenile Parkinson Disease	NGF
+Autosomal Dominant Parkinsonism	NGF
+Autosomal Recessive Parkinsonism	NGF
+Familial Juvenile Parkinsonism	NGF
+Parkinsonism, Juvenile	NGF
+Lewy Body Disease	NGF
+Single Seizure	NGFR
+Dandy-Walker Syndrome	NID1
+Holoprosencephaly	NODAL
+Lobar Holoprosencephaly	NODAL
+Parkinson Disease	NOS1
+Status Epilepticus	NOS1
+Single Seizure	NOS1
+Non-Convulsive Status Epilepticus	NOS1
+Brain Ischemia	NOS2
+Secondary Parkinson Disease	NOS2
+Status Epilepticus	NOS2
+Single Seizure	NOS2
+Parkinson Disease, Secondary Vascular	NOS2
+Non-Convulsive Status Epilepticus	NOS2
+Cerebral Ischemia	NOS2
+Alzheimer's Disease	NOS3
+Cerebral Infarction	NOS3
+Alzheimer Disease, Late Onset	NOS3
+Alzheimer's Disease, Focal Onset	NOS3
+Alzheimer Disease, Early Onset	NOS3
+Subcortical Infarction	NOS3
+Alzheimer's Disease	NPY
+Cerebral Infarction	NPY
+Epilepsy	NPY
+Epilepsy, Lateral Temporal	NPY
+Alzheimer Disease, Late Onset	NPY
+Alzheimer's Disease, Focal Onset	NPY
+Alzheimer Disease, Early Onset	NPY
+Subcortical Infarction	NPY
+Single Seizure	NPY
+Dementia	NOTCH3
+CADASIL Syndrome	NOTCH3
+External Ophthalmoplegia	NPC1
+Status Epilepticus	ATP2A2
+Non-Convulsive Status Epilepticus	ATP2A2
+Diastematomyelia	NPY1R
+Neurenteric Cyst	NPY1R
+Tethered Cord Syndrome	NPY1R
+Iniencephaly	NPY1R
+Craniorachischisis	NPY1R
+Epilepsy	NPY2R
+Epilepsy, Lateral Temporal	NPY2R
+Tonic-Clonic Epilepsy	NTF3
+Status Epilepticus	NTF3
+Diabetic Mononeuropathy	NTF3
+Diabetic Amyotrophy	NTF3
+Diabetic Autonomic Neuropathy	NTF3
+Diabetic Neuralgia	NTF3
+Epilepsy, Tonic-Clonic, Familial	NTF3
+Non-Convulsive Status Epilepticus	NTF3
+Hereditary Sensory Autonomic Neuropathy, Type 1	NTRK1
+Hereditary Sensory Autonomic Neuropathy, Type 2	NTRK1
+Inherited neuropathies	NTRK1
+Sensory Neuropathy, Hereditary	NTRK1
+Lewy Body Disease	NTRK1
+Status Epilepticus	NTRK2
+Non-Convulsive Status Epilepticus	NTRK2
+Lewy Body Disease	NTRK2
+Status Epilepticus	NTRK3
+Non-Convulsive Status Epilepticus	NTRK3
+Autism Spectrum Disorders	NTSR1
+Alzheimer's Disease	MIR375
+Alzheimer Disease, Late Onset	MIR375
+Alzheimer's Disease, Focal Onset	MIR375
+Alzheimer Disease, Early Onset	MIR375
+Huntington Disease	OGG1
+Huntington Disease, Late Onset	OGG1
+Juvenile Huntington Disease	OGG1
+Optic Atrophy 1	OPA1
+Alzheimer's Disease	ATP5F1A
+Alzheimer Disease, Late Onset	ATP5F1A
+Alzheimer's Disease, Focal Onset	ATP5F1A
+Alzheimer Disease, Early Onset	ATP5F1A
+Carotid Stenosis	TNFRSF11B
+Common Carotid Artery Stenosis	TNFRSF11B
+External Carotid Artery Stenosis	TNFRSF11B
+Epilepsy	OPRD1
+Single Seizure	OPRK1
+Dyskinetic syndrome	OPRM1
+Epilepsy	OPRM1
+Hemiballismus	OPRM1
+Single Seizure	OPRM1
+Microcephaly	ORC1
+Multiple Sclerosis	CLDN11
+Tonic-Clonic Epilepsy	OXT
+Single Seizure	OXT
+Epilepsy, Tonic-Clonic, Familial	OXT
+Autism Spectrum Disorders	OXTR
+Encephalopathy, Toxic	P2RX1
+Toxic Encephalitis	P2RX1
+Epilepsy	P2RX4
+Epilepsy, Lateral Temporal	P2RX4
+Multiple Sclerosis	P2RX7
+Epilepsy, Lateral Temporal	P2RX7
+Lissencephaly	PAFAH1B1
+Status Epilepticus	RRM2B
+Phenylketonuria II	PAH
+Autism Spectrum Disorders	PAH
+Middle Cerebral Artery Thrombosis	IL22
+Middle Cerebral Artery Occlusion	IL22
+Infarction, Middle Cerebral Artery	IL22
+Agenesis of corpus callosum	PAK3
+Attention deficit hyperactivity disorder	CALY
+Single Seizure	PAM
+Parkinson Disease	PRKN
+Secondary Parkinson Disease	PRKN
+Parkinson Disease, Secondary Vascular	PRKN
+Autosomal Dominant Juvenile Parkinson Disease	PRKN
+Autosomal Dominant Parkinsonism	PRKN
+Autosomal Recessive Parkinsonism	PRKN
+Familial Juvenile Parkinsonism	PRKN
+Parkinsonism, Juvenile	PRKN
+Diastematomyelia	PAX3
+Neurenteric Cyst	PAX3
+Spina Bifida	PAX3
+Tethered Cord Syndrome	PAX3
+Iniencephaly	PAX3
+Craniorachischisis	PAX3
+Hypoplasia of the optic nerve	PAX6
+Optic Nerve Hypoplasia, Bilateral	PAX6
+Holoprosencephaly	CDON
+Lobar Holoprosencephaly	CDON
+Moyamoya Disease	MYMY1
+Spinal Muscular Atrophy	ASCC1
+Autism Spectrum Disorders	PCDH9
+Congenital pontocerebellar hypoplasia	EXOSC3
+Pontocerebellar Hypoplasia Type 1	EXOSC3
+Hereditary Sensory Autonomic Neuropathy, Type 1	ATL1
+Spastic Paraplegia, Hereditary	ATL1
+Sensory Neuropathy, Hereditary	ATL1
+Microcephaly	TMX2
+Huntington Disease	GAL
+Congenital pontocerebellar hypoplasia	SEPSECS
+Pontocerebellar Hypoplasia Type 2	SEPSECS
+Spina Bifida	PCMT1
+Epilepsy	ZDHHC9
+Epileptic encephalopathy	KCTD3
+Moyamoya Disease	PCNT
+Amyotrophic Lateral Sclerosis	DBR1
+Amyotrophic Lateral Sclerosis With Dementia	DBR1
+Congenital pontocerebellar hypoplasia	CHMP1A
+Leigh Disease	TACO1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	TACO1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	TACO1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	TACO1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	TACO1
+Alzheimer's Disease	ABI3
+Alzheimer Disease, Late Onset	ABI3
+Alzheimer's Disease, Focal Onset	ABI3
+Alzheimer Disease, Early Onset	ABI3
+Lumbosacral agenesis	PCSK5
+Spastic Paraplegia, Hereditary	UBAP1
+Epilepsy	PCDH12
+Microcephaly	PCDH12
+Spina Bifida	PCYT1A
+Absence Epilepsy	KCNK9
+Epilepsy, Absence, Atypical	KCNK9
+Childhood Absence Epilepsy	KCNK9
+Juvenile Absence Epilepsy	KCNK9
+Absence Seizure Disorder	KCNK9
+Inherited neuropathies	SPG21
+Multiple Sclerosis	PDCD1
+Alzheimer's Disease	MS4A4A
+Alzheimer Disease, Late Onset	MS4A4A
+Alzheimer's Disease, Focal Onset	MS4A4A
+Alzheimer Disease, Early Onset	MS4A4A
+Craniorachischisis	DACT1
+Epileptic encephalopathy	ACTL6B
+Huntington Disease	IP6K2
+Huntington Disease, Late Onset	IP6K2
+Juvenile Huntington Disease	IP6K2
+Microcephaly	UFC1
+AMYOTROPHIC LATERAL SCLEROSIS 1	PDGFA
+Amyotrophic Lateral Sclerosis, Sporadic	PDGFA
+Amyotrophic Lateral Sclerosis, Familial	PDGFA
+Spina Bifida	PDGFRA
+Ataxia, Spinocerebellar	TDP2
+Spinocerebellar Ataxia Type 1	TDP2
+Spinocerebellar Ataxia Type 2	TDP2
+Microcephaly	UFM1
+Leigh Disease	PDHA1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	PDHA1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	PDHA1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	PDHA1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	PDHA1
+Sensory hearing loss	SLC26A4
+Dyskinetic syndrome	PDYN
+Hemiballismus	PDYN
+Single Seizure	PDYN
+Autosomal Dominant Juvenile Parkinson Disease	PDYN
+Autosomal Dominant Parkinsonism	PDYN
+Autosomal Recessive Parkinsonism	PDYN
+Familial Juvenile Parkinsonism	PDYN
+Parkinsonism, Juvenile	PDYN
+Diastematomyelia	GHRL
+Neurenteric Cyst	GHRL
+Tethered Cord Syndrome	GHRL
+Iniencephaly	GHRL
+Craniorachischisis	GHRL
+Single Seizure	GHRL
+Alzheimer's Disease	WWOX
+Ataxia, Spinocerebellar	WWOX
+Alzheimer Disease, Late Onset	WWOX
+Alzheimer's Disease, Focal Onset	WWOX
+Alzheimer Disease, Early Onset	WWOX
+Spinocerebellar Ataxia Type 1	WWOX
+Spinocerebellar Ataxia Type 2	WWOX
+AMYOTROPHIC LATERAL SCLEROSIS 1	PENK
+Amyotrophic Lateral Sclerosis, Sporadic	PENK
+Amyotrophic Lateral Sclerosis, Familial	PENK
+Polymicrogyria With Optic Nerve Hypoplasia	TUBA8
+Adrenoleukodystrophy	PEX1
+Refsum Disease	PEX7
+Inherited neuropathies	PEX7
+Refsum Disease, Adult, 2	PEX7
+Adrenoleukodystrophy	PEX13
+Amyotrophic Lateral Sclerosis	PFN1
+Epilepsy	ABCB1
+Parkinson Disease	ABCB1
+Secondary Parkinson Disease	ABCB1
+Encephalopathy, Toxic	ABCB1
+Toxic Encephalitis	ABCB1
+Parkinson Disease, Secondary Vascular	ABCB1
+Refsum Disease	PHYH
+Inherited neuropathies	PHYH
+Familial Progressive Myoclonic Epilepsy	SERPINI1
+Myoclonic Epilepsies, Progressive	SERPINI1
+Epilepsy	PIGH
+Cortical Dysplasia	PIK3CA
+Malformations of Cortical Development	PIK3CA
+Amyotrophic Lateral Sclerosis	PLA2G4A
+Amyotrophic Lateral Sclerosis With Dementia	PLA2G4A
+Aphasia	PLAT
+Aphasia, Acquired	PLAT
+Intracranial Embolism and Thrombosis	PLAT
+Cerebral Infarction	PLAT
+Brain Ischemia	PLAT
+Compression of spinal cord	PLAT
+Cerebral Thrombosis	PLAT
+Encephalopathy, Toxic	PLAT
+Toxic Encephalitis	PLAT
+Aphasia, Global	PLAT
+Aphasia, Progressive	PLAT
+Aphasia, Mixed	PLAT
+Middle Cerebral Artery Thrombosis	PLAT
+Middle Cerebral Artery Occlusion	PLAT
+Infarction, Middle Cerebral Artery	PLAT
+Subcortical Infarction	PLAT
+Brain Infarction	PLAT
+Intracranial Thrombosis	PLAT
+Brain Thrombosis	PLAT
+Cerebral Embolism and Thrombosis	PLAT
+Cerebral Ischemia	PLAT
+Brain Embolism and Thrombosis	PLAT
+Alzheimer's Disease	PLAU
+Intracranial Embolism and Thrombosis	PLAU
+Cerebral Infarction	PLAU
+Brain Ischemia	PLAU
+Alzheimer Disease, Late Onset	PLAU
+Carotid Atherosclerosis	PLAU
+Cerebrovascular Occlusion	PLAU
+Middle Cerebral Artery Thrombosis	PLAU
+Middle Cerebral Artery Occlusion	PLAU
+Infarction, Middle Cerebral Artery	PLAU
+Alzheimer's Disease, Focal Onset	PLAU
+Alzheimer Disease, Early Onset	PLAU
+Arterial Diseases, Common Carotid	PLAU
+Subcortical Infarction	PLAU
+Cerebral Embolism and Thrombosis	PLAU
+Cerebral Ischemia	PLAU
+Brain Embolism and Thrombosis	PLAU
+Alzheimer's Disease	PLCG2
+Alzheimer Disease, Late Onset	PLCG2
+Alzheimer's Disease, Focal Onset	PLCG2
+Alzheimer Disease, Early Onset	PLCG2
+Middle Cerebral Artery Thrombosis	PLD1
+Middle Cerebral Artery Occlusion	PLD1
+Infarction, Middle Cerebral Artery	PLD1
+Myasthenic Syndromes, Congenital	PLEC
+Pelizaeus-Merzbacher Disease	PLP1
+Inherited neuropathies	PLP1
+Adult Pelizaeus-Merzbacher Disease	PLP1
+Pelizaeus-Merzbacher Disease, Atypical	PLP1
+Autosomal Dominant Juvenile Parkinson Disease	PNOC
+Autosomal Dominant Parkinsonism	PNOC
+Autosomal Recessive Parkinsonism	PNOC
+Familial Juvenile Parkinsonism	PNOC
+Parkinsonism, Juvenile	PNOC
+Charcot-Marie-Tooth Disease	PMP22
+Myoclonic Epilepsy	PMP22
+Idiopathic Myoclonic Epilepsy	PMP22
+Myoclonic Absence Epilepsy	PMP22
+Myoclonic Encephalopathy	PMP22
+Hereditary Motor and Sensory Neuropathy Type I	PMP22
+Benign Infantile Myoclonic Epilepsy	PMP22
+Epilepsy, Myoclonic, Infantile	PMP22
+Acute Inflammatory Demyelinating Polyneuropathy	PMP22
+Moyamoya Disease	ATP7A
+Inherited neuropathies	ATP7A
+Single Seizure	ATP7A
+Pontocerebellar Hypoplasia Type 1	EXOSC9
+Carotid Atherosclerosis	PODXL
+Arterial Diseases, Common Carotid	PODXL
+Brain Ischemia	CYCS
+Transient Ischemic Attack	CYCS
+Cerebral Ischemia	CYCS
+Transient Cerebral Ischemia	CYCS
+Alzheimer's Disease	TREM2
+Amyotrophic Lateral Sclerosis	TREM2
+Frontotemporal dementia	TREM2
+Alzheimer Disease, Late Onset	TREM2
+Dementia	TREM2
+Alzheimer's Disease, Focal Onset	TREM2
+Alzheimer Disease, Early Onset	TREM2
+Familial Dementia	TREM2
+Autism Spectrum Disorders	SNTG2
+Epilepsy	POLG
+Leigh Disease	POLG
+Chronic progressive external ophthalmoplegia	POLG
+Single Seizure	POLG
+Autosomal Dominant Juvenile Parkinson Disease	POLG
+Autosomal Dominant Parkinsonism	POLG
+Autosomal Recessive Parkinsonism	POLG
+Familial Juvenile Parkinsonism	POLG
+Parkinsonism, Juvenile	POLG
+Charcot-Marie-Tooth Disease	GDAP1
+Charcot-Marie-Tooth Disease, Recessive Intermediate A	GDAP1
+Autism Spectrum Disorders	NLGN3
+Cerebral Palsy	POMC
+Epilepsy	POMC
+Tonic-Clonic Epilepsy	POMC
+Myoclonic Epilepsy	POMC
+Facial paralysis	POMC
+Multiple Sclerosis	POMC
+Restless Legs Syndrome	POMC
+Diplegic Infantile Cerebral Palsy	POMC
+Cerebral Palsy, Quadriplegic, Infantile	POMC
+Idiopathic Myoclonic Epilepsy	POMC
+Spastic cerebral palsy	POMC
+Myoclonic Absence Epilepsy	POMC
+Cerebral Palsy, Atonic	POMC
+Myoclonic Encephalopathy	POMC
+Congenital Cerebral Palsy	POMC
+Cerebral Palsy, Mixed	POMC
+Single Seizure	POMC
+Epilepsy, Tonic-Clonic, Familial	POMC
+Benign Infantile Myoclonic Epilepsy	POMC
+Epilepsy, Myoclonic, Infantile	POMC
+Amyotrophic Lateral Sclerosis	PON1
+Secondary Parkinson Disease	PON1
+Spina Bifida	PON1
+Encephalopathy, Toxic	PON1
+Toxic Encephalitis	PON1
+Amyotrophic Lateral Sclerosis With Dementia	PON1
+Parkinson Disease, Secondary Vascular	PON1
+AMYOTROPHIC LATERAL SCLEROSIS 1	PON1
+Amyotrophic Lateral Sclerosis, Sporadic	PON1
+Amyotrophic Lateral Sclerosis, Familial	PON1
+Amyotrophic Lateral Sclerosis	PON2
+Amyotrophic Lateral Sclerosis	PON3
+Hereditary Sensory Autonomic Neuropathy, Type 1	RETREG1
+Hereditary Sensory Autonomic Neuropathy, Type 2	RETREG1
+Sensory Neuropathy, Hereditary	RETREG1
+Middle Cerebral Artery Thrombosis	SMOX
+Middle Cerebral Artery Occlusion	SMOX
+Infarction, Middle Cerebral Artery	SMOX
+Microcephaly	PUS7
+Parkinson Disease	DDIT4
+Encephalopathy, Toxic	EGLN1
+Toxic Encephalitis	EGLN1
+Frontotemporal Lobar Degeneration	TMEM106B
+Autism Spectrum Disorders	LRRN3
+Alzheimer's Disease	PPARG
+Alzheimer Disease, Late Onset	PPARG
+Alzheimer's Disease, Focal Onset	PPARG
+Alzheimer Disease, Early Onset	PPARG
+Single Seizure	RBFOX1
+Autism Spectrum Disorders	FEV
+Communicating Hydrocephalus	HYDIN
+Hydrocephalus	HYDIN
+Congenital Hydrocephalus	HYDIN
+Hydrocephalus Ex-Vacuo	HYDIN
+Obstructive Hydrocephalus	HYDIN
+Single Seizure	CNNM2
+Hydranencephaly	NDE1
+Lissencephaly	NDE1
+Primary microcephaly	NDE1
+Inherited neuropathies	APTX
+Single Seizure	PLPPR1
+Autism Spectrum Disorders	NSUN2
+Parkinson Disease	NCAPG2
+Leigh Disease	TTC19
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	TTC19
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	TTC19
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	TTC19
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	TTC19
+Familial Progressive Myoclonic Epilepsy	CLN6
+Myoclonic Epilepsies, Progressive	CLN6
+Leigh Disease	PTCD3
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	PTCD3
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	PTCD3
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	PTCD3
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	PTCD3
+Ataxia, Spinocerebellar	ANO10
+Spinocerebellar Ataxia Type 1	ANO10
+Spinocerebellar Ataxia Type 2	ANO10
+Idiopathic familial dystonia	THAP1
+Focal Dystonia	THAP1
+Autosomal Dominant Familial Dystonia	THAP1
+Autosomal Recessive Familial Dystonia	THAP1
+Dystonia, Primary	THAP1
+Dystonia, Secondary	THAP1
+Familial Dystonia	THAP1
+Status Epilepticus	PNPO
+Non-Convulsive Status Epilepticus	PNPO
+Autism Spectrum Disorders	AVPR1A
+Ataxia, Spinocerebellar	PPP2R2B
+Spinocerebellar Ataxia Type 1	PPP2R2B
+Spinocerebellar Ataxia Type 2	PPP2R2B
+Spinal Muscular Atrophy	ATAD3A
+Optic Atrophy	ATAD3A
+Cerebellar Hypoplasia	ATAD3A
+Autosomal Recessive Primary Microcephaly	MAP11
+Congenital pontocerebellar hypoplasia	VPS53
+Ataxia, Spinocerebellar	CWF19L1
+Spinocerebellar Ataxia Type 1	CWF19L1
+Spinocerebellar Ataxia Type 2	CWF19L1
+Anencephaly	TRIM36
+Parkinson Disease	SLC30A10
+Autosomal Dominant Juvenile Parkinson Disease	SLC30A10
+Autosomal Dominant Parkinsonism	SLC30A10
+Autosomal Recessive Parkinsonism	SLC30A10
+Familial Juvenile Parkinsonism	SLC30A10
+Parkinsonism, Juvenile	SLC30A10
+Leigh Disease	FOXRED1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	FOXRED1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	FOXRED1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	FOXRED1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	FOXRED1
+Adrenoleukodystrophy	PEX26
+Alzheimer's Disease	SLC30A6
+Alzheimer Disease, Late Onset	SLC30A6
+Alzheimer's Disease, Focal Onset	SLC30A6
+Alzheimer Disease, Early Onset	SLC30A6
+Leigh Disease	IARS2
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	IARS2
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	IARS2
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	IARS2
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	IARS2
+Microcephaly	CCDC88A
+Parkinson Disease	VPS35
+Primary microcephaly	CDK5RAP2
+Autosomal Recessive Primary Microcephaly	CDK5RAP2
+Communicating Hydrocephalus	IFT122
+Hydrocephalus	IFT122
+Congenital Hydrocephalus	IFT122
+Hydrocephalus Ex-Vacuo	IFT122
+Obstructive Hydrocephalus	IFT122
+Inherited neuropathies	TDP1
+Encephalopathy, Toxic	PRKCD
+Toxic Encephalitis	PRKCD
+Single Seizure	PRKCD
+Autosomal Dominant Juvenile Parkinson Disease	PRKCD
+Autosomal Dominant Parkinsonism	PRKCD
+Autosomal Recessive Parkinsonism	PRKCD
+Familial Juvenile Parkinsonism	PRKCD
+Parkinsonism, Juvenile	PRKCD
+Trigeminal Neuralgia	PRKCG
+Ataxia, Spinocerebellar	PRKCG
+Trigeminal Neuralgia, Idiopathic	PRKCG
+Secondary Trigeminal Neuralgia	PRKCG
+Inherited neuropathies	PRKCG
+Spinocerebellar Ataxia Type 1	PRKCG
+Spinocerebellar Ataxia Type 2	PRKCG
+Cerebral Infarction	PRKCH
+Subcortical Infarction	PRKCH
+Amyotrophic Lateral Sclerosis	GLT8D1
+Microcephaly	CENPJ
+Primary microcephaly	CENPJ
+Autosomal Recessive Primary Microcephaly	CENPJ
+Autism Spectrum Disorders	GABRQ
+Microcephaly	ZC4H2
+Brain Ischemia	MAPK1
+Trigeminal Neuralgia	MAPK1
+Trigeminal Neuralgia, Idiopathic	MAPK1
+Secondary Trigeminal Neuralgia	MAPK1
+Cerebral Ischemia	MAPK1
+Brain Ischemia	MAPK3
+Trigeminal Neuralgia	MAPK3
+Trigeminal Neuralgia, Idiopathic	MAPK3
+Secondary Trigeminal Neuralgia	MAPK3
+Cerebral Ischemia	MAPK3
+Myopathies, Nemaline	KLHL9
+Leigh Disease	NDUFA12
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NDUFA12
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NDUFA12
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NDUFA12
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NDUFA12
+Trigeminal Neuralgia	MAPK8
+Trigeminal Neuralgia, Idiopathic	MAPK8
+Secondary Trigeminal Neuralgia	MAPK8
+Trigeminal Neuralgia	MAPK9
+Trigeminal Neuralgia, Idiopathic	MAPK9
+Secondary Trigeminal Neuralgia	MAPK9
+Lennox-Gastaut syndrome	MAPK10
+Epileptic encephalopathy	MAPK10
+Brain Ischemia	MAP2K1
+Cerebral Ischemia	MAP2K1
+Status Epilepticus	EIF2AK2
+Non-Convulsive Status Epilepticus	EIF2AK2
+Autosomal Dominant Juvenile Parkinson Disease	PRL
+Autosomal Dominant Parkinsonism	PRL
+Autosomal Recessive Parkinsonism	PRL
+Familial Juvenile Parkinsonism	PRL
+Parkinsonism, Juvenile	PRL
+Alzheimer's Disease	PRNP
+Alzheimer Disease, Late Onset	PRNP
+Dementia	PRNP
+Alzheimer's Disease, Focal Onset	PRNP
+Alzheimer Disease, Early Onset	PRNP
+Familial Progressive Myoclonic Epilepsy	PRNP
+Myoclonic Epilepsies, Progressive	PRNP
+Amyotrophic Lateral Sclerosis	PRPH
+AMYOTROPHIC LATERAL SCLEROSIS 1	PRPH
+Amyotrophic Lateral Sclerosis, Sporadic	PRPH
+Amyotrophic Lateral Sclerosis, Familial	PRPH
+Alzheimer's Disease	RELN
+Huntington Disease	RELN
+Alzheimer Disease, Late Onset	RELN
+Alzheimer's Disease, Focal Onset	RELN
+Alzheimer Disease, Early Onset	RELN
+Autism Spectrum Disorders	RELN
+Diastematomyelia	PRSS8
+Neurenteric Cyst	PRSS8
+Tethered Cord Syndrome	PRSS8
+Iniencephaly	PRSS8
+Craniorachischisis	PRSS8
+Moyamoya Disease	HTRA1
+Dementia	HTRA1
+CADASIL Syndrome	HTRA1
+Cerebral Autosomal Recessive Arteriopathy with Subcortical Infarcts and Leukoencephalopathy	HTRA1
+Metachromatic leukodystrophy, juvenile type	PSAP
+Brain Ischemia	DIABLO
+Huntington Disease	DIABLO
+Huntington Disease, Late Onset	DIABLO
+Juvenile Huntington Disease	DIABLO
+Cerebral Ischemia	DIABLO
+Alzheimer's Disease	PSEN1
+Frontotemporal dementia	PSEN1
+Alzheimer Disease, Late Onset	PSEN1
+Alzheimer's Disease, Focal Onset	PSEN1
+Alzheimer Disease, Early Onset	PSEN1
+Alzheimer disease, familial, type 3	PSEN1
+Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia	PSEN1
+Alzheimer's Disease	PSEN2
+Alzheimer Disease, Late Onset	PSEN2
+Dementia	PSEN2
+Alzheimer's Disease, Focal Onset	PSEN2
+Alzheimer Disease, Early Onset	PSEN2
+ALZHEIMER DISEASE 4	PSEN2
+Inherited neuropathies	TWNK
+Infantile onset spinocerebellar ataxia	TWNK
+Middle Cerebral Artery Thrombosis	SPHK2
+Middle Cerebral Artery Occlusion	SPHK2
+Infarction, Middle Cerebral Artery	SPHK2
+AMYOTROPHIC LATERAL SCLEROSIS 1	UBQLN4
+Alzheimer's Disease	PYY
+Diastematomyelia	PYY
+Neurenteric Cyst	PYY
+Tethered Cord Syndrome	PYY
+Iniencephaly	PYY
+Craniorachischisis	PYY
+Alzheimer Disease, Late Onset	PYY
+Alzheimer's Disease, Focal Onset	PYY
+Alzheimer Disease, Early Onset	PYY
+Familial Progressive Myoclonic Epilepsy	PRDM8
+Myoclonic Epilepsies, Progressive	PRDM8
+Inherited neuropathies	COQ8A
+Single Seizure	SLC17A7
+Epilepsy	RARS2
+Congenital pontocerebellar hypoplasia	RARS2
+Pontocerebellar Hypoplasia Type 1	RARS2
+Holoprosencephaly	TWSG1
+Lobar Holoprosencephaly	TWSG1
+Primary microcephaly	KNL1
+Autosomal Recessive Primary Microcephaly	KNL1
+Alzheimer's Disease	CASS4
+Alzheimer Disease, Late Onset	CASS4
+Alzheimer's Disease, Focal Onset	CASS4
+Alzheimer Disease, Early Onset	CASS4
+Leigh Disease	PDSS2
+Amyotrophic Lateral Sclerosis	CAMK1G
+Amyotrophic Lateral Sclerosis With Dementia	CAMK1G
+Microcephaly	ZMIZ1
+Muscular Dystrophy	SELENON
+Centronuclear myopathy	SELENON
+X-linked centronuclear myopathy	SELENON
+Congenital Structural Myopathy	SELENON
+Myopathy, Centronuclear, Autosomal Dominant	SELENON
+Autosomal Recessive Centronuclear Myopathy	SELENON
+Myopathy, Centronuclear, 1	SELENON
+Transient Ischemic Attack	BAD
+Transient Cerebral Ischemia	BAD
+Anencephaly	VANGL2
+Diastematomyelia	VANGL2
+Neurenteric Cyst	VANGL2
+Spina Bifida	VANGL2
+Tethered Cord Syndrome	VANGL2
+Iniencephaly	VANGL2
+Craniorachischisis	VANGL2
+Spina bifida aperta of cervical spine	VANGL2
+Ataxia, Spinocerebellar	SNX14
+Spinocerebellar Ataxia Type 1	SNX14
+Spinocerebellar Ataxia Type 2	SNX14
+Holoprosencephaly	PTCH1
+Lobar Holoprosencephaly	PTCH1
+Epilepsy	SLC4A10
+Ataxia, Spinocerebellar	SCYL1
+Spinocerebellar Ataxia Type 1	SCYL1
+Spinocerebellar Ataxia Type 2	SCYL1
+Attention deficit hyperactivity disorder	AS3MT
+Amyotrophic Lateral Sclerosis	PTGS2
+Brain Ischemia	PTGS2
+Status Epilepticus	PTGS2
+Amyotrophic Lateral Sclerosis With Dementia	PTGS2
+Single Seizure	PTGS2
+Non-Convulsive Status Epilepticus	PTGS2
+Cerebral Ischemia	PTGS2
+Transient Ischemic Attack	NDRG2
+Transient Cerebral Ischemia	NDRG2
+Distal Spinal Muscular Atrophy	PLEKHG5
+Alzheimer's Disease	MIR505
+Alzheimer Disease, Late Onset	MIR505
+Alzheimer's Disease, Focal Onset	MIR505
+Alzheimer Disease, Early Onset	MIR505
+Dyskinetic syndrome	MYORG
+Familial Progressive Myoclonic Epilepsy	TBC1D24
+Myoclonic Epilepsies, Progressive	TBC1D24
+Epilepsy, Myoclonic, Infantile	TBC1D24
+Progressive myoclonic epilepsy with dystonia	TBC1D24
+Epilepsy	SLC12A5
+Status Epilepticus	SLC12A5
+Epilepsy, Lateral Temporal	SLC12A5
+Single Seizure	SLC12A5
+Non-Convulsive Status Epilepticus	SLC12A5
+Epilepsy	ARID1B
+Autism Spectrum Disorders	NLGN4X
+Epilepsy	PCDH19
+Spastic Paraplegia	HACE1
+Single Seizure	MIB1
+Amyotrophy, monomelic	CEP126
+Benign Focal Epilepsy, Childhood	KCNT1
+Spastic Paraplegia	WDR48
+Autism Spectrum Disorders	TSHZ3
+Autism Spectrum Disorders	DPP10
+Moyamoya Disease	RNF213
+Moyamoya disease 1	RNF213
+Primary lateral sclerosis juvenile	ALS2
+AMYOTROPHIC LATERAL SCLEROSIS 2, JUVENILE (disorder)	ALS2
+Juvenile amyotrophic lateral sclerosis	ALS2
+Autism Spectrum Disorders	CHD8
+Rett Syndrome	PTPN1
+Diastematomyelia	GRHL3
+Neurenteric Cyst	GRHL3
+Tethered Cord Syndrome	GRHL3
+Iniencephaly	GRHL3
+Craniorachischisis	GRHL3
+Restless Legs Syndrome	PTPRD
+Attention deficit hyperactivity disorder	PTPRD
+Centronuclear myopathy	ACTA1
+Myopathies, Nemaline	ACTA1
+X-linked centronuclear myopathy	ACTA1
+Nemaline Myopathy, Childhood Onset	ACTA1
+Congenital Structural Myopathy	ACTA1
+Myopathy, Centronuclear, Autosomal Dominant	ACTA1
+Autosomal Recessive Centronuclear Myopathy	ACTA1
+Myopathy, Centronuclear, 1	ACTA1
+Alzheimer's Disease	BAX
+Alzheimer Disease, Late Onset	BAX
+Alzheimer's Disease, Focal Onset	BAX
+Alzheimer Disease, Early Onset	BAX
+Epilepsy	PURA
+Single Seizure	PVALB
+Alzheimer's Disease	NECTIN2
+Multiple Sclerosis	NECTIN2
+Parkinson Disease	NECTIN2
+Alzheimer Disease, Late Onset	NECTIN2
+Alzheimer's Disease, Focal Onset	NECTIN2
+Alzheimer Disease, Early Onset	NECTIN2
+Cerebral atrophy	PCYT2
+Phenylketonuria II	QDPR
+Moyamoya Disease	ACTA2
+Moyamoya disease 1	ACTA2
+Alzheimer's Disease	BCHE
+Tonic-Clonic Epilepsy	BCHE
+Multiple Sclerosis	BCHE
+Muscular Dystrophy	BCHE
+Secondary Parkinson Disease	BCHE
+Encephalopathy, Toxic	BCHE
+Toxic Encephalitis	BCHE
+Alzheimer Disease, Late Onset	BCHE
+Alzheimer's Disease, Focal Onset	BCHE
+Alzheimer Disease, Early Onset	BCHE
+Single Seizure	BCHE
+Epilepsy, Tonic-Clonic, Familial	BCHE
+Parkinson Disease, Secondary Vascular	BCHE
+Myasthenic Syndromes, Congenital	RAPSN
+Sciatic Neuropathy	RARA
+Lesion of Sciatic Nerve	RARA
+Sciatic Neuritis	RARA
+Sciatic Nerve Palsy	RARA
+Sciatic Neuropathy	RARB
+Lesion of Sciatic Nerve	RARB
+Sciatic Neuritis	RARB
+Sciatic Nerve Palsy	RARB
+Autism Spectrum Disorders	RARB
+Cerebral atrophy	RARS1
+Brain Ischemia	RB1
+Cerebral Ischemia	RB1
+Primary microcephaly	RBBP8
+Charcot-Marie-Tooth Disease	TRPV4
+Spinal Muscular Atrophy	TRPV4
+Myelopathic Muscular Atrophy	TRPV4
+Distal Spinal Muscular Atrophy	TRPV4
+Hereditary Motor and Sensory Neuropathy Type I	TRPV4
+Scapuloperoneal Form of Spinal Muscular Atrophy	TRPV4
+Progressive Muscular Atrophy	TRPV4
+Alzheimer's Disease	BCL2
+Alzheimer Disease, Late Onset	BCL2
+Alzheimer's Disease, Focal Onset	BCL2
+Alzheimer Disease, Early Onset	BCL2
+Brain Ischemia	RELA
+Cerebral Ischemia	RELA
+Single Seizure	REST
+Status Epilepticus	RET
+Non-Convulsive Status Epilepticus	RET
+Encephalopathy, Toxic	BCL2L1
+Toxic Encephalitis	BCL2L1
+AMYOTROPHIC LATERAL SCLEROSIS 1	BCL2L1
+Amyotrophic Lateral Sclerosis, Sporadic	BCL2L1
+Amyotrophic Lateral Sclerosis, Familial	BCL2L1
+Bilateral Vestibulopathy	RFC1
+Secondary Parkinson Disease	RGS2
+Parkinson Disease, Secondary Vascular	RGS2
+Sensory hearing loss	ACTB
+Encephalopathy, Toxic	RNASE6
+Toxic Encephalitis	RNASE6
+Ataxia, Spinocerebellar	ELOVL5
+Spinocerebellar Ataxia Type 1	ELOVL5
+Spinocerebellar Ataxia Type 2	ELOVL5
+Myasthenic Syndromes, Congenital	SLC5A7
+Amaurosis	RPE65
+Parkinson Disease	RPL6
+Parkinson Disease	RPL23A
+Leigh Disease	BCS1L
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	BCS1L
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	BCS1L
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	BCS1L
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	BCS1L
+Autism Spectrum Disorders	MIR486-1
+Parkinson Disease	RPS8
+Epilepsy, Lateral Temporal	BDKRB1
+Epilepsy, Lateral Temporal	BDKRB2
+Diastematomyelia	RRM1
+Neurenteric Cyst	RRM1
+Tethered Cord Syndrome	RRM1
+Iniencephaly	RRM1
+Craniorachischisis	RRM1
+Sciatic Neuropathy	RXRA
+Lesion of Sciatic Nerve	RXRA
+Sciatic Neuritis	RXRA
+Sciatic Nerve Palsy	RXRA
+AMYOTROPHIC LATERAL SCLEROSIS 1	RXRA
+Amyotrophic Lateral Sclerosis, Sporadic	RXRA
+Amyotrophic Lateral Sclerosis, Familial	RXRA
+Centronuclear myopathy	RYR1
+X-linked centronuclear myopathy	RYR1
+Myopathy, Centronuclear, Autosomal Recessive	RYR1
+Congenital Structural Myopathy	RYR1
+Myopathy, Centronuclear, Autosomal Dominant	RYR1
+Autosomal Recessive Centronuclear Myopathy	RYR1
+Myopathy, Centronuclear, 1	RYR1
+Autism Spectrum Disorders	RYR2
+Epileptic encephalopathy	RYR3
+Alzheimer's Disease	BDNF
+Brain Ischemia	BDNF
+Epilepsy	BDNF
+Tonic-Clonic Epilepsy	BDNF
+Parkinson Disease	BDNF
+Status Epilepticus	BDNF
+Alzheimer Disease, Late Onset	BDNF
+Alzheimer's Disease, Focal Onset	BDNF
+Alzheimer Disease, Early Onset	BDNF
+Single Seizure	BDNF
+Epilepsy, Tonic-Clonic, Familial	BDNF
+Non-Convulsive Status Epilepticus	BDNF
+Cerebral Ischemia	BDNF
+Autism Spectrum Disorders	BDNF
+Middle Cerebral Artery Thrombosis	S100A5
+Middle Cerebral Artery Occlusion	S100A5
+Infarction, Middle Cerebral Artery	S100A5
+Ataxia, Spinocerebellar	ATXN1
+Spinocerebellar Ataxia Type 1	ATXN1
+Spinocerebellar Ataxia Type 2	ATXN1
+Amyotrophic Lateral Sclerosis	ATXN2
+Ataxia, Spinocerebellar	ATXN2
+Amyotrophic Lateral Sclerosis With Dementia	ATXN2
+Spinocerebellar Ataxia Type 1	ATXN2
+Spinocerebellar Ataxia Type 2	ATXN2
+Ataxia, Spinocerebellar	ATXN7
+Spinocerebellar Ataxia Type 1	ATXN7
+Spinocerebellar Ataxia Type 2	ATXN7
+Carotid Stenosis	CLEC11A
+Common Carotid Artery Stenosis	CLEC11A
+External Carotid Artery Stenosis	CLEC11A
+Epilepsy	SCN1A
+Myoclonic Epilepsy	SCN1A
+Epilepsy, Atonic	SCN1A
+Epilepsy, Tonic	SCN1A
+Seizure, Febrile, Simple	SCN1A
+Lennox-Gastaut syndrome	SCN1A
+Idiopathic Myoclonic Epilepsy	SCN1A
+Myoclonic Absence Epilepsy	SCN1A
+Myoclonic Encephalopathy	SCN1A
+Seizure, Febrile, Complex	SCN1A
+Benign Infantile Myoclonic Epilepsy	SCN1A
+Epilepsy, Myoclonic, Infantile	SCN1A
+Autism Spectrum Disorders	SCN1A
+X-linked infantile spasms	SCN1A
+Seizure, Febrile, Simple	SCN1B
+Seizure, Febrile, Complex	SCN1B
+Epilepsy	SCN2A
+Seizure, Febrile, Simple	SCN2A
+Familial benign neonatal epilepsy	SCN2A
+Seizure, Febrile, Complex	SCN2A
+Myotonia Congenita	SCN4A
+Myasthenic Syndromes, Congenital	SCN4A
+Epilepsy	SCN8A
+Status Epilepticus	SCN8A
+Familial benign neonatal epilepsy	SCN8A
+Non-Convulsive Status Epilepticus	SCN8A
+Epilepsy	SCN9A
+Myoclonic Epilepsy	SCN9A
+Hereditary Sensory Autonomic Neuropathy, Type 2	SCN9A
+Idiopathic Myoclonic Epilepsy	SCN9A
+Myoclonic Absence Epilepsy	SCN9A
+Myoclonic Encephalopathy	SCN9A
+Inherited neuropathies	SCN9A
+Sensory Neuropathy, Hereditary	SCN9A
+Benign Infantile Myoclonic Epilepsy	SCN9A
+Epilepsy, Myoclonic, Infantile	SCN9A
+Polyneuropathy	SCP2
+Polyneuropathy, Motor	SCP2
+Polyneuropathy, Familial	SCP2
+Acquired Polyneuropathy	SCP2
+Brain Ischemia	CCL2
+Diastematomyelia	CCL2
+Muscular Dystrophy, Duchenne	CCL2
+Neurenteric Cyst	CCL2
+Compression of spinal cord	CCL2
+Status Epilepticus	CCL2
+Spina Bifida	CCL2
+Tethered Cord Syndrome	CCL2
+Iniencephaly	CCL2
+Craniorachischisis	CCL2
+Carotid Atherosclerosis	CCL2
+Middle Cerebral Artery Thrombosis	CCL2
+Middle Cerebral Artery Occlusion	CCL2
+Infarction, Middle Cerebral Artery	CCL2
+Arterial Diseases, Common Carotid	CCL2
+Non-Convulsive Status Epilepticus	CCL2
+Becker Muscular Dystrophy	CCL2
+Cerebral Ischemia	CCL2
+Duchenne and Becker Muscular Dystrophy	CCL2
+Brain Ischemia	CCL3
+Status Epilepticus	CCL3
+Non-Convulsive Status Epilepticus	CCL3
+Cerebral Ischemia	CCL3
+Diastematomyelia	BHMT
+Neurenteric Cyst	BHMT
+Tethered Cord Syndrome	BHMT
+Iniencephaly	BHMT
+Craniorachischisis	BHMT
+Brain Ischemia	CCL4
+Cerebral Ischemia	CCL4
+Middle Cerebral Artery Thrombosis	CCL7
+Middle Cerebral Artery Occlusion	CCL7
+Infarction, Middle Cerebral Artery	CCL7
+Brain Ischemia	CCL11
+Cerebral Ischemia	CCL11
+Leigh Disease	SDHA
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	SDHA
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	SDHA
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	SDHA
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	SDHA
+Cervical Migraine Syndrome	PRDM16
+Status Migrainosus	PRDM16
+Seizure, Febrile, Simple	ANO3
+Seizure, Febrile, Complex	ANO3
+Brain Ischemia	SELE
+Multiple Sclerosis	SELE
+Cerebral Ischemia	SELE
+AMYOTROPHIC LATERAL SCLEROSIS 1	SELPLG
+Amyotrophic Lateral Sclerosis, Sporadic	SELPLG
+Amyotrophic Lateral Sclerosis, Familial	SELPLG
+Epilepsy	SELENOW
+Progressive supranuclear palsy	SRSF2
+Ophthalmoplegia, Progressive Supranuclear	SRSF2
+Supranuclear Palsy, Progressive, 1	SRSF2
+Amyotrophic Lateral Sclerosis	ARHGEF28
+Encephalopathy, Toxic	SRSF5
+Toxic Encephalitis	SRSF5
+Autism Spectrum Disorders	SFSWAP
+Progressive supranuclear palsy	TRA2B
+Ophthalmoplegia, Progressive Supranuclear	TRA2B
+Supranuclear Palsy, Progressive, 1	TRA2B
+Cerebellar Ataxia, Late Onset	SIL1
+Inherited neuropathies	SIL1
+Dementia, Vascular	SDHAF1
+Vascular Dementia, Acute Onset	SDHAF1
+Subcortical Vascular Dementia	SDHAF1
+Centronuclear myopathy	MTMR14
+X-linked centronuclear myopathy	MTMR14
+Congenital Structural Myopathy	MTMR14
+Myopathy, Centronuclear, Autosomal Dominant	MTMR14
+Autosomal Recessive Centronuclear Myopathy	MTMR14
+Myopathy, Centronuclear, 1	MTMR14
+Diabetic Mononeuropathy	SGK1
+Diabetic Amyotrophy	SGK1
+Diabetic Autonomic Neuropathy	SGK1
+Diabetic Neuralgia	SGK1
+AMYOTROPHIC LATERAL SCLEROSIS 1	SHC1
+Amyotrophic Lateral Sclerosis, Sporadic	SHC1
+Amyotrophic Lateral Sclerosis, Familial	SHC1
+Secondary Parkinson Disease	SHH
+Holoprosencephaly	SHH
+Schizencephaly	SHH
+Lobar Holoprosencephaly	SHH
+Parkinson Disease, Secondary Vascular	SHH
+Familial schizencephaly	SHH
+Optic Atrophy	NMNAT1
+Spastic Paraplegia, Optic Atrophy, and Neuropathy	KLC2
+Encephalopathy, Toxic	ST8SIA1
+Toxic Encephalitis	ST8SIA1
+Primary microcephaly	STIL
+Autosomal Recessive Primary Microcephaly	STIL
+Holoprosencephaly	SIX3
+Schizencephaly	SIX3
+Lobar Holoprosencephaly	SIX3
+Familial schizencephaly	SIX3
+Diastematomyelia	SKI
+Neurenteric Cyst	SKI
+Tethered Cord Syndrome	SKI
+Iniencephaly	SKI
+Craniorachischisis	SKI
+Parkinson Disease	PINK1
+Autosomal Dominant Juvenile Parkinson Disease	PINK1
+Autosomal Dominant Parkinsonism	PINK1
+Autosomal Recessive Parkinsonism	PINK1
+Familial Juvenile Parkinsonism	PINK1
+Parkinsonism, Juvenile	PINK1
+Epilepsy	SLC1A1
+Epilepsy, Lateral Temporal	SLC1A1
+Cortical Dysplasia	SLC1A1
+Single Seizure	SLC1A1
+Autism Spectrum Disorders	SLC1A1
+Malformations of Cortical Development	SLC1A1
+Amyotrophic Lateral Sclerosis	SLC1A2
+Epilepsy	SLC1A2
+Amyotrophic Lateral Sclerosis With Dementia	SLC1A2
+Epileptic encephalopathy	SLC1A2
+Epilepsy	SLC1A3
+Inherited neuropathies	SLC1A3
+Episodic Ataxia	SLC1A3
+Microcephaly	SLC2A1
+Spastic Paraplegia	SLC2A1
+Epileptic encephalopathy	SLC2A1
+Single Seizure	SLC2A1
+Huntington Disease	SLC2A3
+Alzheimer's Disease	SLC2A4
+Alzheimer Disease, Late Onset	SLC2A4
+Alzheimer's Disease, Focal Onset	SLC2A4
+Alzheimer Disease, Early Onset	SLC2A4
+Amyotrophy, monomelic	CPLANE1
+Amyotrophic Lateral Sclerosis	SLC6A1
+Epilepsy	SLC6A1
+Amyotrophic Lateral Sclerosis With Dementia	SLC6A1
+Single Seizure	SLC6A1
+Single Seizure	SLC6A2
+Delirium	SLC6A3
+Parkinson Disease	SLC6A3
+Tic disorder	SLC6A3
+Transient Tic Disorder	SLC6A3
+Dementia	SLC6A3
+Familial Dementia	SLC6A3
+Childhood Tic Disorders	SLC6A3
+Motor Tic Disorders	SLC6A3
+Attention deficit hyperactivity disorder	SLC6A3
+Intracranial Aneurysm	NCF1
+Aneurysm, Middle Cerebral Artery	NCF1
+Aneurysm, Anterior Communicating Artery	NCF1
+Aneurysm, Posterior Cerebral Artery	NCF1
+Aneurysm, Anterior Cerebral Artery	NCF1
+Aneurysm, Posterior Communicating Artery	NCF1
+Brain Aneurysm	NCF1
+Cerebral Aneurysm	NCF1
+Status Epilepticus	SLC8A1
+Single Seizure	SLC8A1
+Non-Convulsive Status Epilepticus	SLC8A1
+Status Epilepticus	SLC8A3
+Single Seizure	SLC8A3
+Non-Convulsive Status Epilepticus	SLC8A3
+Multiple Sclerosis	SLC11A1
+Epilepsy	SLC12A2
+Epilepsy, Lateral Temporal	SLC12A2
+Autism Spectrum Disorders	SLC16A2
+Parkinson Disease	SLC18A2
+Autosomal Dominant Juvenile Parkinson Disease	SLC18A2
+Autosomal Dominant Parkinsonism	SLC18A2
+Autosomal Recessive Parkinsonism	SLC18A2
+Familial Juvenile Parkinsonism	SLC18A2
+Parkinsonism, Juvenile	SLC18A2
+Myasthenic Syndromes, Congenital	SLC18A3
+Spinal Muscular Atrophy	SMN1
+Juvenile Spinal Muscular Atrophy	SMN1
+Myelopathic Muscular Atrophy	SMN1
+Muscular Atrophy, Spinal, Type II	SMN1
+Distal Spinal Muscular Atrophy	SMN1
+Spinal Muscular Atrophies of Childhood	SMN1
+Scapuloperoneal Form of Spinal Muscular Atrophy	SMN1
+Progressive Muscular Atrophy	SMN1
+Muscular atrophy, spinal, infantile chronic form	SMN1
+Spinal Muscular Atrophy	SMN2
+Juvenile Spinal Muscular Atrophy	SMN2
+Myelopathic Muscular Atrophy	SMN2
+Muscular Atrophy, Spinal, Type II	SMN2
+Distal Spinal Muscular Atrophy	SMN2
+Spinal Muscular Atrophies of Childhood	SMN2
+Scapuloperoneal Form of Spinal Muscular Atrophy	SMN2
+Progressive Muscular Atrophy	SMN2
+Muscular atrophy, spinal, infantile chronic form	SMN2
+AMYOTROPHIC LATERAL SCLEROSIS 1	SNAI1
+Amyotrophic Lateral Sclerosis, Sporadic	SNAI1
+Amyotrophic Lateral Sclerosis, Familial	SNAI1
+Epilepsy	SNAP25
+Myasthenic Syndromes, Congenital	SNAP25
+Lewy Body Disease	SNCB
+Parkinson Disease	SNCA
+Autosomal Dominant Juvenile Parkinson Disease	SNCA
+Autosomal Dominant Parkinsonism	SNCA
+Autosomal Recessive Parkinsonism	SNCA
+Familial Juvenile Parkinsonism	SNCA
+Parkinsonism, Juvenile	SNCA
+Lewy Body Disease	SNCA
+Status Epilepticus	SNTA1
+Non-Convulsive Status Epilepticus	SNTA1
+Amyotrophic Lateral Sclerosis	SOD1
+Brain Ischemia	SOD1
+Transient Ischemic Attack	SOD1
+Parkinson Disease	SOD1
+Motor Neuron Disease	SOD1
+Lateral Sclerosis	SOD1
+Chronic progressive external ophthalmoplegia	SOD1
+Familial Motor Neuron Disease	SOD1
+Motor Neuron Disease, Lower	SOD1
+Amyotrophic Lateral Sclerosis With Dementia	SOD1
+Motor Neuron Disease, Upper	SOD1
+Motor Neuron Disease, Secondary	SOD1
+Cerebral Ischemia	SOD1
+Transient Cerebral Ischemia	SOD1
+AMYOTROPHIC LATERAL SCLEROSIS 1	SOD1
+Amyotrophic Lateral Sclerosis, Sporadic	SOD1
+Amyotrophic Lateral Sclerosis, Familial	SOD1
+Alzheimer's Disease	SOD2
+Amyotrophic Lateral Sclerosis	SOD2
+Brain Ischemia	SOD2
+Transient Ischemic Attack	SOD2
+Parkinson Disease	SOD2
+Adrenoleukodystrophy	SOD2
+Chronic progressive external ophthalmoplegia	SOD2
+Amyotrophic Lateral Sclerosis With Dementia	SOD2
+Alzheimer Disease, Late Onset	SOD2
+Middle Cerebral Artery Thrombosis	SOD2
+Middle Cerebral Artery Occlusion	SOD2
+Infarction, Middle Cerebral Artery	SOD2
+Alzheimer's Disease, Focal Onset	SOD2
+Alzheimer Disease, Early Onset	SOD2
+Single Seizure	SOD2
+Lewy Body Disease	SOD2
+Cerebral Ischemia	SOD2
+Transient Cerebral Ischemia	SOD2
+Alzheimer's Disease	SORL1
+Autism Spectrum Disorders	SOX5
+Autism Spectrum Disorders	SOX9
+Peripheral demyelinating neuropathy	SOX10
+Inherited neuropathies	SPAST
+Paraplegia	SPG7
+Spastic Paraplegia	SPG7
+Lateral Sclerosis	SPG7
+Inherited neuropathies	SPG7
+Primary Lateral Sclerosis, Adult, 1	SPG7
+Carotid Stenosis	SPP1
+Common Carotid Artery Stenosis	SPP1
+External Carotid Artery Stenosis	SPP1
+Ataxia, Spinocerebellar	SPTBN2
+Inherited neuropathies	SPTBN2
+Spinocerebellar Ataxia Type 1	SPTBN2
+Spinocerebellar Ataxia Type 2	SPTBN2
+Status Epilepticus	SRC
+Non-Convulsive Status Epilepticus	SRC
+Single Seizure	SST
+Status Epilepticus	SSTR1
+Non-Convulsive Status Epilepticus	SSTR1
+Status Epilepticus	SSTR2
+Single Seizure	SSTR2
+Non-Convulsive Status Epilepticus	SSTR2
+Status Epilepticus	SSTR3
+Non-Convulsive Status Epilepticus	SSTR3
+Status Epilepticus	SSTR4
+Non-Convulsive Status Epilepticus	SSTR4
+Status Epilepticus	SSTR5
+Non-Convulsive Status Epilepticus	SSTR5
+Brain Ischemia	STAT3
+Middle Cerebral Artery Thrombosis	STAT3
+Middle Cerebral Artery Occlusion	STAT3
+Infarction, Middle Cerebral Artery	STAT3
+Cerebral Ischemia	STAT3
+Multiple Sclerosis	STAT4
+Centronuclear myopathy	STIM1
+X-linked centronuclear myopathy	STIM1
+Congenital Structural Myopathy	STIM1
+Myopathy, Centronuclear, Autosomal Dominant	STIM1
+Autosomal Recessive Centronuclear Myopathy	STIM1
+Myopathy, Centronuclear, 1	STIM1
+Epilepsy	CDKL5
+Rett Syndrome	CDKL5
+Single Seizure	CDKL5
+Rett Syndrome, Atypical	CDKL5
+Epilepsy	STXBP1
+Myoclonic Epilepsy	STXBP1
+Idiopathic Myoclonic Epilepsy	STXBP1
+Myoclonic Absence Epilepsy	STXBP1
+Myoclonic Encephalopathy	STXBP1
+Benign Infantile Myoclonic Epilepsy	STXBP1
+Epilepsy, Myoclonic, Infantile	STXBP1
+Rett Syndrome, Atypical	STXBP1
+AMYOTROPHIC LATERAL SCLEROSIS 1	BSG
+Amyotrophic Lateral Sclerosis, Sporadic	BSG
+Amyotrophic Lateral Sclerosis, Familial	BSG
+Parkinson Disease	BST1
+Leigh Disease	SURF1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	SURF1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	SURF1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	SURF1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	SURF1
+Myasthenic Syndromes, Congenital	VAMP1
+ATAXIA, SPASTIC, 1, AUTOSOMAL DOMINANT	VAMP1
+Single Seizure	SYN2
+Diastematomyelia	TBXT
+Neurenteric Cyst	TBXT
+Tethered Cord Syndrome	TBXT
+Iniencephaly	TBXT
+Craniorachischisis	TBXT
+Spina bifida aperta of cervical spine	TBXT
+Common Migraine	TAC1
+Attention deficit hyperactivity disorder	TACR1
+Autosomal Recessive Primary Microcephaly	TAF13
+Parkinson Disease	TALDO1
+Myositis	TARS1
+Infectious Myositis	TARS1
+Idiopathic Inflammatory Myopathies	TARS1
+Myositis, Focal	TARS1
+Microcephaly	TBCD
+Optic Atrophy	TBCD
+Cortical Dysplasia	TBCD
+Single Seizure	TBCD
+Malformations of Cortical Development	TBCD
+Autism Spectrum Disorders	TBL1X
+Microcephaly	TCF4
+Single Seizure	TCF4
+Holoprosencephaly	TDGF1
+Lobar Holoprosencephaly	TDGF1
+Microcephaly	BUB1B
+Epilepsy, Lateral Temporal	TEK
+Alzheimer's Disease	TF
+Restless Legs Syndrome	TF
+Alzheimer Disease, Late Onset	TF
+Alzheimer's Disease, Focal Onset	TF
+Alzheimer Disease, Early Onset	TF
+Alzheimer's Disease	TFAM
+Secondary Parkinson Disease	TFAM
+Alzheimer Disease, Late Onset	TFAM
+Alzheimer's Disease, Focal Onset	TFAM
+Alzheimer Disease, Early Onset	TFAM
+Parkinson Disease, Secondary Vascular	TFAM
+Muscular Dystrophy, Duchenne	TGFB1
+Epilepsy	TGFB1
+Diabetic Mononeuropathy	TGFB1
+Diabetic Amyotrophy	TGFB1
+Diabetic Autonomic Neuropathy	TGFB1
+Diabetic Neuralgia	TGFB1
+Posterior Leukoencephalopathy Syndrome	TGFB1
+Becker Muscular Dystrophy	TGFB1
+Duchenne and Becker Muscular Dystrophy	TGFB1
+Cervical Migraine Syndrome	TGFBR2
+Status Migrainosus	TGFBR2
+Holoprosencephaly	TGIF1
+Lobar Holoprosencephaly	TGIF1
+Encephalopathy, Toxic	TGM1
+Toxic Encephalitis	TGM1
+Delirium	TH
+Parkinson Disease	TH
+Autosomal Dominant Juvenile Parkinson Disease	TH
+Autosomal Dominant Parkinsonism	TH
+Autosomal Recessive Parkinsonism	TH
+Familial Juvenile Parkinsonism	TH
+Parkinsonism, Juvenile	TH
+Lewy Body Disease	TH
+Anencephaly	THAS
+Communicating Hydrocephalus	THAS
+Hydrocephalus	THAS
+Congenital Hydrocephalus	THAS
+Hydrocephalus Ex-Vacuo	THAS
+Obstructive Hydrocephalus	THAS
+Neuropathy, Painful	THBD
+AMYOTROPHIC LATERAL SCLEROSIS 1	TIAM1
+Amyotrophic Lateral Sclerosis, Sporadic	TIAM1
+Amyotrophic Lateral Sclerosis, Familial	TIAM1
+Encephalopathy, Toxic	TIMP3
+Toxic Encephalitis	TIMP3
+Rheumatic Chorea	NKX2-1
+Benign Hereditary Chorea	NKX2-1
+Chronic progressive chorea	NKX2-1
+Hereditary Chorea	NKX2-1
+Chorea, Benign Familial	NKX2-1
+Wernicke Encephalopathy	TKT
+AMYOTROPHIC LATERAL SCLEROSIS 1	TLE3
+Amyotrophic Lateral Sclerosis, Sporadic	TLE3
+Amyotrophic Lateral Sclerosis, Familial	TLE3
+Diabetic Mononeuropathy	TLR4
+Diabetic Amyotrophy	TLR4
+Diabetic Autonomic Neuropathy	TLR4
+Diabetic Neuralgia	TLR4
+Epilepsy	ACTG1
+Progressive sensorineural hearing impairment	ACTG1
+AMYOTROPHIC LATERAL SCLEROSIS 1	TMSB4X
+Amyotrophic Lateral Sclerosis, Sporadic	TMSB4X
+Amyotrophic Lateral Sclerosis, Familial	TMSB4X
+Alzheimer's Disease	TNF
+Brain Ischemia	TNF
+Dermatomyositis	TNF
+Parkinson Disease	TNF
+Compression of spinal cord	TNF
+Status Epilepticus	TNF
+Trigeminal Neuralgia	TNF
+Polymyositis	TNF
+Adult type dermatomyositis	TNF
+Dermatomyositis, Childhood Type	TNF
+Trigeminal Neuralgia, Idiopathic	TNF
+Secondary Trigeminal Neuralgia	TNF
+Alzheimer Disease, Late Onset	TNF
+Polymyositis, Idiopathic	TNF
+Alzheimer's Disease, Focal Onset	TNF
+Alzheimer Disease, Early Onset	TNF
+Non-Convulsive Status Epilepticus	TNF
+Cerebral Ischemia	TNF
+AMYOTROPHIC LATERAL SCLEROSIS 1	TNF
+Amyotrophic Lateral Sclerosis, Sporadic	TNF
+Amyotrophic Lateral Sclerosis, Familial	TNF
+Multiple Sclerosis	TNFAIP3
+Middle Cerebral Artery Thrombosis	TNFAIP6
+Middle Cerebral Artery Occlusion	TNFAIP6
+Infarction, Middle Cerebral Artery	TNFAIP6
+Brain Ischemia	TNFRSF1A
+Multiple Sclerosis	TNFRSF1A
+Cerebral Ischemia	TNFRSF1A
+Brain Ischemia	TNFRSF1B
+Cerebral Ischemia	TNFRSF1B
+Myopathies, Nemaline	TNNT1
+Amyotrophic Lateral Sclerosis	TP53
+Brain Ischemia	TP53
+Amyotrophic Lateral Sclerosis With Dementia	TP53
+Carotid Atherosclerosis	TP53
+Arterial Diseases, Common Carotid	TP53
+Cerebral Ischemia	TP53
+Alzheimer's Disease	TPI1
+Alzheimer Disease, Late Onset	TPI1
+Alzheimer's Disease, Focal Onset	TPI1
+Alzheimer Disease, Early Onset	TPI1
+Centronuclear myopathy	TPM2
+Myopathies, Nemaline	TPM2
+X-linked centronuclear myopathy	TPM2
+Nemaline Myopathy, Childhood Onset	TPM2
+Congenital Structural Myopathy	TPM2
+Myopathy, Centronuclear, Autosomal Dominant	TPM2
+Autosomal Recessive Centronuclear Myopathy	TPM2
+Myopathy, Centronuclear, 1	TPM2
+Dermatomyositis	C2
+Adult type dermatomyositis	C2
+Dermatomyositis, Childhood Type	C2
+Centronuclear myopathy	TPM3
+Myopathies, Nemaline	TPM3
+X-linked centronuclear myopathy	TPM3
+Nemaline Myopathy, Childhood Onset	TPM3
+Congenital Structural Myopathy	TPM3
+Myopathy, Centronuclear, Autosomal Dominant	TPM3
+Nemaline myopathy 1	TPM3
+Autosomal Recessive Centronuclear Myopathy	TPM3
+Myopathy, Centronuclear, 1	TPM3
+Transient Ischemic Attack	C3
+Middle Cerebral Artery Thrombosis	C3
+Middle Cerebral Artery Occlusion	C3
+Infarction, Middle Cerebral Artery	C3
+Transient Cerebral Ischemia	C3
+Single Seizure	TRH
+Ataxia, Spinocerebellar	TRPC3
+Spinocerebellar Ataxia Type 1	TRPC3
+Spinocerebellar Ataxia Type 2	TRPC3
+Parkinson Disease	TRPM2
+Epilepsy	TSC1
+Single Seizure	TSC1
+Familial Progressive Myoclonic Epilepsy	TSC1
+Myoclonic Epilepsies, Progressive	TSC1
+Epilepsy	TSC2
+Single Seizure	TSC2
+Myopathy, Centronuclear, Autosomal Recessive	TTN
+Tibial Muscular Dystrophy	TTN
+Myofibrillar Myopathy	TTN
+Autosomal Recessive Centronuclear Myopathy	TTN
+Distal Myopathy 1	TTN
+Inherited neuropathies	TTPA
+Carpal Tunnel Syndrome	TTR
+Familial Amyloid Polyneuropathy, Type V	TTR
+Familial Amyloid Polyneuropathy, Type IV	TTR
+Microcephaly	TUBG1
+Cortical Dysplasia	TUBG1
+Malformations of Cortical Development	TUBG1
+Status Epilepticus	CCR2
+Non-Convulsive Status Epilepticus	CCR2
+Epilepsy	TXNRD1
+Multiple Sclerosis	TYK2
+Communicating Hydrocephalus	CRPPA
+Hydrocephalus	CRPPA
+Congenital Hydrocephalus	CRPPA
+Hydrocephalus Ex-Vacuo	CRPPA
+Obstructive Hydrocephalus	CRPPA
+Dementia	TYROBP
+Meningitis	C8A
+Pachymeningitis	C8A
+Meningitis	C8B
+Pachymeningitis	C8B
+Epilepsy	UBE3A
+Dermatomyositis	C9
+Adult type dermatomyositis	C9
+Dermatomyositis, Childhood Type	C9
+Brain Ischemia	UCP2
+Cerebral Ischemia	UCP2
+Epilepsy	SLC35A2
+Autism Spectrum Disorders	USH2A
+Multiple Sclerosis	VCAM1
+Amyotrophic Lateral Sclerosis	VCP
+Frontotemporal Dementia With Motor Neuron Disease	VCP
+Epilepsy	VDAC1
+Epilepsy	VDAC2
+Cerebral Infarction	VDR
+Multiple Sclerosis	VDR
+Epilepsy, Lateral Temporal	VDR
+Subcortical Infarction	VDR
+Alzheimer's Disease	VEGFA
+Status Epilepticus	VEGFA
+Epilepsy, Lateral Temporal	VEGFA
+Alzheimer Disease, Late Onset	VEGFA
+Alzheimer's Disease, Focal Onset	VEGFA
+Alzheimer Disease, Early Onset	VEGFA
+Non-Convulsive Status Epilepticus	VEGFA
+Motor Neuron Disease	VIM
+Lateral Sclerosis	VIM
+Familial Motor Neuron Disease	VIM
+Motor Neuron Disease, Lower	VIM
+Motor Neuron Disease, Upper	VIM
+Motor Neuron Disease, Secondary	VIM
+AMYOTROPHIC LATERAL SCLEROSIS 1	VIM
+Amyotrophic Lateral Sclerosis, Sporadic	VIM
+Amyotrophic Lateral Sclerosis, Familial	VIM
+Cerebellar Hypoplasia	VLDLR
+Epilepsy, Lateral Temporal	TRPV1
+Congenital pontocerebellar hypoplasia	VRK1
+Pontocerebellar Hypoplasia Type 1	VRK1
+Alzheimer's Disease	VSNL1
+Alzheimer Disease, Late Onset	VSNL1
+Alzheimer's Disease, Focal Onset	VSNL1
+Alzheimer Disease, Early Onset	VSNL1
+Cerebral Thrombosis	VWF
+Intracranial Thrombosis	VWF
+Brain Thrombosis	VWF
+Microcephaly	NSD2
+AMYOTROPHIC LATERAL SCLEROSIS 1	WNT7A
+Amyotrophic Lateral Sclerosis, Sporadic	WNT7A
+Amyotrophic Lateral Sclerosis, Familial	WNT7A
+Middle Cerebral Artery Thrombosis	XDH
+Middle Cerebral Artery Occlusion	XDH
+Infarction, Middle Cerebral Artery	XDH
+Diastematomyelia	ZIC2
+Neurenteric Cyst	ZIC2
+Holoprosencephaly	ZIC2
+Tethered Cord Syndrome	ZIC2
+Iniencephaly	ZIC2
+Craniorachischisis	ZIC2
+Lobar Holoprosencephaly	ZIC2
+Amyotrophic Lateral Sclerosis	CFAP410
+Amyotrophic Lateral Sclerosis With Dementia	CFAP410
+Myotonic Dystrophy	CNBP
+Congenital Myotonic Dystrophy	CNBP
+Autism Spectrum Disorders	CA2
+Alzheimer's Disease	MIR766
+Alzheimer Disease, Late Onset	MIR766
+Alzheimer's Disease, Focal Onset	MIR766
+Alzheimer Disease, Early Onset	MIR766
+Absence Epilepsy	CACNA1A
+Ataxia, Spinocerebellar	CACNA1A
+Epileptic encephalopathy	CACNA1A
+Epilepsy, Absence, Atypical	CACNA1A
+Spinocerebellar Ataxia Type 1	CACNA1A
+Spinocerebellar Ataxia Type 2	CACNA1A
+Hemiplegic migraine, familial type 1	CACNA1A
+Childhood Absence Epilepsy	CACNA1A
+Juvenile Absence Epilepsy	CACNA1A
+Absence Seizure Disorder	CACNA1A
+Single Seizure	SLC30A1
+Alzheimer's Disease	SLC30A4
+Alzheimer Disease, Late Onset	SLC30A4
+Alzheimer's Disease, Focal Onset	SLC30A4
+Alzheimer Disease, Early Onset	SLC30A4
+Epilepsy	CACNB4
+Epilepsy, Atonic	CACNB4
+Epilepsy, Tonic	CACNB4
+Juvenile Myoclonic Epilepsy	CACNB4
+Inherited neuropathies	CACNB4
+Episodic Ataxia	CACNB4
+Myoclonic Epilepsy, Adolescent	CACNB4
+Myoclonic Epilepsy, Juvenile, 1	CACNB4
+Optic Atrophy	SLBP
+Microcephaly	TSEN34
+Congenital pontocerebellar hypoplasia	TSEN34
+Pontocerebellar Hypoplasia Type 2	TSEN34
+Cervical Migraine Syndrome	TRPM8
+Common Migraine	TRPM8
+Status Migrainosus	TRPM8
+Idiopathic familial dystonia	ALDH5A1
+Focal Dystonia	ALDH5A1
+Central Nervous System Metabolic Disorders	ALDH5A1
+Metabolic Disorder, Central Nervous System, Acquired	ALDH5A1
+Autosomal Dominant Familial Dystonia	ALDH5A1
+Autosomal Recessive Familial Dystonia	ALDH5A1
+Dystonia, Primary	ALDH5A1
+Dystonia, Secondary	ALDH5A1
+Familial Dystonia	ALDH5A1
+Spastic Paraplegia, Hereditary	FA2H
+Moyamoya Disease	BRCC3
+Muscular Dystrophy, Emery-Dreifuss	TMEM43
+X-Linked Emery-Dreifuss Muscular Dystrophy	TMEM43
+Autosomal Recessive Emery-Dreifuss Muscular Dystrophy	TMEM43
+AMYOTROPHIC LATERAL SCLEROSIS 1	CALB2
+Amyotrophic Lateral Sclerosis, Sporadic	CALB2
+Amyotrophic Lateral Sclerosis, Familial	CALB2
+Familial Progressive Myoclonic Epilepsy	EPM2A
+Myoclonic Epilepsies, Progressive	EPM2A
+Cervical Migraine Syndrome	CALCA
+Trigeminal Neuralgia	CALCA
+Sciatic Neuropathy	CALCA
+Lesion of Sciatic Nerve	CALCA
+Sciatic Neuritis	CALCA
+Common Migraine	CALCA
+Status Migrainosus	CALCA
+Trigeminal Neuralgia, Idiopathic	CALCA
+Secondary Trigeminal Neuralgia	CALCA
+Sciatic Nerve Palsy	CALCA
+Autism Spectrum Disorders	ROGDI
+Primary microcephaly	MCPH1
+Autosomal Recessive Primary Microcephaly	MCPH1
+Epileptic encephalopathy	AIMP2
+Leigh Disease	NARS2
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	NARS2
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	NARS2
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	NARS2
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	NARS2
+Myoclonic dystonia	KCTD17
+Autism Spectrum Disorders	DIPK2B
+Cervical Migraine Syndrome	SUGCT
+Status Migrainosus	SUGCT
+Epilepsy	ALG13
+Epileptic encephalopathy	ALG13
+Ataxia, Spinocerebellar	UBA5
+Spinocerebellar Ataxia Type 1	UBA5
+Spinocerebellar Ataxia Type 2	UBA5
+Myofibrillar Myopathy	PYROXD1
+Epilepsy	L2HGDH
+Alzheimer's Disease	CALM1
+Alzheimer Disease, Late Onset	CALM1
+Alzheimer's Disease, Focal Onset	CALM1
+Alzheimer Disease, Early Onset	CALM1
+Diastematomyelia	FUZ
+Neurenteric Cyst	FUZ
+Tethered Cord Syndrome	FUZ
+Iniencephaly	FUZ
+Craniorachischisis	FUZ
+Spina bifida aperta of cervical spine	FUZ
+Optic Atrophy 1	OPA3
+Inherited neuropathies	SPG11
+AMYOTROPHIC LATERAL SCLEROSIS 5	SPG11
+Juvenile amyotrophic lateral sclerosis	SPG11
+Microcephaly	NUP214
+Epileptic encephalopathy	NUP214
+Microcephaly	CEP63
+Primary microcephaly	CEP63
+Autosomal Recessive Primary Microcephaly	CEP63
+Autism Spectrum Disorders	TET1
+Leigh Disease	SLC19A3
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	SLC19A3
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	SLC19A3
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	SLC19A3
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	SLC19A3
+Microcephaly	TSEN2
+Congenital pontocerebellar hypoplasia	TSEN2
+Pontocerebellar Hypoplasia Type 2	TSEN2
+Epilepsy	ASXL3
+Spastic Paraplegia, Hereditary	DDHD1
+Autism Spectrum Disorders	DDHD1
+Hypoplasia of corpus callosum	LNPK
+Moyamoya Disease	SLC2A10
+Amyotrophic Lateral Sclerosis	TAF15
+Distal Hereditary Motor Neuropathy, Type II	FBXO38
+Epilepsy	LMAN2L
+ATAXIA, SENSORY, AUTOSOMAL DOMINANT	RNF170
+X-linked infantile spasms	CAMK2G
+Diastematomyelia	VANGL1
+Neurenteric Cyst	VANGL1
+Tethered Cord Syndrome	VANGL1
+Iniencephaly	VANGL1
+Craniorachischisis	VANGL1
+Lumbosacral agenesis	VANGL1
+Spina bifida aperta of cervical spine	VANGL1
+Optic Neuritis	CAPN1
+Retrobulbar Neuritis	CAPN1
+Epilepsy	KDM5C
+Epilepsy	SMC1A
+Epileptic encephalopathy	SMC1A
+Myasthenic Syndromes, Congenital	COLQ
+Microcephaly	TRRAP
+Alzheimer's Disease	PICALM
+Alzheimer Disease, Late Onset	PICALM
+Alzheimer's Disease, Focal Onset	PICALM
+Alzheimer Disease, Early Onset	PICALM
+Immune Disorders, Nervous System	EOMES
+Microcephaly	CARS1
+Multiple Sclerosis	CASP1
+Status Epilepticus	CASP1
+Non-Convulsive Status Epilepticus	CASP1
+AMYOTROPHIC LATERAL SCLEROSIS 1	CASP1
+Amyotrophic Lateral Sclerosis, Sporadic	CASP1
+Amyotrophic Lateral Sclerosis, Familial	CASP1
+Microcephaly	PUS3
+Alzheimer's Disease	CASP3
+Brain Ischemia	CASP3
+Status Epilepticus	CASP3
+Encephalopathy, Toxic	CASP3
+Toxic Encephalitis	CASP3
+Diabetic Mononeuropathy	CASP3
+Diabetic Amyotrophy	CASP3
+Diabetic Autonomic Neuropathy	CASP3
+Alzheimer Disease, Late Onset	CASP3
+Alzheimer's Disease, Focal Onset	CASP3
+Alzheimer Disease, Early Onset	CASP3
+Diabetic Neuralgia	CASP3
+Non-Convulsive Status Epilepticus	CASP3
+Cerebral Ischemia	CASP3
+CEREBRAL CAVERNOUS MALFORMATIONS 2	CCM2
+Microcephaly	H4C3
+Encephalopathy, Toxic	CRISPLD2
+Toxic Encephalitis	CRISPLD2
+Epilepsy	EIF2A
+Autism Spectrum Disorders	CTTNBP2
+Epilepsy	SPARCL1
+Status Epilepticus	CASP8
+Non-Convulsive Status Epilepticus	CASP8
+Dyskinetic syndrome	PPP1R1B
+Hemiballismus	PPP1R1B
+Brain Ischemia	CASP9
+Transient Ischemic Attack	CASP9
+Cerebral Ischemia	CASP9
+Transient Cerebral Ischemia	CASP9
+Muscular Dystrophy, Duchenne	LTBP4
+Leigh Disease	GFM2
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	GFM2
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	GFM2
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	GFM2
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	GFM2
+Microcephaly	NTNG2
+Nemaline Myopathy, Childhood Onset	MYPN
+Brain Ischemia	CAT
+Status Epilepticus	CAT
+Diabetic Mononeuropathy	CAT
+Diabetic Amyotrophy	CAT
+Diabetic Autonomic Neuropathy	CAT
+Diabetic Neuralgia	CAT
+Single Seizure	CAT
+Non-Convulsive Status Epilepticus	CAT
+Cerebral Ischemia	CAT
+Microcephaly	GPT2
+Familial Progressive Myoclonic Epilepsy	LMNB2
+Myoclonic Epilepsies, Progressive	LMNB2
+Centronuclear myopathy	ORAI1
+X-linked centronuclear myopathy	ORAI1
+Congenital Structural Myopathy	ORAI1
+Myopathy, Centronuclear, Autosomal Dominant	ORAI1
+Autosomal Recessive Centronuclear Myopathy	ORAI1
+Myopathy, Centronuclear, 1	ORAI1
+Microcephaly	MFSD2A
+Autosomal Recessive Primary Microcephaly	MFSD2A
+Essential Tremor	LINGO1
+Familial Tremor	LINGO1
+Holoprosencephaly	DISP1
+Lobar Holoprosencephaly	DISP1
+Ataxia, Spinocerebellar	RBM17
+Spinocerebellar Ataxia Type 1	RBM17
+Spinocerebellar Ataxia Type 2	RBM17
+Epilepsy	KCNAB2
+Autism Spectrum Disorders	SHANK3
+Myasthenic Syndromes, Congenital	ALG2
+Primary microcephaly	TUBGCP6
+Diastematomyelia	ZIC5
+Neurenteric Cyst	ZIC5
+Tethered Cord Syndrome	ZIC5
+Iniencephaly	ZIC5
+Craniorachischisis	ZIC5
+Leigh Disease	GFM1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	GFM1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	GFM1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	GFM1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	GFM1
+Status Epilepticus	PDXK
+Non-Convulsive Status Epilepticus	PDXK
+Microcephaly	CASK
+Congenital pontocerebellar hypoplasia	CASK
+Idiopathic familial dystonia	PRKRA
+Focal Dystonia	PRKRA
+Autosomal Dominant Juvenile Parkinson Disease	PRKRA
+Autosomal Dominant Parkinsonism	PRKRA
+Autosomal Recessive Parkinsonism	PRKRA
+Familial Juvenile Parkinsonism	PRKRA
+Parkinsonism, Juvenile	PRKRA
+Autosomal Dominant Familial Dystonia	PRKRA
+Autosomal Recessive Familial Dystonia	PRKRA
+Dystonia, Primary	PRKRA
+Dystonia, Secondary	PRKRA
+Familial Dystonia	PRKRA
+Absence Epilepsy	JRK
+Epilepsy, Atonic	JRK
+Epilepsy, Tonic	JRK
+Juvenile Myoclonic Epilepsy	JRK
+Epilepsy, Absence, Atypical	JRK
+Childhood Absence Epilepsy	JRK
+Juvenile Absence Epilepsy	JRK
+Myoclonic Epilepsy, Adolescent	JRK
+Myoclonic Epilepsy, Juvenile, 1	JRK
+Absence Seizure Disorder	JRK
+Alzheimer's Disease	UNC5C
+Status Epilepticus	KCNK5
+Non-Convulsive Status Epilepticus	KCNK5
+Brain Ischemia	DYNLL1
+Cerebral Ischemia	DYNLL1
+Status Epilepticus	BECN1
+Non-Convulsive Status Epilepticus	BECN1
+Lewy Body Disease	BECN1
+Multiple Sclerosis	CBLB
+Middle Cerebral Artery Thrombosis	SERPINH1
+Middle Cerebral Artery Occlusion	SERPINH1
+Infarction, Middle Cerebral Artery	SERPINH1
+Multiple Sclerosis	TNFSF14
+Sensory hearing loss	FADD
+Alcohol Withdrawal Seizures	MPDZ
+Single Seizure	MPDZ
+Leigh Disease	SUCLG1
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	SUCLG1
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	SUCLG1
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	SUCLG1
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	SUCLG1
+Leigh Disease	SUCLA2
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	SUCLA2
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	SUCLA2
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	SUCLA2
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	SUCLA2
+Hypoplasia of the optic nerve	HESX1
+Single Seizure	NRP2
+Epilepsy	SYNGAP1
+Epileptic encephalopathy	SYNGAP1
+Encephalopathy, Toxic	CCK
+Toxic Encephalitis	CCK
+Single Seizure	CCK
+Autosomal Dominant Juvenile Parkinson Disease	ALDH1A2
+Autosomal Dominant Parkinsonism	ALDH1A2
+Autosomal Recessive Parkinsonism	ALDH1A2
+Familial Juvenile Parkinsonism	ALDH1A2
+Parkinsonism, Juvenile	ALDH1A2
+Parkinsonism, Juvenile	SYNJ1
+Amyotrophic Lateral Sclerosis	SQSTM1
+Amyotrophic Lateral Sclerosis With Dementia	SQSTM1
+Frontotemporal Dementia With Motor Neuron Disease	SQSTM1
+Epilepsy	SLC5A6
+Microcephaly	SLC5A6
+Cerebral atrophy	SLC5A6
+Progressive cerebellar ataxia	EIF2B5
+Myoclonic dystonia	SGCE
+Absence Epilepsy	CACNA1H
+Epilepsy, Absence, Atypical	CACNA1H
+Childhood Absence Epilepsy	CACNA1H
+Juvenile Absence Epilepsy	CACNA1H
+Absence Seizure Disorder	CACNA1H
+Ataxia, Spinocerebellar	CACNA1G
+Spinocerebellar Ataxia Type 1	CACNA1G
+Spinocerebellar Ataxia Type 2	CACNA1G
+Holoprosencephaly	FOXH1
+Lobar Holoprosencephaly	FOXH1
+Communicating Hydrocephalus	CCND2
+Hydrocephalus	CCND2
+Congenital Hydrocephalus	CCND2
+Hydrocephalus Ex-Vacuo	CCND2
+Obstructive Hydrocephalus	CCND2
+Distal Hereditary Motor Neuropathy, Type II	HSPB3
+Amyotrophic Lateral Sclerosis	CCNF
+Spastic Paraplegia	KLC4
+Dandy-Walker Syndrome	EXOC3L2
+Hydrocephalus	EXOC3L2
+Parkinson Disease	RPL14
+Holoprosencephaly	PSTPIP1
+Charcot-Marie-Tooth Disease	LRSAM1
+Hereditary Motor and Sensory Neuropathy Type I	LRSAM1
+Epilepsy	PIGQ
+Optic Atrophy	PIGQ
+X-linked infantile spasms	PIGQ
+Parkinson Disease	MTA1
+Charcot-Marie-Tooth Disease	SLC25A46
+Optic Atrophy	SLC25A46
+Hereditary Motor and Sensory Neuropathy Type I	SLC25A46
+AMYOTROPHIC LATERAL SCLEROSIS 1	INA
+Amyotrophic Lateral Sclerosis, Sporadic	INA
+Amyotrophic Lateral Sclerosis, Familial	INA
+Huntington Disease	AIFM1
+Huntington Disease, Late Onset	AIFM1
+Juvenile Huntington Disease	AIFM1
+Autism Spectrum Disorders	NEMF
+Encephalopathy, Toxic	CD3D
+Toxic Encephalitis	CD3D
+Leigh Disease	NDUFAF2
+Muscular Dystrophy, Duchenne	CD4
+Becker Muscular Dystrophy	CD4
+Duchenne and Becker Muscular Dystrophy	CD4
+Amyotrophic Lateral Sclerosis	VAPB
+AMYOTROPHIC LATERAL SCLEROSIS 8 (disorder)	VAPB
+Multiple Sclerosis	CD6
+AMYOTROPHIC LATERAL SCLEROSIS 1	CD7
+Amyotrophic Lateral Sclerosis, Sporadic	CD7
+Amyotrophic Lateral Sclerosis, Familial	CD7
+Autism Spectrum Disorders	GPR50
+Epilepsy	CACNA2D2
+Absence Epilepsy	CACNA2D2
+Rheumatic Chorea	CACNA2D2
+Benign Hereditary Chorea	CACNA2D2
+Chronic progressive chorea	CACNA2D2
+Hereditary Chorea	CACNA2D2
+Epilepsy, Absence, Atypical	CACNA2D2
+Childhood Absence Epilepsy	CACNA2D2
+Juvenile Absence Epilepsy	CACNA2D2
+Absence Seizure Disorder	CACNA2D2
+Pelizaeus-Merzbacher-like disease, autosomal recessive, 2	AIMP1
+External Ophthalmoplegia	MGME1
+Autosomal Recessive Primary Microcephaly	COPB2
+Polymicrogyria	ADGRG1
+Single Seizure	PIGM
+Autism Spectrum Disorders	TRIP12
+Microcephaly	ZNHIT3
+Carotid Atherosclerosis	CD163
+Arterial Diseases, Common Carotid	CD163
+Epilepsy, Lateral Temporal	SLIT2
+Primary microcephaly	TRMT10A
+Autism Spectrum Disorders	NRXN3
+Epileptic encephalopathy	PLAA
+Autism Spectrum Disorders	NRXN1
+Autism Spectrum Disorders	NRXN2
+Sensorineural hearing loss, bilateral	OTOF
+Spastic Paraplegia, Hereditary	CYP7B1
+Hereditary Autosomal Dominant Spastic Paraplegia	CYP7B1
+Autosomal Recessive Hereditary Spastic Paraplegia	CYP7B1
+Hereditary X-Linked Recessive Spastic Paraplegia	CYP7B1
+X-Linked, Spastic Paraplegia, Hereditary	CYP7B1
+Ischemic stroke	ITM2B
+Alzheimer's Disease	CD33
+Alzheimer Disease, Late Onset	CD33
+Alzheimer's Disease, Focal Onset	CD33
+Alzheimer Disease, Early Onset	CD33
+Status Epilepticus	EIF2AK3
+Progressive supranuclear palsy	EIF2AK3
+Non-Convulsive Status Epilepticus	EIF2AK3
+Ophthalmoplegia, Progressive Supranuclear	EIF2AK3
+Supranuclear Palsy, Progressive, 1	EIF2AK3
+Cervical Migraine Syndrome	FHL5
+Status Migrainosus	FHL5
+Alzheimer's Disease	ADAMTS1
+Alzheimer Disease, Late Onset	ADAMTS1
+Alzheimer's Disease, Focal Onset	ADAMTS1
+Alzheimer Disease, Early Onset	ADAMTS1
+Charcot-Marie-Tooth Disease	SPTLC2
+Hereditary Sensory Autonomic Neuropathy, Type 1	SPTLC2
+Parkinson Disease	BAG5
+Myofibrillar Myopathy	BAG3
+Rett Syndrome	GABBR2
+Epileptic encephalopathy	GABBR2
+Rett Syndrome, Atypical	GABBR2
+Autism Spectrum Disorders	CEP41
+Familial Progressive Myoclonic Epilepsy	GOSR2
+Myoclonic Epilepsies, Progressive	GOSR2
+Alcohol Withdrawal Delirium	CLOCK
+Multiple Sclerosis	CD40
+Status Epilepticus	CD40
+Non-Convulsive Status Epilepticus	CD40
+Myasthenic Syndromes, Congenital	PREPL
+Amyotrophic Lateral Sclerosis	CD40LG
+Amyotrophic Lateral Sclerosis With Dementia	CD40LG
+Parkinson Disease	TCL1B
+Multiple Sclerosis	CD58
+Primary microcephaly	CEP135
+Autosomal Recessive Primary Microcephaly	CEP135
+AMYOTROPHIC LATERAL SCLEROSIS 1	CD68
+Amyotrophic Lateral Sclerosis, Sporadic	CD68
+Amyotrophic Lateral Sclerosis, Familial	CD68
+Myoclonic Epilepsy	RAPGEF2
+Idiopathic Myoclonic Epilepsy	RAPGEF2
+Myoclonic Absence Epilepsy	RAPGEF2
+Myoclonic Encephalopathy	RAPGEF2
+Benign Infantile Myoclonic Epilepsy	RAPGEF2
+Epilepsy, Myoclonic, Infantile	RAPGEF2
+Ataxia, Spinocerebellar	RUBCN
+Spinocerebellar Ataxia Type 1	RUBCN
+Spinocerebellar Ataxia Type 2	RUBCN
+Epilepsy	SETD1A
+Idiopathic familial dystonia	KMT2B
+Focal Dystonia	KMT2B
+Autosomal Dominant Familial Dystonia	KMT2B
+Autosomal Recessive Familial Dystonia	KMT2B
+Dystonia, Primary	KMT2B
+Dystonia, Secondary	KMT2B
+Familial Dystonia	KMT2B
+Amyotrophic Lateral Sclerosis	MATR3
+Myofibrillar Myopathy	MATR3
+Epileptic encephalopathy	MAGI2
+Spastic Paraplegia, Hereditary	TECPR2
+Hereditary Autosomal Dominant Spastic Paraplegia	TECPR2
+Autosomal Recessive Hereditary Spastic Paraplegia	TECPR2
+Hereditary X-Linked Recessive Spastic Paraplegia	TECPR2
+X-Linked, Spastic Paraplegia, Hereditary	TECPR2
+Amyotrophic Lateral Sclerosis	FIG4
+Charcot-Marie-Tooth Disease	FIG4
+Hereditary Motor and Sensory Neuropathy Type I	FIG4
+AMYOTROPHIC LATERAL SCLEROSIS 11	FIG4
+Inherited neuropathies	WASHC5
+Optic Atrophy	MFN2
+Hereditary Autosomal Dominant Spastic Paraplegia	MFN2
+Microcephaly	KIF14
+Autosomal Recessive Primary Microcephaly	KIF14
+Attention deficit hyperactivity disorder	MED13
+Leigh Disease	SCO2
+Leigh Syndrome Due To Mitochondrial Complex II Deficiency	SCO2
+Leigh Syndrome due to Mitochondrial Complex III Deficiency	SCO2
+Leigh Syndrome due to Mitochondrial Complex IV Deficiency	SCO2
+Leigh Syndrome due to Mitochondrial Complex V Deficiency	SCO2

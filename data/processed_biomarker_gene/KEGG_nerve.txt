@@ -1,0 +1,1170 @@
+Alzheimer disease	APP	mutation
+Alzheimer disease	APOE	mutation
+Alzheimer disease	PSEN1	mutation
+Alzheimer disease	PSEN2	mutation
+Lewy body dementia (LBD)	SNCA	mutation
+Lewy body dementia (LBD)	SNCA	triplications
+Lewy body dementia (LBD)	SNCB	mutation
+Lewy body dementia (LBD)	LRRK2	mutation
+Lewy body dementia (LBD)	GBA	mutation
+Parkinson disease	SNCA	mutation
+Parkinson disease	SNCA	duplication
+Parkinson disease	SNCA	triplication
+Parkinson disease	PRKN	mutation
+Parkinson disease	UCHL1	mutation
+Parkinson disease	PINK1	mutation
+Parkinson disease	DJ1	mutation
+Parkinson disease	LRRK2	mutation
+Parkinson disease	ATP13A2	mutation
+Parkinson disease	GIGYF2	mutation
+Parkinson disease	HTRA2	mutation
+Parkinson disease	PLA2G6	mutation
+Parkinson disease	FBXO7	mutation
+Parkinson disease	VPS35	mutation
+Parkinson disease	EIF4G1	mutation
+Parkinson disease	DNAJC16	mutation
+Parkinson disease	CHCHD2	mutation
+Parkinson disease	NR4A2	mutation
+Parkinsonian syndrome	SNCA
+Parkinsonian syndrome	LRRK2
+Parkinsonian syndrome	Parkin
+Parkinsonian syndrome	PINK1
+Parkinsonian syndrome	DJ-1
+Parkinsonian syndrome	ATP13A2
+Parkinsonian syndrome	SYNJ1
+Parkinsonian syndrome	DNAJC13
+Parkinsonian syndrome	VPS13C
+Amyotrophic lateral sclerosis (ALS)	SOD1	mutation
+Amyotrophic lateral sclerosis (ALS)	NEFH	insertion
+Amyotrophic lateral sclerosis (ALS)	NEFH	deletion
+Amyotrophic lateral sclerosis (ALS)	PRPH	deletion
+Amyotrophic lateral sclerosis (ALS)	DCTN1	mutation
+Amyotrophic lateral sclerosis (ALS)	ALS2	mutation
+Amyotrophic lateral sclerosis (ALS)	SETX	mutation
+Amyotrophic lateral sclerosis (ALS)	SPG11
+Amyotrophic lateral sclerosis (ALS)	FUS	mutation
+Amyotrophic lateral sclerosis (ALS)	VAPB	mutation
+Amyotrophic lateral sclerosis (ALS)	ANG	mutation
+Amyotrophic lateral sclerosis (ALS)	TARDBP	mutation
+Amyotrophic lateral sclerosis (ALS)	FIG4	mutation
+Amyotrophic lateral sclerosis (ALS)	OPTN	mutation
+Amyotrophic lateral sclerosis (ALS)	VCP
+Amyotrophic lateral sclerosis (ALS)	UBQLN2
+Amyotrophic lateral sclerosis (ALS)	SIGMAR1
+Amyotrophic lateral sclerosis (ALS)	CHMP2B
+Amyotrophic lateral sclerosis (ALS)	PFN1
+Amyotrophic lateral sclerosis (ALS)	ERBB4
+Amyotrophic lateral sclerosis (ALS)	HNRNPA1
+Amyotrophic lateral sclerosis (ALS)	MATR3
+Amyotrophic lateral sclerosis (ALS)	TUBA4A
+Amyotrophic lateral sclerosis (ALS)	ANXA11
+Amyotrophic lateral sclerosis (ALS)	C9ORF72
+Amyotrophic lateral sclerosis (ALS)	CHCHD10
+Amyotrophic lateral sclerosis (ALS)	SQSTM1
+Amyotrophic lateral sclerosis (ALS)	TBK1
+Amyotrophic lateral sclerosis (ALS)	MAPT
+Amyotrophic lateral sclerosis (ALS)	GLE1
+Amyotrophic lateral sclerosis (ALS)	TRPM7
+Huntington disease	HTT	repeat expansion
+Huntington disease-like syndrome	PRNP
+Huntington disease-like syndrome	HDL2
+Huntington disease-like syndrome	HDL4
+Dentatorubropallidoluysian atrophy (DRPLA)	ATN1	repeat expansion
+Spinal and bulbar muscular atrophy (SBMA)	AR	repeat expansion
+Spinocerebellar ataxia (SCA)	ATXN1	repeat expansion
+Spinocerebellar ataxia (SCA)	ATXN2	repeat expansion
+Spinocerebellar ataxia (SCA)	ATXN3	repeat expansion
+Spinocerebellar ataxia (SCA)	SPTBN2
+Spinocerebellar ataxia (SCA)	CACNA1A	repeat expansion
+Spinocerebellar ataxia (SCA)	ATXN7	repeat expansion
+Spinocerebellar ataxia (SCA)	ATXN8OS	repeat expansion
+Spinocerebellar ataxia (SCA)	ATXN10	repeat expansion
+Spinocerebellar ataxia (SCA)	TTBK2
+Spinocerebellar ataxia (SCA)	PPP2R2B	repeat expansion
+Spinocerebellar ataxia (SCA)	KCNC3
+Spinocerebellar ataxia (SCA)	PRKCG
+Spinocerebellar ataxia (SCA)	ITPR1	deletion
+Spinocerebellar ataxia (SCA)	TBP	repeat expansion
+Spinocerebellar ataxia (SCA)	KCND3
+Spinocerebellar ataxia (SCA)	TMEM240
+Spinocerebellar ataxia (SCA)	PDYN
+Spinocerebellar ataxia (SCA)	EEF2
+Spinocerebellar ataxia (SCA)	FGF14
+Spinocerebellar ataxia (SCA)	AFG3L2
+Spinocerebellar ataxia (SCA)	BEAN1
+Spinocerebellar ataxia (SCA)	TGM6
+Spinocerebellar ataxia (SCA)	NOP56
+Spinocerebellar ataxia (SCA)	DAB1
+Spinocerebellar ataxia (SCA)	ELOVL5
+Spinocerebellar ataxia (SCA)	CCDC88C
+Spinocerebellar ataxia (SCA)	TRPC3
+Spinocerebellar ataxia (SCA)	CACNA1G
+Spinocerebellar ataxia (SCA)	MME
+Spinocerebellar ataxia (SCA)	GRM1
+Spinocerebellar ataxia (SCA)	FAT2
+Spinocerebellar ataxia (SCA)	PLD3
+Spinocerebellar ataxia (SCA)	PUM1
+Machado-Joseph disease	ATXN3	repeat expansion
+Cerebellar ataxia cayman type	ATCAY
+Autosomal recessive spastic ataxia of Charlevoix-Saguenay	SACS
+Autosomal recessive spinocerebellar ataxias	SETX
+Autosomal recessive spinocerebellar ataxias	PMPCA
+Autosomal recessive spinocerebellar ataxias	VPS13D
+Autosomal recessive spinocerebellar ataxias	TPP1
+Autosomal recessive spinocerebellar ataxias	SYNE1
+Autosomal recessive spinocerebellar ataxias	ADCK3
+Autosomal recessive spinocerebellar ataxias	ANO10
+Autosomal recessive spinocerebellar ataxias	SYT14
+Autosomal recessive spinocerebellar ataxias	WWOX
+Autosomal recessive spinocerebellar ataxias	GRM1
+Autosomal recessive spinocerebellar ataxias	SPTBN2
+Autosomal recessive spinocerebellar ataxias	KIAA0226
+Autosomal recessive spinocerebellar ataxias	STUB1
+Autosomal recessive spinocerebellar ataxias	CWF19L1
+Autosomal recessive spinocerebellar ataxias	GRID2
+Autosomal recessive spinocerebellar ataxias	SLC9A1
+Autosomal recessive spinocerebellar ataxias	SNX14
+Autosomal recessive spinocerebellar ataxias	SCYL1
+Autosomal recessive spinocerebellar ataxias	VWA3B
+Autosomal recessive spinocerebellar ataxias	TDP2
+Autosomal recessive spinocerebellar ataxias	UBA5
+Autosomal recessive spinocerebellar ataxias	ATG5
+Autosomal recessive spinocerebellar ataxias	XRCC1
+Autosomal recessive spinocerebellar ataxias	GDAP2
+Autosomal recessive spinocerebellar ataxias	THG1L
+Autosomal recessive spinocerebellar ataxias	TDP1
+Autosomal recessive spinocerebellar ataxias	COA7
+Prion disease	PRNP	mutation
+Ataxia telangiectasia	ATM
+Ataxia-telangiectasia-like syndrome	MRE11A
+Ataxia-telangiectasia-like syndrome	PCNA
+Alexander disease	GFAP	mutation
+Refsum disease	PHYH
+Refsum disease	PEX7
+Friedreich ataxia	FXN
+Leber hereditary optic atrophy	ND1
+Leber hereditary optic atrophy	ND2
+Leber hereditary optic atrophy	ND4
+Leber hereditary optic atrophy	ND4L
+Leber hereditary optic atrophy	ND5
+Leber hereditary optic atrophy	ND6
+Leber hereditary optic atrophy	CYTB
+Leber hereditary optic atrophy	COX1
+Leber hereditary optic atrophy	COX3
+Leber hereditary optic atrophy	ATP6
+Cockayne syndrome	ERCC8	mutation
+Cockayne syndrome	ERCC6	mutation
+Progressive supranuclear palsy	MAPT	mutation
+Frontotemporal lobar degeneration	MAPT
+Frontotemporal lobar degeneration	PSEN1
+Frontotemporal lobar degeneration	GRN
+Frontotemporal lobar degeneration	VCP
+Frontotemporal lobar degeneration	CHMP2B
+Frontotemporal dementia and amyotrophic lateral sclerosis	C9orf72
+Frontotemporal dementia and amyotrophic lateral sclerosis	CHCHD10
+Frontotemporal dementia and amyotrophic lateral sclerosis	SQSTM1
+Frontotemporal dementia and amyotrophic lateral sclerosis	TBK1
+Canavan disease	ASPA
+Charcot-Marie-Tooth disease	PMP22
+Charcot-Marie-Tooth disease	MPZ
+Charcot-Marie-Tooth disease	LITAF
+Charcot-Marie-Tooth disease	EGR2
+Charcot-Marie-Tooth disease	NEFL
+Charcot-Marie-Tooth disease	PMP2
+Charcot-Marie-Tooth disease	KIF1B
+Charcot-Marie-Tooth disease	MFN2
+Charcot-Marie-Tooth disease	RAB7A
+Charcot-Marie-Tooth disease	LMNA
+Charcot-Marie-Tooth disease	TRPV4
+Charcot-Marie-Tooth disease	NEFH
+Charcot-Marie-Tooth disease	GARS
+Charcot-Marie-Tooth disease	ATP1A1
+Charcot-Marie-Tooth disease	MPV17
+Charcot-Marie-Tooth disease	HSPB1
+Charcot-Marie-Tooth disease	GBF1
+Charcot-Marie-Tooth disease	GDAP1
+Charcot-Marie-Tooth disease	JPH1
+Charcot-Marie-Tooth disease	HSPB8
+Charcot-Marie-Tooth disease	AARS
+Charcot-Marie-Tooth disease	DYNC1H1
+Charcot-Marie-Tooth disease	LRSAM1
+Charcot-Marie-Tooth disease	DHTKD1
+Charcot-Marie-Tooth disease	TRIM2
+Charcot-Marie-Tooth disease	IGHMBP2
+Charcot-Marie-Tooth disease	MME
+Charcot-Marie-Tooth disease	MARS
+Charcot-Marie-Tooth disease	HARS
+Charcot-Marie-Tooth disease	VCP
+Charcot-Marie-Tooth disease	MORC2
+Charcot-Marie-Tooth disease	MTMR2
+Charcot-Marie-Tooth disease	SBF2
+Charcot-Marie-Tooth disease	SBF1
+Charcot-Marie-Tooth disease	NDRG1
+Charcot-Marie-Tooth disease	PRX
+Charcot-Marie-Tooth disease	FGD4
+Charcot-Marie-Tooth disease	FIG4
+Charcot-Marie-Tooth disease	SURF1
+Charcot-Marie-Tooth disease	SLC25A46
+Charcot-Marie-Tooth disease	GJB1
+Charcot-Marie-Tooth disease	PRPS1
+Charcot-Marie-Tooth disease	PDK3
+Spinal muscular atrophy	SMN2
+Spinal muscular atrophy	UBE1
+Spinal muscular atrophy	ATP7A
+Neurodegeneration with brain iron accumulation	PANK2
+Neurodegeneration with brain iron accumulation	FTL
+Neurodegeneration with brain iron accumulation	MPAN
+Neurodegeneration with brain iron accumulation	WDR45
+Neurodegeneration with brain iron accumulation	COASY
+Neurodegeneration with brain iron accumulation	REPS1
+Neurodegeneration with brain iron accumulation	CRAT
+Kufor-Rakeb syndrome	ATP13A2
+Pantothenate kinase-associated neurodegeneration	PANK2
+HARP syndrome	PANK2
+Infantile progressive bulbar palsy	RFT2
+Agenesis of the corpus callosum with peripheral neuropathy	SLC12A6
+Perry syndrome	DCTN1
+Familial amyloidosis	TTR
+Familial amyloidosis	FGA
+Familial amyloidosis	APOA1
+Familial amyloidosis	LYZ
+Familial amyloidosis	B2M
+Amyloidosis, Finnish type	GSN
+Juvenile primary lateral sclerosis	ALS2
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ABHD12
+Infantile ascending hereditary spastic paralysis	ALS2
+Infantile bilateral striatal necrosis	NUP62
+Infantile bilateral striatal necrosis	MT-ATP6
+Familial dementia	ITM2B
+Cerebral amyloid angiopathy	CST3
+Cerebral amyloid angiopathy	APP
+Cerebellar ataxia, mental retardation (MR), and dysequilibrium syndrome (CAMRQ)	VLDLR
+Cerebellar ataxia, mental retardation (MR), and dysequilibrium syndrome (CAMRQ)	WDR81
+Cerebellar ataxia, mental retardation (MR), and dysequilibrium syndrome (CAMRQ)	CA8
+Cerebellar ataxia, mental retardation (MR), and dysequilibrium syndrome (CAMRQ)	ATP8A2
+Familial encephalopathy with neuroserpin inclusion bodies	SERPINI1
+Giant axonal neuropathy	GAN
+Giant axonal neuropathy	DCAF8
+Marinesco-Sjogren syndrome	SIL1
+Neurodegeneration due to cerebral folate transport deficiency	FOLR1
+Choreoacanthocytosis	VPS13A
+Multiple system atrophy	COQ2
+Neuroferritinopathy	FTL
+Hereditary diffuse leukoencephalopathy with spheroids	CSF1R
+PNPLA6-related disorders	PNPLA6
+Brown-Vialetto-Van Laere syndrome	SLC52A3
+Brown-Vialetto-Van Laere syndrome	SLC52A2
+Posterior column ataxia with retinitis pigmentosa	FLVCR1
+Episodic ataxias	KCNA1
+Episodic ataxias	CACNA1A
+Episodic ataxias	CACNB4
+Episodic ataxias	SLC1A3
+Core neuroacanthocytosis syndromes	JPH3
+Ataxia with ocular apraxia	APTX
+Ataxia with ocular apraxia	SETX
+Ataxia with ocular apraxia	PIK3R5
+Ataxia with ocular apraxia	PNKP
+Distal hereditary motor neuropathies	HSPB8
+Distal hereditary motor neuropathies	HSPB1
+Distal hereditary motor neuropathies	HSPB3
+Distal hereditary motor neuropathies	FBXO38
+Distal hereditary motor neuropathies	GARS
+Distal hereditary motor neuropathies	BSCL2
+Distal hereditary motor neuropathies	REEP1
+Distal hereditary motor neuropathies	SLC5A7
+Distal hereditary motor neuropathies	DCTN1
+Distal hereditary motor neuropathies	TRPV4
+Distal hereditary motor neuropathies	WARS1
+Distal hereditary motor neuropathies	SIGMAR1
+Distal hereditary motor neuropathies	PLEKHG5
+Distal hereditary motor neuropathies	DNAJB2
+Leukoencephalopathy with vanishing white matter	EIF2B1
+Leukoencephalopathy with vanishing white matter	EIF2B2
+Leukoencephalopathy with vanishing white matter	EIF2B3
+Leukoencephalopathy with vanishing white matter	EIF2B4
+Leukoencephalopathy with vanishing white matter	EIF2B5
+Leukoencephalopathy, progressive, with ovarian failure	AARS2
+Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation	DARS2
+Leukoencephalopathy with dystonia and motor neuropathy	SCP2
+Leukodystrophy and acquired microcephaly with or without dystonia	PLEKHG2
+Megaloencephalic leukoencephalopathy with subcortical cysts	MLC1
+Cystic leukoencephalopathy without megalencephaly	RNASET2
+Coenzyme Q10 deficiency	COQ2
+Coenzyme Q10 deficiency	PDSS1
+Coenzyme Q10 deficiency	PDSS2
+Coenzyme Q10 deficiency	COQ8A
+Coenzyme Q10 deficiency	COQ9
+Coenzyme Q10 deficiency	COQ6
+Coenzyme Q10 deficiency	COQ4
+Coenzyme Q10 deficiency	COQ7
+Coenzyme Q10 deficiency	COQ5
+Autosomal dominant striatal degeneration	PDE8B
+Autosomal dominant striatal degeneration	PDE10A
+Familial idiopathic basal ganglia calcification	SLC20A2
+Familial idiopathic basal ganglia calcification	PDGFRB
+Familial idiopathic basal ganglia calcification	PDGFB
+Familial idiopathic basal ganglia calcification	XPR1
+Familial idiopathic basal ganglia calcification	MYORG
+Familial idiopathic basal ganglia calcification	JAM2
+Gordon Holmes syndrome	RNF216
+PEHO-like syndrome	CCDC88A
+PEBAT	TBCD
+PEBEL	NAXE
+PEBEL	NAXD
+Nonprogressive cerebellar ataxia with mental retardation	CAMTA1
+Spastic paraplegia-psychomotor retardation-seizures syndrome	HACE1
+Leukoencephalopathy, brain calcifications, and cysts	SNORD118
+Childhood-onset neurodegeneration with brain atrophy	UBTF
+Early infantile epileptic encephalopathy	ARX
+Early infantile epileptic encephalopathy	CDKL5
+Early infantile epileptic encephalopathy	SLC25A22
+Early infantile epileptic encephalopathy	STXBP1
+Early infantile epileptic encephalopathy	SPTAN1
+Early infantile epileptic encephalopathy	KCNQ2
+Early infantile epileptic encephalopathy	ARHGEF9
+Early infantile epileptic encephalopathy	PCDH19
+Early infantile epileptic encephalopathy	PNKP
+Early infantile epileptic encephalopathy	SCN2A1
+Early infantile epileptic encephalopathy	PLCB1
+Early infantile epileptic encephalopathy	SCN8A
+Early infantile epileptic encephalopathy	ST3GAL3
+Early infantile epileptic encephalopathy	TBC1D24
+Early infantile epileptic encephalopathy	GNAO1
+Early infantile epileptic encephalopathy	SZT2
+Early infantile epileptic encephalopathy	GABRA1
+Early infantile epileptic encephalopathy	NECAP1
+Early infantile epileptic encephalopathy	SLC35A2
+Early infantile epileptic encephalopathy	DOCK7
+Early infantile epileptic encephalopathy	HCN1
+Early infantile epileptic encephalopathy	SLC13A5
+Early infantile epileptic encephalopathy	KCNB1
+Early infantile epileptic encephalopathy	GRIN2B
+Early infantile epileptic encephalopathy	WWOX
+Early infantile epileptic encephalopathy	AARS
+Early infantile epileptic encephalopathy	SIK1
+Early infantile epileptic encephalopathy	DNM1
+Early infantile epileptic encephalopathy	KCNA2
+Early infantile epileptic encephalopathy	EEF1A2
+Early infantile epileptic encephalopathy	SLC12A5
+Early infantile epileptic encephalopathy	ITPA
+Early infantile epileptic encephalopathy	ALG13
+Early infantile epileptic encephalopathy	FRRS1L
+Early infantile epileptic encephalopathy	ARV1
+Early infantile epileptic encephalopathy	GUF1
+Early infantile epileptic encephalopathy	SLC1A2
+Early infantile epileptic encephalopathy	CACNA1A
+Early infantile epileptic encephalopathy	GABRB3
+Early infantile epileptic encephalopathy	UBA5
+Early infantile epileptic encephalopathy	GABRB1
+Early infantile epileptic encephalopathy	GRIN2D
+Early infantile epileptic encephalopathy	FGF12
+Early infantile epileptic encephalopathy	AP3B2
+Early infantile epileptic encephalopathy	DENND5A
+Early infantile epileptic encephalopathy	CAD
+Early infantile epileptic encephalopathy	MDH2
+Early infantile epileptic encephalopathy	SCN1B
+Early infantile epileptic encephalopathy	SYNJ1
+Early infantile epileptic encephalopathy	HNRNPU
+Early infantile epileptic encephalopathy	PIGP
+Early infantile epileptic encephalopathy	YWHAG
+Early infantile epileptic encephalopathy	KCNT2
+Early infantile epileptic encephalopathy	NTRK2
+Early infantile epileptic encephalopathy	GABBR2
+Early infantile epileptic encephalopathy	CNPY3
+Early infantile epileptic encephalopathy	ADAM22
+Early infantile epileptic encephalopathy	SCN3A
+Early infantile epileptic encephalopathy	CPLX1
+Early infantile epileptic encephalopathy	RHOBTB2
+Early infantile epileptic encephalopathy	CYFIP2
+Early infantile epileptic encephalopathy	PACS2
+Early infantile epileptic encephalopathy	CUX2
+Early infantile epileptic encephalopathy	TRAK1
+Early infantile epileptic encephalopathy	CACNA1E
+Early infantile epileptic encephalopathy	PHACTR1
+Early infantile epileptic encephalopathy	GLS
+Early infantile epileptic encephalopathy	NEUROD2
+Early infantile epileptic encephalopathy	RNF13
+Early infantile epileptic encephalopathy	GABRG2
+Early infantile epileptic encephalopathy	PARS2
+Early infantile epileptic encephalopathy	ACTL6B
+Early infantile epileptic encephalopathy	PIGQ
+Early infantile epileptic encephalopathy	GABRA2
+Early infantile epileptic encephalopathy	GABRA5
+Early infantile epileptic encephalopathy	PIGB
+Early infantile epileptic encephalopathy	DMXL2
+Early infantile epileptic encephalopathy	GOT2
+Early infantile epileptic encephalopathy	UGP2
+Early infantile epileptic encephalopathy	UGDH
+Early infantile epileptic encephalopathy	SMC1A
+Early infantile epileptic encephalopathy	DALRD3
+Early infantile epileptic encephalopathy	CDK19
+Early infantile epileptic encephalopathy	MDH1
+West syndrome	ARX
+Lennox-Gastaut syndrome	MAPK10
+Dravet syndrome	SCN1A
+Hyperekplexia and epilepsy	ARHGEF9
+Early myoclonic encephalopathy	SLC25A22
+Early myoclonic encephalopathy	SIK1
+Myoclonic-atonic epilepsy	SLC6A1
+Malignant migrating partial seizures in infancy	PLCB1
+Malignant migrating partial seizures in infancy	TBC1D24
+Malignant migrating partial seizures in infancy	KCNT1
+Malignant migrating partial seizures in infancy	SLC12A5
+Malignant migrating partial seizures in infancy	SCN1A
+Febrile seizures	GPR98
+Febrile seizures	CPA6
+Benign familial neonatal seizure	KCNQ2
+Benign familial neonatal seizure	KCNQ3
+Benign familial infantile seizure	PRRT2
+Benign familial infantile seizure	SCN2A
+Benign familial infantile seizure	SCN8A
+Nocturnal frontal lobe epilepsy	CHRNA4
+Nocturnal frontal lobe epilepsy	CHRNB2
+Nocturnal frontal lobe epilepsy	CHRNA2
+Nocturnal frontal lobe epilepsy	KCNT1
+Idiopathic generalized epilepsies	CACNA1H
+Idiopathic generalized epilepsies	CASR
+Idiopathic generalized epilepsies	CACNB4
+Idiopathic generalized epilepsies	GABRD
+Idiopathic generalized epilepsies	CLCN2
+Idiopathic generalized epilepsies	SLC2A1
+Idiopathic generalized epilepsies	GABRA1
+Idiopathic generalized epilepsies	SLC12A5
+Idiopathic generalized epilepsies	RORB
+Childhood absence epilepsy	GABRG2
+Childhood absence epilepsy	GABRA1
+Childhood absence epilepsy	GABRB3
+Childhood absence epilepsy	CACNA1H
+Juvenile absence epilepsy	EFHC1
+Juvenile absence epilepsy	CLCN2
+Juvenile myoclonic epilepsy	EFHC1
+Juvenile myoclonic epilepsy	GABRA1
+Juvenile myoclonic epilepsy	CACNB4
+Juvenile myoclonic epilepsy	GABRD
+Juvenile myoclonic epilepsy	CLCN2
+Juvenile myoclonic epilepsy	ICK
+Familial infantile myoclonic epilepsy	TBC1D24
+Familial adult myoclonic epilepsy	SAMD12
+Familial adult myoclonic epilepsy	STARD7
+Familial adult myoclonic epilepsy	MARCHF6
+Familial adult myoclonic epilepsy	YEATS2
+Familial adult myoclonic epilepsy	CNTN2
+Familial adult myoclonic epilepsy	TNRC6A
+Familial adult myoclonic epilepsy	RAPGEF2
+Familial focal epilepsy with variable foci	DEPDC5
+Familial focal epilepsy with variable foci	NPRL2
+Familial focal epilepsy with variable foci	NPRL3
+Familial focal epilepsy with variable foci	SCN3A
+Familial epilepsy temporal lobe (ETL)	LGI1
+Familial epilepsy temporal lobe (ETL)	CPA6
+Familial epilepsy temporal lobe (ETL)	RELN
+Familial epilepsy temporal lobe (ETL)	GAL
+Progressive myoclonic epilepsy	CSTB
+Progressive myoclonic epilepsy	PRICKLE1
+Progressive myoclonic epilepsy	EPM2A
+Progressive myoclonic epilepsy	NHLRC1
+Progressive myoclonic epilepsy	KCTD7
+Progressive myoclonic epilepsy	SCARB2
+Progressive myoclonic epilepsy	PRICKLE2
+Progressive myoclonic epilepsy	GOSR2
+Progressive myoclonic epilepsy	KCNC1
+Progressive myoclonic epilepsy	CERS1
+Progressive myoclonic epilepsy	LMNB2
+Progressive myoclonic epilepsy	PRDM8
+Progressive myoclonic epilepsy	SEMA6B
+Progressive myoclonic epilepsy	SLC7A6OS
+Lafora disease	EPM2A
+Lafora disease	NHLRC1
+Unverricht-Lundborg disease	CSTB
+Amish infantile epilepsy syndrome	ST3GAL5
+Pyridoxamine-5'-phosphate oxidase (PNPO) deficiency	PNPO
+Pyridoxine-dependent epilepsy	ALDH7A1
+Generalized epilepsy and paroxysmal dyskinesia	KCNMA1
+Landau-Kleffner syndrome	GRIN2A
+PCDH19-related epilepsy syndrome	PCDH19
+Hemiconvulsion-hemiplegia-epilepsy syndrome	CACNA1A
+Rolandic epilepsy, mental retardation, and speech dyspraxia	GRIN2A
+Rolandic epilepsy, mental retardation, and speech dyspraxia	SRPX2
+Kohlschutter-Tonz syndrome	ROGDI
+Infantile or early childhood epileptic encephalopathy	PPP3CA
+Infantile or early childhood epileptic encephalopathy	GABRB2
+Infantile or early childhood epileptic encephalopathy	ATP6V1A
+Early-onset vitamin B6-dependent epilepsy	PLPBP
+Epileptic encephalopathy, childhood-onset	CHD2
+Retinitis pigmentosa	RP1
+Retinitis pigmentosa	RP2
+Retinitis pigmentosa	RHO
+Retinitis pigmentosa	PRPH2
+Retinitis pigmentosa	ROM1
+Retinitis pigmentosa	RP9
+Retinitis pigmentosa	IMPDH1
+Retinitis pigmentosa	PRPF31
+Retinitis pigmentosa	CRB1
+Retinitis pigmentosa	PRPF8
+Retinitis pigmentosa	TULP1
+Retinitis pigmentosa	CA4
+Retinitis pigmentosa	PRPF3
+Retinitis pigmentosa	ABCA4
+Retinitis pigmentosa	OFD1
+Retinitis pigmentosa	EYS
+Retinitis pigmentosa	CERKL
+Retinitis pigmentosa	NRL
+Retinitis pigmentosa	FAM161A
+Retinitis pigmentosa	FSCN2
+Retinitis pigmentosa	TOPORS
+Retinitis pigmentosa	SNRNP200
+Retinitis pigmentosa	SEMA4A
+Retinitis pigmentosa	PRCD
+Retinitis pigmentosa	NR2E3
+Retinitis pigmentosa	MERTK
+Retinitis pigmentosa	USH2A
+Retinitis pigmentosa	PDE6B
+Retinitis pigmentosa	PROM1
+Retinitis pigmentosa	KLHL7
+Retinitis pigmentosa	PDE6A
+Retinitis pigmentosa	RGR
+Retinitis pigmentosa	CNGB1
+Retinitis pigmentosa	IDH3B
+Retinitis pigmentosa	SAG
+Retinitis pigmentosa	GUCA1B
+Retinitis pigmentosa	CNGA1
+Retinitis pigmentosa	BEST1
+Retinitis pigmentosa	C2orf71
+Retinitis pigmentosa	ARL6
+Retinitis pigmentosa	IMPG2
+Retinitis pigmentosa	PDE6G
+Retinitis pigmentosa	ZNF513
+Retinitis pigmentosa	DHDDS
+Retinitis pigmentosa	PRPF6
+Retinitis pigmentosa	CLRN1
+Retinitis pigmentosa	MAK
+Retinitis pigmentosa	C8orf37
+Retinitis pigmentosa	RBP3
+Retinitis pigmentosa	NEK2
+Retinitis pigmentosa	SLC7A14
+Retinitis pigmentosa	KIZ
+Retinitis pigmentosa	PRPF4
+Retinitis pigmentosa	IFT172
+Retinitis pigmentosa	ZNF408
+Retinitis pigmentosa	HGSNAT
+Retinitis pigmentosa	BBS2
+Retinitis pigmentosa	AGBL5
+Retinitis pigmentosa	POMGNT1
+Retinitis pigmentosa	REEP6
+Retinitis pigmentosa	ARHGEF18
+Retinitis pigmentosa	HK1
+Retinitis pigmentosa	IFT140
+Retinitis pigmentosa	IFT43
+Retinitis pigmentosa	ARL2BP
+Retinitis pigmentosa	ARL3
+Retinitis pigmentosa	DHX38
+Retinitis pigmentosa	AHR
+Retinitis pigmentosa	RP86
+Retinitis pigmentosa	RP1L1
+Retinitis pigmentosa	KIF3B
+Retinitis pigmentosa	IDH3A
+Familial exudative vitreoretinopathy	FZD4
+Familial exudative vitreoretinopathy	NDP
+Familial exudative vitreoretinopathy	LRP5
+Familial exudative vitreoretinopathy	TSPAN12
+Familial exudative vitreoretinopathy	ZNF408
+Primary open angle glaucoma	MYOC
+Primary open angle glaucoma	OPTN
+Primary open angle glaucoma	ASB10
+Primary open angle glaucoma	WDR36
+Primary open angle glaucoma	NTF4
+Aland Island eye disease	CACNA1F
+Meesmann corneal dystrophy	KRT3
+Meesmann corneal dystrophy	KRT12
+Sorsby fundus dystrophy	TIMP3
+Congenital motor nystagmus (CMN)	FRMD7
+Congenital motor nystagmus (CMN)	GPR143
+Usher syndrome (US)	MYO7A
+Usher syndrome (US)	USH1C
+Usher syndrome (US)	USH1G
+Usher syndrome (US)	CIB2
+Usher syndrome (US)	ESPN
+Usher syndrome (US)	USH2A
+Usher syndrome (US)	WHRN
+Usher syndrome (US)	CLRN1
+Usher syndrome (US)	HARS
+Usher syndrome (US)	ARSG
+Congenital stationary night blindness	NYX
+Congenital stationary night blindness	GRM6
+Congenital stationary night blindness	TRPM1
+Congenital stationary night blindness	SLC24A1
+Congenital stationary night blindness	GPR179
+Congenital stationary night blindness	LRIT3
+Congenital stationary night blindness	GNB3
+Congenital stationary night blindness	CACNA1F
+Congenital stationary night blindness	CABP4
+Congenital stationary night blindness	SAG
+Congenital stationary night blindness	GRK1
+Keratoconus	VSX1
+Keratoconus	TUBA3D
+Vitreoretinal degeneration	COL2A1
+Vitreoretinal degeneration	COL11A1
+Vitreoretinal degeneration	CSPG2
+Wagner syndrome	VCAN
+Enhanced S-cone syndrome	NR2E3
+Goldmann-Favre syndrome	NR2E3
+Snowflake vitreoretinal degeneration	KCNJ13
+Autosomal dominant vitreoretinochoroidopathy	BEST1
+Age-related macular degeneration	HMCN1
+Age-related macular degeneration	ABCA4
+Age-related macular degeneration	FBLN5
+Age-related macular degeneration	HF1
+Age-related macular degeneration	ERCC6
+Age-related macular degeneration	RAX2
+Age-related macular degeneration	HTRA1
+Age-related macular degeneration	ARMS2
+Age-related macular degeneration	C3
+Age-related macular degeneration	TLR4
+Age-related macular degeneration	CST3
+Age-related macular degeneration	CX3CR1
+Age-related macular degeneration	CFI
+Age-related macular degeneration	C2
+Age-related macular degeneration	CFB
+Age-related macular degeneration	CFHR1
+Age-related macular degeneration	CFHR3
+Cone-rod dystrophy and cone dystrophy	CRX
+Cone-rod dystrophy and cone dystrophy	ABCA4
+Cone-rod dystrophy and cone dystrophy	PITPNM3
+Cone-rod dystrophy and cone dystrophy	RIMS1
+Cone-rod dystrophy and cone dystrophy	ADAM9
+Cone-rod dystrophy and cone dystrophy	SEMA4A
+Cone-rod dystrophy and cone dystrophy	RAX2
+Cone-rod dystrophy and cone dystrophy	PROM1
+Cone-rod dystrophy and cone dystrophy	RPGRIP1
+Cone-rod dystrophy and cone dystrophy	CDHR1
+Cone-rod dystrophy and cone dystrophy	C8orf37
+Cone-rod dystrophy and cone dystrophy	RAB28
+Cone-rod dystrophy and cone dystrophy	TTLL5
+Cone-rod dystrophy and cone dystrophy	POC1B
+Cone-rod dystrophy and cone dystrophy	DRAM2
+Cone-rod dystrophy and cone dystrophy	CACNA1F
+Cone-rod dystrophy and cone dystrophy	PDE6C
+Cone-rod dystrophy and cone dystrophy	PDE6H
+Cone-rod dystrophy and cone dystrophy	KCNV2
+Cone-rod dystrophy and cone dystrophy	CACNA2D4
+Vitelliform macular dystrophy	IMPG1
+Vitelliform macular dystrophy	IMPG2
+Stargardt disease	ABCA4
+Stargardt disease	CNGB3
+Stargardt disease	ELOVL4
+Stargardt disease	PROM1
+Occult macular dystrophy	RP1L1
+Central areolar choroidal dystrophy	GUCY2D
+Central areolar choroidal dystrophy	PRPH2
+Pattern dystrophies of the retinal pigment epithelium	PRPH2
+Pattern dystrophies of the retinal pigment epithelium	CTNNA1
+Pattern dystrophies of the retinal pigment epithelium	MAPKAPK3
+Newfoundland rod-cone dystrophy	RLBP1
+Familial flecked retina syndrome	EFEMP1
+Familial flecked retina syndrome	CFH
+Familial flecked retina syndrome	RDH5
+Familial flecked retina syndrome	RLBP1
+Familial flecked retina syndrome	RHO
+Familial flecked retina syndrome	CYP4V2
+Fleck retina, familial benign	PLA2G5
+Leber congenital amaurosis	GUCY2D
+Leber congenital amaurosis	RPE65
+Leber congenital amaurosis	SPATA7
+Leber congenital amaurosis	AIPL1
+Leber congenital amaurosis	LCA5
+Leber congenital amaurosis	RPGRIP1
+Leber congenital amaurosis	CRX
+Leber congenital amaurosis	CRB1
+Leber congenital amaurosis	NMNAT1
+Leber congenital amaurosis	CEP290
+Leber congenital amaurosis	IMPDH1
+Leber congenital amaurosis	RD3
+Leber congenital amaurosis	RDH12
+Leber congenital amaurosis	LRAT
+Leber congenital amaurosis	TULP1
+Leber congenital amaurosis	KCNJ13
+Leber congenital amaurosis	GDF6
+Leber congenital amaurosis	PRPH2
+Leber congenital amaurosis	USP45
+Leber congenital amaurosis	TUBB4B
+Congenital fibrosis of the extraocular muscles	KIF21A
+Congenital fibrosis of the extraocular muscles	PHOX2A
+Congenital fibrosis of the extraocular muscles	TUBB3
+Congenital fibrosis of the extraocular muscles	COL25A1
+Reis-Bucklers corneal dystrophy	TGFBI
+Thiel-Behnke dystrophies	TGFBI
+Gelatinous drop-like corneal dystrophy	TACSTD2
+Macular corneal dystrophy	CHST6
+Granular corneal dystrophies	TGFBI
+Lattice corneal dystrophies	TGFBI
+Fleck corneal dystrophy	PIP5K3
+Congenital stromal corneal dystrophy	DCN
+Schnyder corneal dystrophy	UBIAD1
+Fuchs corneal dystrophy	COL8A2
+Fuchs corneal dystrophy	TCF4
+Fuchs corneal dystrophy	SLC4A11
+Fuchs corneal dystrophy	ZEB1
+Fuchs corneal dystrophy	AGBL1
+Posterior polymorphous corneal dystrophy	OVOL2
+Posterior polymorphous corneal dystrophy	COL8A2
+Posterior polymorphous corneal dystrophy	ZEB1
+Posterior polymorphous corneal dystrophy	GRHL2
+Congenital hereditary endothelial dystrophy	SLC4A11
+Ring dermoid of cornea	PITX2
+Epithelial basement membrane corneal dystrophy	TGFBI
+Achromatopsia	CNGA3
+Achromatopsia	CNGB3
+Achromatopsia	GNAT2
+Achromatopsia	PDE6C
+Achromatopsia	PDE6H
+Achromatopsia	ATF6
+Bradyopsia	RGS9
+Bradyopsia	RGS9BP
+Blue cone monochromacy	OPN1LW
+Blue cone monochromacy	OPN1MW
+Colorblindness	OPN1LW
+Colorblindness	OPN1MW
+Colorblindness	OPN1SW
+Jalili syndrome	CNNM4
+Optic atrophy	OPA1
+Optic atrophy	OPA3
+Optic atrophy	DNM1L
+Optic atrophy	TMEM126A
+Optic atrophy	ACO2
+Optic atrophy	RTN4IP1
+Optic atrophy	YME1L1
+Optic atrophy	AFG3L2
+Optic atrophy	SSBP1
+Pigmented paravenous chorioretinal atrophy	CRB1
+Sveinsson chorioretinal atrophy (SCRA)	TEAD1
+Choroideremia	CHM
+Progressive external ophthalmoplegia	POLG
+Progressive external ophthalmoplegia	SLC25A4
+Progressive external ophthalmoplegia	TWNK
+Progressive external ophthalmoplegia	POLG2
+Progressive external ophthalmoplegia	RRM2B
+Progressive external ophthalmoplegia	DNA2
+Late-onset retinal degeneration	C1QTNF5
+Cataract	GJA8
+Cataract	CRYGC
+Cataract	CRYBB2
+Cataract	CRYGD
+Cataract	HSF4
+Cataract	EPHA2
+Cataract	CRYAA
+Cataract	CRYBA1
+Cataract	PITX3
+Cataract	BFSP2
+Cataract	GCNT2
+Cataract	GJA3
+Cataract	MIP
+Cataract	CRYAB
+Cataract	CRYBB1
+Cataract	FYCO1
+Cataract	LIM2
+Cataract	CRYGS
+Cataract	MAF
+Cataract	CRYBB3
+Cataract	CRYBA4
+Cataract	VIM
+Cataract	CHMP4B
+Cataract	BFSP1
+Cataract	FOXE3
+Cataract	TDRD7
+Cataract	AGK
+Cataract	CRYGB
+Cataract	NHS
+Cataract	WFS1
+Cataract	CRYBA2
+Cataract	UNC45B
+Cataract	LSS
+Cataract	SIPA1L3
+Cataract	LEMD2
+Cataract	SLC16A12
+Cataract	DNMBP
+Foveal hypoplasia	PAX6
+Foveal hypoplasia	SLC38A8
+Autosomal dominant keratitis	PAX6
+Bosch-Boonstra optic atrophy syndrome	NR2F1
+Autosomal dominant neovascular inflammatory vitreoretinopathy	CAPN5
+Myopia	SCO2
+Myopia	ZNF644
+Myopia	PRIMPOL
+Myopia	LRPAP1
+Myopia	SLC39A5
+Myopia	P4HA2
+Myopia	ARR3
+Myopia	P3H2
+Megalocornea	CHRDL1
+Bietti crystalline corneoretinal dystrophy	CYP4V2
+Basal laminar drusen	CFH
+Doyne honeycomb retinal dystrophy	EFEMP1
+Persistent hyperplastic primary vitreous	ATOH7
+Infantile cerebellar-retinal degeneration	ACO2
+Spastic paraplegia, optic atrophy, and neuropathy	KLC2
+Cone-rod dystrophy and hearing loss	CEP78
+Cone-rod dystrophy and hearing loss	CEP250
+Hereditary hyperferritinaemia-cataract syndrome	FTL
+Cone-rod synaptic disorder	CABP4
+Cone-rod synaptic disorder	RIMS2
+Diabetic retinopathy	VEGFA	polymorphism
+Diabetic retinopathy	ACE	polymorphism
+Partington syndrome	ARX
+Deafness, autosomal dominant	DIAPH1
+Deafness, autosomal dominant	KCNQ4
+Deafness, autosomal dominant	GJB3
+Deafness, autosomal dominant	GJB2
+Deafness, autosomal dominant	GJB6
+Deafness, autosomal dominant	MYH14
+Deafness, autosomal dominant	CEACAM16
+Deafness, autosomal dominant	GSDME
+Deafness, autosomal dominant	WFS1
+Deafness, autosomal dominant	LMX1A
+Deafness, autosomal dominant	TECTA
+Deafness, autosomal dominant	COCH
+Deafness, autosomal dominant	EYA4
+Deafness, autosomal dominant	MYO7A
+Deafness, autosomal dominant	COL11A2
+Deafness, autosomal dominant	POU4F3
+Deafness, autosomal dominant	MYH9
+Deafness, autosomal dominant	ACTG1
+Deafness, autosomal dominant	MYO6
+Deafness, autosomal dominant	SIX1
+Deafness, autosomal dominant	SLC17A8
+Deafness, autosomal dominant	REST
+Deafness, autosomal dominant	GRHL2
+Deafness, autosomal dominant	TMC1
+Deafness, autosomal dominant	DSPP
+Deafness, autosomal dominant	CRYM
+Deafness, autosomal dominant	P2RX2
+Deafness, autosomal dominant	CCDC50
+Deafness, autosomal dominant	MIR96
+Deafness, autosomal dominant	TNC
+Deafness, autosomal dominant	DIABLO
+Deafness, autosomal dominant	TBC1D24
+Deafness, autosomal dominant	CD164
+Deafness, autosomal dominant	OSBPL2
+Deafness, autosomal dominant	HOMER2
+Deafness, autosomal dominant	KITLG
+Deafness, autosomal dominant	MCM2
+Deafness, autosomal dominant	DMXL2
+Deafness, autosomal dominant	SLC44A4
+Deafness, autosomal dominant	PTPRQ
+Deafness, autosomal dominant	PDE1C
+Deafness, autosomal dominant	TRRAP
+Deafness, autosomal dominant	PLS1
+Deafness, autosomal dominant	ABCC1
+Deafness, autosomal recessive	GJB2
+Deafness, autosomal recessive	GJB3
+Deafness, autosomal recessive	GJB6
+Deafness, autosomal recessive	MYO7A
+Deafness, autosomal recessive	MYO15
+Deafness, autosomal recessive	SLC26A4
+Deafness, autosomal recessive	TMIE
+Deafness, autosomal recessive	OTOF
+Deafness, autosomal recessive	CDH23
+Deafness, autosomal recessive	GIPC3
+Deafness, autosomal recessive	STRC
+Deafness, autosomal recessive	USH1C
+Deafness, autosomal recessive	OTOG
+Deafness, autosomal recessive	TECTA
+Deafness, autosomal recessive	OTOA
+Deafness, autosomal recessive	PCDH15
+Deafness, autosomal recessive	RDX
+Deafness, autosomal recessive	GRXCR1
+Deafness, autosomal recessive	GAB1
+Deafness, autosomal recessive	TRIOBP
+Deafness, autosomal recessive	CLDN14
+Deafness, autosomal recessive	MYO3A
+Deafness, autosomal recessive	WHRN
+Deafness, autosomal recessive	CDC14A
+Deafness, autosomal recessive	ESRRB
+Deafness, autosomal recessive	ESPN
+Deafness, autosomal recessive	MYO6
+Deafness, autosomal recessive	HGF
+Deafness, autosomal recessive	ILDR1
+Deafness, autosomal recessive	ADCY1
+Deafness, autosomal recessive	CIB2
+Deafness, autosomal recessive	MARVELD2
+Deafness, autosomal recessive	COL11A2
+Deafness, autosomal recessive	PDZD7
+Deafness, autosomal recessive	PJVK
+Deafness, autosomal recessive	SLC26A5
+Deafness, autosomal recessive	LRTOMT
+Deafness, autosomal recessive	DCDC2
+Deafness, autosomal recessive	LHFPL5
+Deafness, autosomal recessive	S1PR2
+Deafness, autosomal recessive	MSRB3
+Deafness, autosomal recessive	SYNE4
+Deafness, autosomal recessive	LOXHD1
+Deafness, autosomal recessive	TPRN
+Deafness, autosomal recessive	GPSM2
+Deafness, autosomal recessive	PTPRQ
+Deafness, autosomal recessive	OTOGL
+Deafness, autosomal recessive	TBC1D24
+Deafness, autosomal recessive	ELMOD3
+Deafness, autosomal recessive	KARS
+Deafness, autosomal recessive	SERPINB6
+Deafness, autosomal recessive	CABP2
+Deafness, autosomal recessive	NARS2
+Deafness, autosomal recessive	MET
+Deafness, autosomal recessive	TSPEAR
+Deafness, autosomal recessive	TMEM132E
+Deafness, autosomal recessive	PPIP5K2
+Deafness, autosomal recessive	GRXCR2
+Deafness, autosomal recessive	EPS8
+Deafness, autosomal recessive	CLIC5
+Deafness, autosomal recessive	RIPOR2
+Deafness, autosomal recessive	EPS8L2
+Deafness, autosomal recessive	WBP2
+Deafness, autosomal recessive	ROR1
+Deafness, autosomal recessive	ESRP1
+Deafness, autosomal recessive	COCH
+Deafness, autosomal recessive	MPZL2
+Deafness, autosomal recessive	BDP1
+Deafness, autosomal recessive	CEACAM16
+Deafness, autosomal recessive	GRAP
+Deafness, autosomal recessive	SPNS2
+Deafness, X-linked	PRPS1
+Deafness, X-linked	POU3F4
+Deafness, X-linked	SMPX
+Deafness, X-linked	AIFM1
+Deafness, X-linked	COL4A6
+Deafness, Y-linked	TBL1Y
+Bilateral sudden sensorineural hearing loss	ACTG1
+Bilateral sudden sensorineural hearing loss	CDH23
+Bilateral sudden sensorineural hearing loss	COCH
+Bilateral sudden sensorineural hearing loss	KCNQ4
+Bilateral sudden sensorineural hearing loss	TECTA
+Bilateral sudden sensorineural hearing loss	TMPRSS3
+Bilateral sudden sensorineural hearing loss	WFS1
+Auditory neuropathy	DIAPH3
+Auditory neuropathy	FDXR
+Dejerine-Sottas disease	MPZ
+Dejerine-Sottas disease	EGR2
+Dejerine-Sottas disease	PMP22
+Dejerine-Sottas disease	PRX
+Cowchock syndrome	AIFM1
+Hereditary sensory and autonomic neuropathy	SPTLC1
+Hereditary sensory and autonomic neuropathy	SPTLC2
+Hereditary sensory and autonomic neuropathy	WNK1
+Hereditary sensory and autonomic neuropathy	FAM134B
+Hereditary sensory and autonomic neuropathy	KIF1A
+Hereditary sensory and autonomic neuropathy	SCN9A
+Hereditary sensory and autonomic neuropathy	IKBKAP
+Hereditary sensory and autonomic neuropathy	NTRK1
+Hereditary sensory and autonomic neuropathy	NGFB
+Hereditary sensory and autonomic neuropathy	DST
+Hereditary sensory and autonomic neuropathy	SCN11A
+Hereditary sensory and autonomic neuropathy	PRDM12
+Hereditary sensory and autonomic neuropathy	ATL1
+Hereditary sensory and autonomic neuropathy	DNMT1
+Hereditary sensory and autonomic neuropathy	ATL3
+Hereditary sensory and autonomic neuropathy	CCT5
+Hereditary spastic paraplegia	L1CAM
+Hereditary spastic paraplegia	PLP1
+Hereditary spastic paraplegia	ATL1
+Hereditary spastic paraplegia	SPAST
+Hereditary spastic paraplegia	CYP7B1
+Hereditary spastic paraplegia	NIPA1
+Hereditary spastic paraplegia	SPG7
+Hereditary spastic paraplegia	WSHC5
+Hereditary spastic paraplegia	ALDH18A1
+Hereditary spastic paraplegia	KIF5A
+Hereditary spastic paraplegia	SPG11
+Hereditary spastic paraplegia	RTN2
+Hereditary spastic paraplegia	HSPD1
+Hereditary spastic paraplegia	ZFYVE26
+Hereditary spastic paraplegia	BSCL2
+Hereditary spastic paraplegia	ERLIN2
+Hereditary spastic paraplegia	SPG20
+Hereditary spastic paraplegia	SPG21
+Hereditary spastic paraplegia	DSTYK
+Hereditary spastic paraplegia	B4GALNT1
+Hereditary spastic paraplegia	DDHD1
+Hereditary spastic paraplegia	KIF1A
+Hereditary spastic paraplegia	REEP1
+Hereditary spastic paraplegia	ZFYVE27
+Hereditary spastic paraplegia	FA2H
+Hereditary spastic paraplegia	PNPLA6
+Hereditary spastic paraplegia	SLC33A1
+Hereditary spastic paraplegia	MPAN
+Hereditary spastic paraplegia	GJC2
+Hereditary spastic paraplegia	NT5C2
+Hereditary spastic paraplegia	GBA2
+Hereditary spastic paraplegia	AP4B1
+Hereditary spastic paraplegia	AP5Z1
+Hereditary spastic paraplegia	TECPR2
+Hereditary spastic paraplegia	AP4M1
+Hereditary spastic paraplegia	AP4E1
+Hereditary spastic paraplegia	AP4S1
+Hereditary spastic paraplegia	VPS37A
+Hereditary spastic paraplegia	DDHD2
+Hereditary spastic paraplegia	COXPD7
+Hereditary spastic paraplegia	CYP2U1
+Hereditary spastic paraplegia	TFG
+Hereditary spastic paraplegia	ARL6IP1
+Hereditary spastic paraplegia	ERLIN1
+Hereditary spastic paraplegia	AMPD2
+Hereditary spastic paraplegia	ENTPD1
+Hereditary spastic paraplegia	REEP2
+Hereditary spastic paraplegia	CPT1C
+Hereditary spastic paraplegia	IBA57
+Hereditary spastic paraplegia	MAG
+Hereditary spastic paraplegia	CAPN1
+Hereditary spastic paraplegia	FARS2
+Hereditary spastic paraplegia	ATP13A2
+Hereditary spastic paraplegia	UCHL1
+Hereditary spastic paraplegia	UBAP1
+Hereditary spastic paraplegia	SELENOI
+Hereditary spastic paraplegia	PCYT2
+Hereditary spastic paraplegia	HPDL
+Scapuloperoneal spinal muscular atrophy	TRPV4
+Familial advanced sleep phase syndrome	PER2
+Familial advanced sleep phase syndrome	CSNK1D
+Familial advanced sleep phase syndrome	PER3
+Delayed sleep phase syndrome	AANAT	polymorphism
+Delayed sleep phase syndrome	CRY1
+Congenital central hypoventilation syndrome	PHOX2B
+Congenital central hypoventilation syndrome	GDNF
+Congenital central hypoventilation syndrome	RET
+Congenital central hypoventilation syndrome	BDNF
+Congenital central hypoventilation syndrome	ASCL1
+Congenital central hypoventilation syndrome	EDN3
+Congenital myasthenic syndrome	CHRNA1
+Congenital myasthenic syndrome	CHRNB1
+Congenital myasthenic syndrome	CHRND
+Congenital myasthenic syndrome	CHRNE
+Congenital myasthenic syndrome	COLQ
+Congenital myasthenic syndrome	CHAT
+Congenital myasthenic syndrome	SYT2
+Congenital myasthenic syndrome	AGRN
+Congenital myasthenic syndrome	MUSK
+Congenital myasthenic syndrome	DOK7
+Congenital myasthenic syndrome	RAPSN
+Congenital myasthenic syndrome	GFPT1
+Congenital myasthenic syndrome	DPAGT1
+Congenital myasthenic syndrome	ALG2
+Congenital myasthenic syndrome	ALG14
+Congenital myasthenic syndrome	SCN4A
+Congenital myasthenic syndrome	LRP4
+Congenital myasthenic syndrome	SNAP25
+Congenital myasthenic syndrome	COL13A1
+Congenital myasthenic syndrome	SLC5A7
+Congenital myasthenic syndrome	SLC18A3
+Congenital myasthenic syndrome	PREPL
+Congenital myasthenic syndrome	SLC25A1
+Congenital myasthenic syndrome	MYO9A
+Congenital myasthenic syndrome	VAMP1
+Paroxysmal extreme pain disorder	SCN9A
+Hyperekplexia	GLRA1
+Hyperekplexia	GLRB
+Hyperekplexia	SLC6A5
+Hyperekplexia	ATAD1
+Congenital insensitivity to pain	SCN9A
+Congenital insensitivity to pain	ZFHX2
+Hemiplegic migraine	CACNA1A
+Hemiplegic migraine	ATP1A2
+Hemiplegic migraine	SCN1A
+Seizures-sensorineural deafness-ataxia-mental retardation-electrolyte imbalance (SESAME)	KCNJ10
+Primary dystonia	TOR1A
+Primary dystonia	HPCA
+Primary dystonia	TAF1
+Primary dystonia	GCH1
+Primary dystonia	THAP1
+Primary dystonia	MR1
+Primary dystonia	PRRT2
+Primary dystonia	SGCE
+Primary dystonia	ATP1A3
+Primary dystonia	TH
+Primary dystonia	PRKRA
+Primary dystonia	GLUT1
+Primary dystonia	CACNA1B
+Primary dystonia	ANO3
+Primary dystonia	GNAL
+Primary dystonia	KCTD17
+Primary dystonia	COL6A3
+Primary dystonia	KMT2B
+Primary dystonia	MECR
+GLUT1 deficiency syndrome	GLUT1
+Band-like calcification with simplified gyration and polymicrogyria	OCLN
+Benign hereditary chorea	TTF1
+Mohr-Tranebjaerg syndrome	TIMM8A
+Alternating hemiplegia of childhood	ATP1A2
+Alternating hemiplegia of childhood	ATP1A3
+Retinal vasculopathy with cerebral leukodystrophy	TREX1
+Dopamine beta-hydroxylase deficiency	DBH
+Choroid plexus papilloma	p53
+Spastic quadriplegic cerebral palsy	GAD1
+Spastic quadriplegic cerebral palsy	KANK1
+Spastic quadriplegic cerebral palsy	ADD3
+Hereditary neuralgic amyotrophy	SEPT9
+Roussy-Levy syndrome	MPZ
+Roussy-Levy syndrome	PMP22
+Aromatic L-amino acid decarboxylase deficiency	DDC
+Jensen syndrome	TIMM8A
+Congenital mirror movements	DCC
+Congenital mirror movements	RAD51A
+Congenital mirror movements	DNAL4
+Congenital mirror movements	NTN1
+Narcolepsy	HCRT
+Narcolepsy	MOG
+Hereditary neuropathy with liability to pressure palsies	PMP22
+Hemorrhagic destruction of the brain, subependymal calcification, and cataracts	JAM3
+Familial carpal tunnel syndrome	TTR
+Rasmussen encephalitis	CTLA4	polymorphism
+Rasmussen encephalitis	PDCD1	polymorphism
+Guillain-Barre syndrome	PMP22
+Multiple sclerosis	PDCD1
+Multiple sclerosis	HLA-DRB1
+Multiple sclerosis	HLA-DQB1
+Multiple sclerosis	TNFRSF1A
+Neuromyelitis optica	AQP4
+Vogt-Koyanagi-Harada syndrome	HLA-DRB1
+Vogt-Koyanagi-Harada syndrome	HLA-DRB4
+Wernicke encephalopathy	SLC19A2
+Essential tremor	DRD3
+Essential tremor	FUS
+Essential tremor	TENM4
+Essential tremor	NOTCH2NLC
+Subependymal giant cell astrocytoma	TSC1	mutation
+Subependymal giant cell astrocytoma	TSC2	mutation
+Congenital pain insensitivity with anhidrosis	NTRK1
+Familial dysautonomia	ELP1
+Autosomal dominant sensory ataxia	RNF170
+Laurence-Moon syndrome	PNPLA6
+Boucher-Neuhauser syndrome	PNPLA6
+Sudden infant death with dysgenesis of the testes syndrome	TSPYL1
+Coats plus syndrome	CTC1
+Coats plus syndrome	STN1
+Autosomal recessive peripheral neuropathy (PNRIID)	MCM3AP
+Congenital hypomyelinating neuropathy	EGR2
+Congenital hypomyelinating neuropathy	MPZ
+Congenital hypomyelinating neuropathy	CNTNAP1
+Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome	RFC1
+Chorea, childhood-onset, with psychomotor retardation	GPR88
+Infantile-onset limb and orofacial dyskinesia	PDE10A
+Familial dyskinesia with facial myokymia	ADCY5
+Autosomal recessive neuromyotonia and axonal neuropathy	HINT1
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DNAJC3
+Horizontal gaze palsy with progressive scoliosis	ROBO3
+Horizontal gaze palsy with progressive scoliosis	DCC
+Mild encephalopathy with reversible myelin vacuolization	MYRF
+Diabetic neuropathy	VEGFA	polymorphism
+Jaberi-Elahi syndrome	GTPBP2
+Autism	CNTNAP2
+Autism	CNTNAP2
+Autism	SLC9A9
+Autism	SHANK2
+Autism	CHD8
+Autism	EIF4E
+Autism	NLGN1
+Autism	NLGN3
+Autism	NLGN4X
+Autism	MECP2
+Autism	PTCHD1
+Autism	RPL10
+Autism	TMLHE
+Attention deficit hyperactivity disorder (ADHD)	DRD4
+Attention deficit hyperactivity disorder (ADHD)	DRD5
+Attention deficit hyperactivity disorder (ADHD)	TPH2

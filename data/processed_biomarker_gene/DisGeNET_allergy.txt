@@ -1,0 +1,133 @@
+Dermatitis, Allergic Contact	NAMPT
+Eosinophilic esophagitis	TNK2
+Dermatitis, Allergic Contact	CALCRL
+Dermatitis, Allergic Contact	IGSF6
+Dermatitis, Allergic Contact	IFI30
+Dermatitis, Allergic Contact	PRDX4
+Dermatitis, Allergic Contact	CTSC
+Dermatitis, Allergic Contact	FGL2
+Dermatitis, Allergic Contact	RAB32
+anaphylaxis	NLRP3
+Dermatitis, Allergic Contact	CISH
+Dermatitis, Atopic	CCR3
+Dermatitis, Atopic	CCR5
+anaphylaxis	LTB4R
+Dermatitis, Allergic Contact	EMB
+Dermatitis, Allergic Contact	CREM
+Hay fever	CST1
+Dermatitis, Atopic	CCDC80
+Dermatitis, Allergic Contact	CYP1A1
+Dermatitis, Allergic Contact	GRK2
+Dermatitis, Allergic Contact	ETS2
+Rhinitis, Allergic, Perennial	ALB
+Urticaria	ALB
+Dermatitis, Allergic Contact	F13A1
+Urticaria	FCER1A
+Dermatitis, Allergic Contact	FCGR3B
+Dermatitis, Allergic Contact	PHLDA1
+Dermatitis, Atopic	ZNF365
+Dermatitis, Atopic	FLG
+Dermatitis, Atopic, 2	FLG
+Dermatitis, Allergic Contact	ABCA6
+Urticaria	ALOX5
+Dermatitis, Allergic Contact	FYB1
+Dermatitis, Allergic Contact	QPCT
+Dermatitis, Allergic Contact	IPCEF1
+Dermatitis, Atopic	GLB1
+Dermatitis, Atopic	IFNL3
+Dermatitis, Atopic	CXCR3
+Dermatitis, Atopic	ACTL9
+Dermatitis, Allergic Contact	CXCL2
+Urticaria	GSTM1
+Urticaria	HLA-DPB1
+Urticaria	HLA-DQB1
+Urticaria	HLA-DRB1
+Urticaria	HNMT
+Allergic rhinitis (disorder)	HRH1
+Dermatitis, Allergic Contact	HSD11B1
+Urticaria	ICAM1
+Dermatitis, Atopic	IFNG
+Dermatitis, Allergic Contact	IFNG
+Dermatitis, Allergic Contact	IL1A
+Dermatitis, Atopic	IL1B
+Urticaria	IL1B
+Dermatitis, Allergic Contact	IL2
+Dermatitis, Allergic Contact	IL2RA
+Dermatitis, Atopic	IL4
+Dermatitis, Allergic Contact	IL4
+Dermatitis, Atopic	IL5
+Dermatitis, Allergic Contact	IL5
+Dermatitis, Atopic	IL6
+Dermatitis, Atopic	IL10
+Dermatitis, Allergic Contact	IL10
+Dermatitis, Atopic	IL13
+Allergic rhinitis (disorder)	IL13
+Urticaria	IL18
+Dermatitis, Allergic Contact	IL18
+Dermatitis, Atopic	CXCL10
+Dermatitis, Allergic Contact	ITGAM
+anaphylaxis	ASPG
+anaphylaxis	KNG1
+Dermatitis, Atopic	IL31
+Dermatitis, Allergic Contact	MXD1
+Dermatitis, Allergic Contact	MEOX1
+Urticaria	MPO
+Dermatitis, Allergic Contact	MRC1
+Eosinophilic esophagitis	CAPN14
+Dermatitis, Allergic Contact	NFE2L2
+Dermatitis, Allergic Contact	NINJ1
+Dermatitis, Allergic Contact	NUMA1
+Dermatitis, Atopic	OVOL1
+Dermatitis, Allergic Contact	CNTN3
+Dermatitis, Allergic Contact	TLR7
+Dermatitis, Allergic Contact	PIM1
+Dermatitis, Allergic Contact	PLAT
+Dermatitis, Atopic	PPARA
+Dermatitis, Atopic	MAPK8
+Dermatitis, Atopic	EMSY
+Dermatitis, Allergic Contact	BCL2
+Dermatitis, Allergic Contact	RGS1
+Dermatitis, Atopic	S100A8
+Dermatitis, Allergic Contact	SAT1
+Dermatitis, Atopic	CCL5
+Dermatitis, Atopic	CCL11
+Dermatitis, Atopic	CCL17
+Dermatitis, Allergic Contact	CCL19
+Dermatitis, Atopic	CCL22
+Dermatitis, Atopic	CCL24
+Dermatitis, Allergic Contact	CIDEC
+Dermatitis, Atopic	SELE
+Urticaria	SELE
+Dermatitis, Allergic Contact	SELE
+Dermatitis, Allergic Contact	ST6GAL1
+Dermatitis, Allergic Contact	SLC2A3
+Dermatitis, Allergic Contact	BMP6
+Dermatitis, Atopic	SLC11A1
+Dermatitis, Allergic Contact	SPP1
+Dermatitis, Allergic Contact	STAC
+Dermatitis, Atopic	STAT6
+Urticaria	TGFB1
+Urticaria	TNF
+Dermatitis, Allergic Contact	TNF
+Dermatitis, Allergic Contact	TNFAIP6
+Dermatitis, Allergic Contact	CCR2
+Dermatitis, Allergic Contact	UPP1
+Urticaria	VCAM1
+Dermatitis, Allergic Contact	ASRGL1
+Dermatitis, Allergic Contact	SLC7A5
+Eosinophilic esophagitis	TRIM8
+Dermatitis, Allergic Contact	CASP8
+Dermatitis, Atopic	CARD11
+Dermatitis, Photoallergic	AGPS
+Dermatitis, Atopic	TSLP
+Eosinophilic esophagitis	TSLP
+Dermatitis, Allergic Contact	KMO
+Dermatitis, Allergic Contact	SOCS1
+Dermatitis, Allergic Contact	SOCS2
+Dermatitis, Atopic	VNN2
+Dermatitis, Atopic	VNN1
+Dermatitis, Atopic	IL33
+Dermatitis, Allergic Contact	CD3D
+Dermatitis, Allergic Contact	TMSB10
+Dermatitis, Allergic Contact	IL32
+Dermatitis, Allergic Contact	CD36

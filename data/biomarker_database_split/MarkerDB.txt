@@ -1,0 +1,57 @@
+Allergic Disease	allergy	IKZF4	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	STAT6	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	LPP	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	IL13	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	TLR1	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	CD247	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	IL2RA	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	IL1RL1	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	D2HGDH	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	GSDMB	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	SMAD3	MarkerDB	single nucleotide mutation
+Allergic Disease	allergy	IL7R	MarkerDB	single nucleotide mutation
+Alzheimer disease	nervous	SORL1	MarkerDB	single nucleotide mutation
+Alzheimer disease	nervous	CD2AP	MarkerDB	single nucleotide mutation
+Alzheimer disease	nervous	SLC24A4	MarkerDB	single nucleotide mutation
+Alzheimer disease	nervous	CR1	MarkerDB	single nucleotide mutation
+Alzheimer disease	nervous	SQSTM1	MarkerDB	single nucleotide mutation
+Alzheimer disease	nervous	APOE	MarkerDB	single nucleotide mutation
+Alzheimer disease	nervous	SPI1	MarkerDB	single nucleotide mutation
+Amyotrophic Lateral Sclerosis	nervous	ATXN3	MarkerDB	single nucleotide mutation
+Amyotrophic Lateral Sclerosis	nervous	KIF5A	MarkerDB	single nucleotide mutation
+Autism	nervous	MACROD2	MarkerDB	single nucleotide mutation
+Distal Myopathy	nervous	MYH7	MarkerDB	single nucleotide mutation
+Epilepsy	nervous	MMP8	MarkerDB	single nucleotide mutation
+Epilepsy	nervous	SCN1A	MarkerDB	single nucleotide mutation
+Febrile Seizures	nervous	SCN2A	MarkerDB	single nucleotide mutation
+Febrile Seizures	nervous	IFI44L	MarkerDB	single nucleotide mutation
+Migraine	nervous	LRP1	MarkerDB	single nucleotide mutation
+Migraine	nervous	PLCE1	MarkerDB	single nucleotide mutation
+Migraine	nervous	HPSE2	MarkerDB	single nucleotide mutation
+Migraine	nervous	PRDM16	MarkerDB	single nucleotide mutation
+Migraine	nervous	BRCA2	MarkerDB	deletion
+Multiple Sclerosis	nervous	IL7R	MarkerDB	single nucleotide mutation
+Multiple Sclerosis	nervous	TNFRSF1A	MarkerDB	single nucleotide mutation
+Multiple Sclerosis	nervous	IL2RA	MarkerDB	single nucleotide mutation
+Parkinson disease	nervous	GPNMB	MarkerDB	single nucleotide mutation
+Parkinson disease	nervous	MCCC1	MarkerDB	single nucleotide mutation
+Parkinson disease	nervous	MAPT	MarkerDB	single nucleotide mutation
+Parkinson disease	nervous	GCH1	MarkerDB	single nucleotide mutation
+Parkinson disease	nervous	BST1	MarkerDB	single nucleotide mutation
+Progressive Supranuclear Palsy	nervous	MAPT	MarkerDB	single nucleotide mutation
+Progressive Supranuclear Palsy	nervous	EIF2AK3	MarkerDB	single nucleotide mutation
+Progressive Supranuclear Palsy	nervous	IRF4	MarkerDB	single nucleotide mutation
+Progressive Supranuclear Palsy	nervous	SLCO1A2	MarkerDB	single nucleotide mutation
+Restless Legs Syndrome	nervous	MEIS1	MarkerDB	single nucleotide mutation
+Restless Legs Syndrome	nervous	MYT1	MarkerDB	single nucleotide mutation
+Restless Legs Syndrome	nervous	BTBD9	MarkerDB	single nucleotide mutation
+Scapuloperoneal Myopathy	nervous	MYH7	MarkerDB	single nucleotide mutation
+Stroke	nervous	ZFHX3	MarkerDB	single nucleotide mutation
+Asthma	respiratory	NOTCH4	MarkerDB	single nucleotide mutation
+Asthma	respiratory	BRCA2	MarkerDB	deletion
+Bronchiectasis	respiratory	CFTR	MarkerDB	single nucleotide mutation
+Cystic Fibrosis	respiratory	CFTR	MarkerDB	deletion
+Cystic Fibrosis	respiratory	CFTR	MarkerDB	dupliaction
+Cystic Fibrosis	respiratory	CFTR	MarkerDB	insertion
+Cystic Fibrosis	respiratory	CFTR	MarkerDB	single nucleotide mutation
+Cystic Fibrosis	respiratory	EPHX1	MarkerDB	single nucleotide mutation

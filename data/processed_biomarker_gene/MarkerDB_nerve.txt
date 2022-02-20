@@ -1,0 +1,37 @@
+Alzheimer's Disease	SORL1	single nucleotide mutation
+Alzheimer's Disease	CD2AP	single nucleotide mutation
+Alzheimer's Disease	SLC24A4	single nucleotide mutation
+Alzheimer's Disease	CR1	single nucleotide mutation
+Alzheimer's Disease	SQSTM1	single nucleotide mutation
+Alzheimer's Disease	APOE	single nucleotide mutation
+Alzheimer's Disease	SPI1	single nucleotide mutation
+Amyotrophic Lateral Sclerosis	ATXN3	single nucleotide mutation
+Amyotrophic Lateral Sclerosis	KIF5A	single nucleotide mutation
+Autism	MACROD2	single nucleotide mutation
+Distal Myopathy	MYH7	single nucleotide mutation
+Epilepsy	MMP8	single nucleotide mutation
+Epilepsy	SCN1A	single nucleotide mutation
+Febrile Seizures	SCN2A	single nucleotide mutation
+Febrile Seizures	IFI44L	single nucleotide mutation
+Migraine	LRP1	single nucleotide mutation
+Migraine	PLCE1	single nucleotide mutation
+Migraine	HPSE2	single nucleotide mutation
+Migraine	PRDM16	single nucleotide mutation
+Migraine	BRCA2	deletion
+Multiple Sclerosis	IL7R	single nucleotide mutation
+Multiple Sclerosis	TNFRSF1A	single nucleotide mutation
+Multiple Sclerosis	IL2RA	single nucleotide mutation
+Parkinson's Disease	GPNMB	single nucleotide mutation
+Parkinson's Disease	MCCC1	single nucleotide mutation
+Parkinson's Disease	MAPT	single nucleotide mutation
+Parkinson's Disease	GCH1	single nucleotide mutation
+Parkinson's Disease	BST1	single nucleotide mutation
+Progressive Supranuclear Palsy	MAPT	single nucleotide mutation
+Progressive Supranuclear Palsy	EIF2AK3	single nucleotide mutation
+Progressive Supranuclear Palsy	IRF4	single nucleotide mutation
+Progressive Supranuclear Palsy	SLCO1A2	single nucleotide mutation
+Restless Legs Syndrome	MEIS1	single nucleotide mutation
+Restless Legs Syndrome	MYT1	single nucleotide mutation
+Restless Legs Syndrome	BTBD9	single nucleotide mutation
+Scapuloperoneal Myopathy	MYH7	single nucleotide mutation
+Stroke	ZFHX3	single nucleotide mutation

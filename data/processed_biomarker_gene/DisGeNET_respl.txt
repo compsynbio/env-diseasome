@@ -1,0 +1,920 @@
+Familial primary pulmonary hypertension	HDAC5
+Pulmonary Hypertension, Primary, Fenfluramine-Associated	HDAC5
+Idiopathic pulmonary arterial hypertension	HDAC5
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	HDAC5
+Pulmonary Hypertension, Primary, 1	HDAC5
+Anthracosis	FNBP1P1
+Asthma	RAD50
+Chronic Obstructive Airway Disease	FAM13A
+Pulmonary Fibrosis	FAM13A
+Chronic Airflow Obstruction	FAM13A
+Idiopathic Pulmonary Fibrosis	FAM13A
+Alveolitis, Fibrosing	FAM13A
+Hamman-Rich Disease	FAM13A
+Usual Interstitial Pneumonia	FAM13A
+Familial Idiopathic Pulmonary Fibrosis	FAM13A
+Asthma, Occupational	CDH17
+Respiratory Distress Syndrome, Adult	RAMP2
+Polynesian Bronchiectasis	CCNO
+Primary Ciliary Dyskinesia	CCNO
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CCNO
+Asthma	TNIP1
+Chronic Obstructive Airway Disease	RAPGEF3
+Chronic Airflow Obstruction	RAPGEF3
+Respiratory Distress Syndrome, Adult	ACAA2
+Pulmonary Fibrosis	CEBPA
+Alveolitis, Fibrosing	CEBPA
+Pulmonary Fibrosis	CEBPB
+Alveolitis, Fibrosing	CEBPB
+Respiratory Distress Syndrome, Adult	FBLN5
+Respiratory Failure	FBLN5
+Pulmonary Alveolar Microlithiasis	SLC34A2
+Asthma, Aspirin-Induced	POSTN
+Asthma	ADCY2
+Bronchiectasis	CFTR
+Cystic Fibrosis	CFTR
+Idiopathic bronchiectasis	CFTR
+Pulmonary Cystic Fibrosis	CFTR
+BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 1	CFTR
+Asthma, Aspirin-Induced	CYSLTR1
+Asthma	KIF3A
+Asthma	PTGDR2
+Asthma, Aspirin-Induced	PTGDR2
+Asbestosis	NLRP3
+Pulmonary Fibrosis - from Asbestos Exposure	NLRP3
+Polynesian Bronchiectasis	LRRC56
+Primary Ciliary Dyskinesia	LRRC56
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	LRRC56
+Polynesian Bronchiectasis	CCDC151
+Primary Ciliary Dyskinesia	CCDC151
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CCDC151
+Asthma	ADCYAP1R1
+Asthma	SCGB3A2
+Pulmonary Fibrosis	CMA1
+Alveolitis, Fibrosing	CMA1
+Pulmonary Fibrosis	CCR3
+Asthma, Aspirin-Induced	CCR3
+Alveolitis, Fibrosing	CCR3
+Bronchiectasis	DNAAF1
+CILIARY DYSKINESIA, PRIMARY, 13	DNAAF1
+Primary Ciliary Dyskinesia	DNAAF1
+Pulmonary Fibrosis	COL3A1
+Alveolitis, Fibrosing	COL3A1
+Anthracosis	FLACC1
+Pneumonia, Interstitial	COPA
+Asthma	WDR36
+Silicosis	CPM
+Polynesian Bronchiectasis	PIH1D3
+Primary Ciliary Dyskinesia	PIH1D3
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	PIH1D3
+Asthma	PARP1
+Pulmonary Fibrosis	PARP1
+Alveolitis, Fibrosing	PARP1
+Pulmonary Fibrosis	CSF2
+Alveolitis, Fibrosing	CSF2
+Pulmonary Alveolar Proteinosis	CSF2RA
+Surfactant Metabolism Dysfunction, Pulmonary, 4	CSF2RA
+Pulmonary alveolar proteinosis, congenital	CSF2RA
+Pulmonary Alveolar Proteinosis	CSF2RB
+Pulmonary alveolar proteinosis, congenital	CSF2RB
+Pulmonary Fibrosis	CSF3
+Alveolitis, Fibrosing	CSF3
+Bagassosis	TICAM1
+Pneumoconiosis	TICAM1
+Pulmonary Fibrosis	CCN2
+Alveolitis, Fibrosing	CCN2
+Asthma	PYHIN1
+Respiratory Distress Syndrome, Adult	CYB5A
+Asthma	ADRB2
+Chronic Obstructive Airway Disease	CYP1A1
+Chronic Airflow Obstruction	CYP1A1
+Chronic Lung Injury	CYP1A1
+Chronic Obstructive Airway Disease	CYP1A2
+Chronic Airflow Obstruction	CYP1A2
+Chronic Lung Injury	CYP1A2
+Pulmonary Emphysema	CYP2A6
+Centriacinar Emphysema	CYP2A6
+Panacinar Emphysema	CYP2A6
+Focal Emphysema	CYP2A6
+Polynesian Bronchiectasis	DNAAF4
+Primary Ciliary Dyskinesia	DNAAF4
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	DNAAF4
+Asbestosis	DDIT3
+Pulmonary Fibrosis - from Asbestos Exposure	DDIT3
+Asbestosis	CFD
+Pulmonary Fibrosis	CFD
+Pulmonary Fibrosis - from Asbestos Exposure	CFD
+Alveolitis, Fibrosing	CFD
+Asthma	NQO1
+Bagassosis	ACAN
+Pneumoconiosis	ACAN
+Asthma	DNAH5
+Bronchiectasis	DNAH5
+CILIARY DYSKINESIA, PRIMARY, 3	DNAH5
+Primary Ciliary Dyskinesia	DNAH5
+Pulmonary Emphysema	AGER
+Centriacinar Emphysema	AGER
+Panacinar Emphysema	AGER
+Focal Emphysema	AGER
+Polynesian Bronchiectasis	DNAH9
+Primary Ciliary Dyskinesia	DNAH9
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	DNAH9
+Asthma	DNMT1
+Pulmonary Fibrosis	AGT
+Alveolitis, Fibrosing	AGT
+Chronic Obstructive Airway Disease	DSP
+Pulmonary Fibrosis	DSP
+Chronic Airflow Obstruction	DSP
+Idiopathic Pulmonary Fibrosis	DSP
+Alveolitis, Fibrosing	DSP
+Hamman-Rich Disease	DSP
+Usual Interstitial Pneumonia	DSP
+Familial Idiopathic Pulmonary Fibrosis	DSP
+Respiratory Distress Syndrome, Adult	EBF1
+Asthma	EDN1
+Pulmonary Fibrosis	EDN1
+Respiratory Distress Syndrome, Adult	EDN1
+Alveolitis, Fibrosing	EDN1
+Pulmonary Fibrosis	EGF
+Alveolitis, Fibrosing	EGF
+Silicosis	AHR
+Chronic Lung Injury	AHR
+Chronic Lung Injury	ELF3
+Polynesian Bronchiectasis	CFAP221
+Primary Ciliary Dyskinesia	CFAP221
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CFAP221
+Chronic Obstructive Airway Disease	ELN
+Pulmonary Emphysema	ELN
+Pulmonary Fibrosis	ELN
+Centriacinar Emphysema	ELN
+Panacinar Emphysema	ELN
+Chronic Airflow Obstruction	ELN
+Focal Emphysema	ELN
+Alveolitis, Fibrosing	ELN
+Spontaneous pneumothorax	FLCN
+Tension Pneumothorax	FLCN
+Cystic Fibrosis	ENG
+Familial primary pulmonary hypertension	ENG
+Pulmonary Cystic Fibrosis	ENG
+Pulmonary arterial hypertension	EPAS1
+Idiopathic pulmonary arterial hypertension	EPAS1
+Chronic Obstructive Airway Disease	EPHX1
+Pulmonary Emphysema	EPHX1
+Centriacinar Emphysema	EPHX1
+Panacinar Emphysema	EPHX1
+Chronic Airflow Obstruction	EPHX1
+Focal Emphysema	EPHX1
+Idiopathic Pulmonary Fibrosis	ESR1
+Hamman-Rich Disease	ESR1
+Usual Interstitial Pneumonia	ESR1
+Familial Idiopathic Pulmonary Fibrosis	ESR1
+Hyaline Membrane Disease	ABCA3
+Pulmonary Fibrosis	ABCA3
+Idiopathic Pulmonary Fibrosis	ABCA3
+Surfactant Metabolism Dysfunction, Pulmonary, 3	ABCA3
+Alveolitis, Fibrosing	ABCA3
+Respiratory Distress Syndrome, Adult	ALAD
+Respiratory Distress Syndrome, Adult	ALB
+Chronic Lung Injury	ALB
+Asthma	ALDH2
+Asthma, Aspirin-Induced	MS4A2
+Cystic Fibrosis	FCGR2A
+Pulmonary Cystic Fibrosis	FCGR2A
+Bronchiectasis	RSPH9
+CILIARY DYSKINESIA, PRIMARY, 12	RSPH9
+Primary Ciliary Dyskinesia	RSPH9
+Asthma	CDHR3
+Pulmonary Fibrosis	FGF1
+Alveolitis, Fibrosing	FGF1
+Pulmonary Fibrosis	FGF2
+Alveolitis, Fibrosing	FGF2
+Pulmonary Fibrosis	FGF7
+Chronic Lung Injury	FGF7
+Alveolitis, Fibrosing	FGF7
+Respiratory Distress Syndrome, Adult	FGFR4
+Cystic Fibrosis	CLCA4
+Asthma	IKZF3
+Asbestosis	ATF6
+Pulmonary Fibrosis - from Asbestos Exposure	ATF6
+Alveolar capillary dysplasia	FOXF1
+Polynesian Bronchiectasis	FOXJ1
+Primary Ciliary Dyskinesia	FOXJ1
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	FOXJ1
+Chronic Obstructive Airway Disease	FOXO3
+Chronic Airflow Obstruction	FOXO3
+Respiratory Distress Syndrome, Adult	AKR1B1
+Idiopathic Pulmonary Fibrosis	ATP11A
+Hamman-Rich Disease	ATP11A
+Usual Interstitial Pneumonia	ATP11A
+Familial Idiopathic Pulmonary Fibrosis	ATP11A
+Chronic Obstructive Airway Disease	MTCL1
+Chronic Airflow Obstruction	MTCL1
+Primary Ciliary Dyskinesia	RPGRIP1L
+Pulmonary Fibrosis	FN1
+Alveolitis, Fibrosing	FN1
+Chronic Lung Injury	SIRT1
+Respiratory Distress Syndrome, Adult	CES3
+Polynesian Bronchiectasis	LRRC6
+Primary Ciliary Dyskinesia	LRRC6
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	LRRC6
+Asthma	ALOX5
+Nasal Polyps	ALOX15
+Polynesian Bronchiectasis	GAS2L2
+Primary Ciliary Dyskinesia	GAS2L2
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	GAS2L2
+Pulmonary Fibrosis	MTOR
+Alveolitis, Fibrosing	MTOR
+Pulmonary Fibrosis	FYN
+Alveolitis, Fibrosing	FYN
+Respiratory Distress Syndrome, Adult	GABRB1
+Polynesian Bronchiectasis	DNAH1
+Primary Ciliary Dyskinesia	DNAH1
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	DNAH1
+Polynesian Bronchiectasis	GAS8
+Primary Ciliary Dyskinesia	GAS8
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	GAS8
+Familial primary pulmonary hypertension	GDF2
+Pulmonary Fibrosis	GREM1
+Alveolitis, Fibrosing	GREM1
+Bronchiectasis	DNAI1
+Polynesian Bronchiectasis	DNAI1
+Primary Ciliary Dyskinesia	DNAI1
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	DNAI1
+Respiratory Distress Syndrome, Adult	EIF2AK1
+Polynesian Bronchiectasis	STK36
+Primary Ciliary Dyskinesia	STK36
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	STK36
+Respiratory Distress Syndrome, Adult	GNRH1
+Asthma	IFNL3
+Idiopathic Pulmonary Fibrosis	GPER1
+Hamman-Rich Disease	GPER1
+Usual Interstitial Pneumonia	GPER1
+Familial Idiopathic Pulmonary Fibrosis	GPER1
+Asthma	CTNNA3
+Chronic Obstructive Airway Disease	CXCL1
+Chronic Airflow Obstruction	CXCL1
+Chronic Obstructive Airway Disease	CXCL2
+Pulmonary Fibrosis	CXCL2
+Chronic Airflow Obstruction	CXCL2
+Alveolitis, Fibrosing	CXCL2
+Asthma	GSTM1
+Asthma	GSTP1
+Asbestosis	GSTT1
+Pulmonary Fibrosis - from Asbestos Exposure	GSTT1
+Silicosis	PDZRN4
+Asthma	TBX21
+Asthma, Aspirin-Induced	TBX21
+Asthma, Nasal Polyps, And Aspirin Intolerance	TBX21
+Familial primary pulmonary hypertension	HDAC1
+Pulmonary Hypertension, Primary, Fenfluramine-Associated	HDAC1
+Idiopathic pulmonary arterial hypertension	HDAC1
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	HDAC1
+Pulmonary Hypertension, Primary, 1	HDAC1
+Chronic Obstructive Airway Disease	HDAC2
+Chronic Airflow Obstruction	HDAC2
+Pulmonary Fibrosis	HGF
+Alveolitis, Fibrosing	HGF
+Idiopathic Pulmonary Fibrosis	HIF1A
+Hamman-Rich Disease	HIF1A
+Usual Interstitial Pneumonia	HIF1A
+Familial Idiopathic Pulmonary Fibrosis	HIF1A
+Asthma	HLA-DPB1
+Asthma, Aspirin-Induced	HLA-DPB1
+Asthma	HLA-DQA1
+Asthma	HLA-DQB1
+Asthma	HLA-DRB1
+Asthma	HLA-G
+Pulmonary Fibrosis	HMGB1
+Alveolitis, Fibrosing	HMGB1
+Asthma	HMOX1
+Chronic Obstructive Airway Disease	HMOX1
+Pulmonary Emphysema	HMOX1
+Pulmonary Fibrosis	HMOX1
+Centriacinar Emphysema	HMOX1
+Panacinar Emphysema	HMOX1
+Chronic Airflow Obstruction	HMOX1
+Chronic Lung Injury	HMOX1
+Focal Emphysema	HMOX1
+Alveolitis, Fibrosing	HMOX1
+Asthma	HNMT
+Respiratory Distress Syndrome, Adult	APC
+Pulmonary Fibrosis	HPS1
+Asthma	HSD11B2
+Asbestosis	HSPA5
+Pulmonary Fibrosis - from Asbestos Exposure	HSPA5
+Chronic Obstructive Airway Disease	HTR2A
+Chronic Airflow Obstruction	HTR2A
+Asthma	TNC
+Chronic Lung Injury	TNC
+Asthma	ICAM1
+Bronchiectasis	ICAM1
+Bronchiectasis	CCDC39
+CILIARY DYSKINESIA, PRIMARY, 14	CCDC39
+Primary Ciliary Dyskinesia	CCDC39
+Polynesian Bronchiectasis	MCIDAS
+Primary Ciliary Dyskinesia	MCIDAS
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	MCIDAS
+Bronchiolitis Obliterans	IFNG
+Constrictive Bronchiolitis	IFNG
+Bronchiolitis, Exudative	IFNG
+Bronchiolitis, Proliferative	IFNG
+Bronchiectasis	RSPH4A
+CILIARY DYSKINESIA, PRIMARY, 11	RSPH4A
+Primary Ciliary Dyskinesia	RSPH4A
+Respiratory Distress Syndrome, Adult	IFRD1
+Pulmonary Fibrosis	IGF1
+Alveolitis, Fibrosing	IGF1
+Respiratory Failure	IGF1R
+Respiratory Distress Syndrome, Adult	IGFBP6
+CILIARY DYSKINESIA, PRIMARY, 2 (disorder)	DNAAF3
+Polynesian Bronchiectasis	DNAAF3
+Primary Ciliary Dyskinesia	DNAAF3
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	DNAAF3
+Anthracosis	IL1A
+Anthracosis	IL1B
+Asthma	IL1B
+Pulmonary Fibrosis	IL1B
+Silicosis	IL1B
+Alveolitis, Fibrosing	IL1B
+Anthracosis	IL1RN
+Asthma	IL1RN
+Pulmonary Fibrosis	IL1RN
+Alveolitis, Fibrosing	IL1RN
+Asthma	IL4
+Bagassosis	IL4
+Pneumoconiosis	IL4
+Pulmonary Fibrosis	IL4
+Alveolitis, Fibrosing	IL4
+Asthma	IL5
+Pulmonary Fibrosis	IL5
+Alveolitis, Fibrosing	IL5
+Asthma	IL6
+Chronic Obstructive Airway Disease	IL6
+Pulmonary Fibrosis	IL6
+Chronic Airflow Obstruction	IL6
+Chronic Lung Injury	IL6
+Alveolitis, Fibrosing	IL6
+Asthma	IL6R
+Chronic Obstructive Airway Disease	CXCL8
+Pulmonary Fibrosis	CXCL8
+Chronic Airflow Obstruction	CXCL8
+Alveolitis, Fibrosing	CXCL8
+Familial primary pulmonary hypertension	AQP1
+Pulmonary Fibrosis	IL12B
+Alveolitis, Fibrosing	IL12B
+Asthma	IL13
+Pulmonary Fibrosis	IL13
+Alveolitis, Fibrosing	IL13
+Pulmonary Emphysema	ITGB6
+Centriacinar Emphysema	ITGB6
+Panacinar Emphysema	ITGB6
+Focal Emphysema	ITGB6
+Silicosis	JUN
+Asthma	AREG
+Pulmonary Fibrosis	AREG
+Alveolitis, Fibrosing	AREG
+Idiopathic pulmonary hypertension	KCNA5
+Idiopathic pulmonary arterial hypertension	KCNA5
+Polynesian Bronchiectasis	DNAJB13
+Primary Ciliary Dyskinesia	DNAJB13
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	DNAJB13
+Idiopathic pulmonary hypertension	KCNK3
+Familial primary pulmonary hypertension	KCNK3
+Pulmonary Hypertension, Primary, Fenfluramine-Associated	KCNK3
+Pulmonary arterial hypertension	KCNK3
+Idiopathic pulmonary arterial hypertension	KCNK3
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	KCNK3
+Pulmonary Hypertension, Primary, 1	KCNK3
+Asbestosis	ARG1
+Asthma	ARG1
+Silicosis	ARG1
+Pulmonary Fibrosis - from Asbestos Exposure	ARG1
+Asthma	ARG2
+Asthma	NPSR1
+Asthma	KRT19
+Polynesian Bronchiectasis	CCDC103
+Primary Ciliary Dyskinesia	CCDC103
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CCDC103
+Pulmonary Fibrosis	LAMB1
+Alveolitis, Fibrosing	LAMB1
+Respiratory Distress Syndrome, Adult	LCN2
+Respiratory Distress Syndrome, Adult	LCT
+Respiratory Distress Syndrome, Adult	LIM2
+Asthma, Aspirin-Induced	LTC4S
+Respiratory Distress Syndrome, Adult	MIRLET7B
+Respiratory Distress Syndrome, Adult	MIRLET7D
+Pulmonary Fibrosis	MIR101-1
+Alveolitis, Fibrosing	MIR101-1
+Pulmonary Fibrosis	MIR10A
+Alveolitis, Fibrosing	MIR10A
+Pulmonary Fibrosis	MIR122
+Alveolitis, Fibrosing	MIR122
+Pulmonary Fibrosis	MIR125A
+Alveolitis, Fibrosing	MIR125A
+Respiratory Distress Syndrome, Adult	MIR126
+Respiratory Distress Syndrome, Adult	MIR127
+Respiratory Distress Syndrome, Adult	MIR128-2
+Pulmonary Fibrosis	MIR140
+Alveolitis, Fibrosing	MIR140
+Respiratory Distress Syndrome, Adult	MIR18A
+Respiratory Distress Syndrome, Adult	MIR19A
+Pulmonary Fibrosis	MIR200C
+Alveolitis, Fibrosing	MIR200C
+Respiratory Distress Syndrome, Adult	MIR210
+Respiratory Distress Syndrome, Adult	MIR215
+Chronic Obstructive Airway Disease	MIR218-2
+Chronic Airflow Obstruction	MIR218-2
+Pulmonary Fibrosis	MIR26B
+Alveolitis, Fibrosing	MIR26B
+Pulmonary Fibrosis	MIR29C
+Alveolitis, Fibrosing	MIR29C
+Pulmonary Fibrosis	MIR30A
+Respiratory Distress Syndrome, Adult	MIR30A
+Alveolitis, Fibrosing	MIR30A
+Respiratory Distress Syndrome, Adult	MIR30B
+Respiratory Distress Syndrome, Adult	MIR99A
+Idiopathic pulmonary hypertension	SMAD1
+Familial primary pulmonary hypertension	SMAD1
+Idiopathic pulmonary arterial hypertension	SMAD1
+Pulmonary Emphysema	SMAD3
+Idiopathic pulmonary hypertension	SMAD4
+Familial primary pulmonary hypertension	SMAD4
+Pulmonary arterial hypertension	SMAD4
+Idiopathic pulmonary arterial hypertension	SMAD4
+Pulmonary Fibrosis	SMAD7
+Paraquat lung	SMAD7
+Alveolitis, Fibrosing	SMAD7
+Idiopathic pulmonary hypertension	SMAD9
+Familial primary pulmonary hypertension	SMAD9
+Pulmonary Hypertension, Primary, Fenfluramine-Associated	SMAD9
+Pulmonary arterial hypertension	SMAD9
+Idiopathic pulmonary arterial hypertension	SMAD9
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	SMAD9
+Pulmonary Hypertension, Primary, 1	SMAD9
+Respiratory Failure	MAPT
+Respiratory Distress Syndrome, Adult	MDH1
+Bagassosis	MDM4
+Pneumoconiosis	MDM4
+Pulmonary Fibrosis	MECP2
+Respiratory Failure	MECP2
+Alveolitis, Fibrosing	MECP2
+Nasal Polyps	KITLG
+Chronic Lung Injury	MME
+Asthma	MMP1
+Chronic Obstructive Airway Disease	MMP1
+Chronic Airflow Obstruction	MMP1
+Pulmonary Emphysema	MMP2
+Pulmonary Fibrosis	MMP2
+Centriacinar Emphysema	MMP2
+Panacinar Emphysema	MMP2
+Focal Emphysema	MMP2
+Alveolitis, Fibrosing	MMP2
+Idiopathic Pulmonary Fibrosis	MMP3
+Hamman-Rich Disease	MMP3
+Usual Interstitial Pneumonia	MMP3
+Familial Idiopathic Pulmonary Fibrosis	MMP3
+Asthma	MMP9
+Chronic Obstructive Airway Disease	MMP9
+Pulmonary Emphysema	MMP9
+Pulmonary Fibrosis	MMP9
+Centriacinar Emphysema	MMP9
+Panacinar Emphysema	MMP9
+Chronic Airflow Obstruction	MMP9
+Focal Emphysema	MMP9
+Alveolitis, Fibrosing	MMP9
+Asthma	MMP10
+Pulmonary Emphysema	MMP12
+Centriacinar Emphysema	MMP12
+Panacinar Emphysema	MMP12
+Focal Emphysema	MMP12
+Chronic Obstructive Airway Disease	MMP14
+Chronic Airflow Obstruction	MMP14
+Idiopathic pulmonary hypertension	EIF2AK4
+Familial primary pulmonary hypertension	EIF2AK4
+Pulmonary arterial hypertension	EIF2AK4
+Idiopathic pulmonary arterial hypertension	EIF2AK4
+Respiratory Distress Syndrome, Adult	MIR135B
+Pulmonary Fibrosis	MIR326
+Alveolitis, Fibrosing	MIR326
+Respiratory Distress Syndrome, Adult	MIR337
+Pulmonary Fibrosis	MIR345
+Alveolitis, Fibrosing	MIR345
+Respiratory Distress Syndrome, Adult	MIR346
+Respiratory Distress Syndrome, Adult	MT2A
+Respiratory Distress Syndrome, Adult	MT3
+Asthma	MUC7
+Asthma	MYB
+Pulmonary Eosinophilia	MYD88
+Simple Pulmonary Eosinophilia	MYD88
+Eosinophilic Pneumonia	MYD88
+Tropical Eosinophilic Pneumonia	MYD88
+Respiratory Distress Syndrome, Adult	SERPINC1
+Pulmonary Fibrosis	NFE2L2
+Alveolitis, Fibrosing	NFE2L2
+Bronchiectasis	NFKB2
+Anthracosis	ATP1A4
+Chronic Lung Injury	NGF
+Asbestosis	NOS2
+Asthma	NOS2
+Chronic Obstructive Airway Disease	NOS2
+Silicosis	NOS2
+Chronic Airflow Obstruction	NOS2
+Pulmonary Fibrosis - from Asbestos Exposure	NOS2
+Chronic Obstructive Airway Disease	NOS3
+Chronic Airflow Obstruction	NOS3
+Asthma	NPY
+Bilateral Nasal Obstruction	NPY
+Chronic Lung Injury	NTRK1
+Pulmonary alveolar proteinosis, congenital	OAS1
+Pulmonary Fibrosis	MIR378A
+Alveolitis, Fibrosing	MIR378A
+Respiratory Distress Syndrome, Adult	MIR380
+Pulmonary Fibrosis	MIR425
+Alveolitis, Fibrosing	MIR425
+Respiratory Failure	OPRM1
+Respiratory Distress Syndrome, Adult	ACO2
+Bagassosis	OVGP1
+Pneumoconiosis	OVGP1
+Asbestosis	PRDX1
+Pulmonary Fibrosis - from Asbestos Exposure	PRDX1
+Idiopathic Pulmonary Fibrosis	PARN
+Hamman-Rich Disease	PARN
+Usual Interstitial Pneumonia	PARN
+Familial Idiopathic Pulmonary Fibrosis	PARN
+Cystic Fibrosis	DCTN4
+Pulmonary Cystic Fibrosis	DCTN4
+Bronchiectasis	NME8
+CILIARY DYSKINESIA, PRIMARY, 6	NME8
+Polynesian Bronchiectasis	ZMYND10
+Primary Ciliary Dyskinesia	ZMYND10
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	ZMYND10
+Asthma	PDE4B
+Asthma	PDE4D
+Pulmonary Fibrosis	PDGFA
+Alveolitis, Fibrosing	PDGFA
+Pulmonary Fibrosis	PDGFB
+Alveolitis, Fibrosing	PDGFB
+Respiratory Failure	PDYN
+Idiopathic Pulmonary Fibrosis	RTEL1
+Hamman-Rich Disease	RTEL1
+Usual Interstitial Pneumonia	RTEL1
+Familial Idiopathic Pulmonary Fibrosis	RTEL1
+Asbestosis	SERPINA1
+Bronchiectasis	SERPINA1
+Chronic Obstructive Airway Disease	SERPINA1
+Pulmonary Emphysema	SERPINA1
+Pulmonary Fibrosis	SERPINA1
+Centriacinar Emphysema	SERPINA1
+Panacinar Emphysema	SERPINA1
+Chronic Airflow Obstruction	SERPINA1
+Focal Emphysema	SERPINA1
+Pulmonary Fibrosis - from Asbestos Exposure	SERPINA1
+Alveolitis, Fibrosing	SERPINA1
+Bronchiectasis	PIK3CD
+Bronchiectasis	PIK3R1
+Respiratory Distress Syndrome, Adult	PLA2G4A
+Asthma, Occupational	PLA2G4A
+Respiratory Failure	PLAT
+Asthma	PLAU
+Idiopathic Pulmonary Fibrosis	PLAU
+Hamman-Rich Disease	PLAU
+Usual Interstitial Pneumonia	PLAU
+Familial Idiopathic Pulmonary Fibrosis	PLAU
+Bagassosis	ATR
+Pneumoconiosis	ATR
+Ciliary Dyskinesia, Primary, 5	HYDIN
+Polynesian Bronchiectasis	HYDIN
+Primary Ciliary Dyskinesia	HYDIN
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	HYDIN
+Polynesian Bronchiectasis	DNAAF5
+Primary Ciliary Dyskinesia	DNAAF5
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	DNAAF5
+Bronchiectasis	CCDC40
+CILIARY DYSKINESIA, PRIMARY, 14	CCDC40
+CILIARY DYSKINESIA, PRIMARY, 15	CCDC40
+Polynesian Bronchiectasis	CCDC40
+Primary Ciliary Dyskinesia	CCDC40
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CCDC40
+Polynesian Bronchiectasis	ARMC4
+Primary Ciliary Dyskinesia	ARMC4
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	ARMC4
+Asthma	PPP2CA
+Bronchiectasis	DNAAF2
+CILIARY DYSKINESIA, PRIMARY, 10	DNAAF2
+Primary Ciliary Dyskinesia	DNAAF2
+Asthma, Occupational	TENM3
+Primary Ciliary Dyskinesia	IFT122
+Asthma, Occupational	PRKCA
+Asthma, Occupational	PRKD1
+Asthma	GSDMB
+Respiratory Distress Syndrome, Adult	PROS1
+Primary Ciliary Dyskinesia	INPP5E
+Polynesian Bronchiectasis	CFAP298
+Primary Ciliary Dyskinesia	CFAP298
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CFAP298
+Respiratory Distress Syndrome, Adult	PSMA4
+Respiratory Distress Syndrome, Adult	CHPT1
+Pulmonary Fibrosis	CYSLTR2
+Asthma, Aspirin-Induced	CYSLTR2
+Alveolitis, Fibrosing	CYSLTR2
+Asthma	PTEN
+Silicosis	PTEN
+Asthma, Aspirin-Induced	PTGER2
+Asthma, Nasal Polyps, And Aspirin Intolerance	PTGER2
+Asthma, Aspirin-Induced	PTGIR
+Asthma, Occupational	PTGS1
+Asthma, Occupational	PTGS2
+Asthma, Aspirin-Induced	PTGS2
+Respiratory Failure	IFT80
+Bagassosis	PTPRZ1
+Pneumoconiosis	PTPRZ1
+Pulmonary Fibrosis	PTX3
+Alveolitis, Fibrosing	PTX3
+Pulmonary Fibrosis	ACTA2
+Alveolitis, Fibrosing	ACTA2
+Chronic Obstructive Airway Disease	TRPV4
+Chronic Airflow Obstruction	TRPV4
+Asthma	BCL2
+Asthma	RNASE3
+Chronic Obstructive Airway Disease	EEFSEC
+Chronic Airflow Obstruction	EEFSEC
+Polynesian Bronchiectasis	RPGR
+Primary Ciliary Dyskinesia	RPGR
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	RPGR
+Respiratory Distress Syndrome, Adult	S100A4
+Respiratory Distress Syndrome, Adult	S100A9
+Asthma	BGLAP
+Bronchiectasis	SCNN1A
+Cystic Fibrosis	SCNN1A
+Idiopathic bronchiectasis	SCNN1A
+Pulmonary Cystic Fibrosis	SCNN1A
+BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 2	SCNN1A
+Bronchiectasis	SCNN1B
+Cystic Fibrosis	SCNN1B
+Idiopathic bronchiectasis	SCNN1B
+Pulmonary Cystic Fibrosis	SCNN1B
+BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 1	SCNN1B
+Bronchiectasis	SCNN1G
+Cystic Fibrosis	SCNN1G
+Idiopathic bronchiectasis	SCNN1G
+Pulmonary Cystic Fibrosis	SCNN1G
+BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 3	SCNN1G
+Asthma	CCL2
+Pulmonary Fibrosis	CCL2
+Respiratory Distress Syndrome, Adult	CCL2
+Silicosis	CCL2
+Chronic Lung Injury	CCL2
+Alveolitis, Fibrosing	CCL2
+Pulmonary Fibrosis	CCL3
+Chronic Lung Injury	CCL3
+Alveolitis, Fibrosing	CCL3
+Pulmonary Fibrosis	CCL4
+Chronic Lung Injury	CCL4
+Alveolitis, Fibrosing	CCL4
+Asthma	CCL5
+Pulmonary Fibrosis	CCL5
+Alveolitis, Fibrosing	CCL5
+Asthma	CCL11
+Pulmonary Fibrosis	CCL11
+Alveolitis, Fibrosing	CCL11
+Anthracosis	RBM26
+Bagassosis	CDH23
+Pneumoconiosis	CDH23
+Alveolar capillary dysplasia	STRA6
+Familial primary pulmonary hypertension	SOX17
+Hyaline Membrane Disease	SFTPB
+Surfactant Metabolism Dysfunction, Pulmonary, 1	SFTPB
+Hyaline Membrane Disease	SFTPC
+Pulmonary Alveolar Proteinosis	SFTPC
+Idiopathic Pulmonary Fibrosis	SFTPC
+SURFACTANT METABOLISM DYSFUNCTION, PULMONARY, 2 (disorder)	SFTPC
+Hamman-Rich Disease	SFTPC
+Usual Interstitial Pneumonia	SFTPC
+Familial Idiopathic Pulmonary Fibrosis	SFTPC
+Chronic Obstructive Airway Disease	SFTPD
+Chronic Airflow Obstruction	SFTPD
+Bronchiectasis	DNAI2
+CILIARY DYSKINESIA, PRIMARY, 9	DNAI2
+Primary Ciliary Dyskinesia	DNAI2
+Bagassosis	TMPRSS3
+Pneumoconiosis	TMPRSS3
+Bagassosis	HS3ST6
+Pneumoconiosis	HS3ST6
+Pulmonary Fibrosis	SKIL
+Paraquat lung	SKIL
+Alveolitis, Fibrosing	SKIL
+Idiopathic Pulmonary Fibrosis	SFTPA1
+Familial Idiopathic Pulmonary Fibrosis	SFTPA1
+Pulmonary Fibrosis	BMP7
+Alveolitis, Fibrosing	BMP7
+Idiopathic pulmonary hypertension	BMPR1B
+Idiopathic pulmonary arterial hypertension	BMPR1B
+Idiopathic pulmonary hypertension	BMPR2
+Familial primary pulmonary hypertension	BMPR2
+Pulmonary Hypertension, Primary, Fenfluramine-Associated	BMPR2
+Pulmonary arterial hypertension	BMPR2
+Idiopathic pulmonary arterial hypertension	BMPR2
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	BMPR2
+Pulmonary Hypertension, Primary, 1	BMPR2
+Asthma	SOD1
+Pulmonary Fibrosis	SOD1
+Alveolitis, Fibrosing	SOD1
+Respiratory Distress Syndrome, Adult	SOD2
+Pneumonia, Interstitial	SOD2
+Chronic Obstructive Airway Disease	SOD3
+Pulmonary Fibrosis	SOD3
+Chronic Airflow Obstruction	SOD3
+Alveolitis, Fibrosing	SOD3
+Polynesian Bronchiectasis	SPAG1
+Primary Ciliary Dyskinesia	SPAG1
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	SPAG1
+Asbestosis	SPP1
+Pulmonary Fibrosis	SPP1
+Pulmonary Fibrosis - from Asbestos Exposure	SPP1
+Alveolitis, Fibrosing	SPP1
+Asthma	SPRR2B
+Pulmonary Fibrosis	STAT3
+Idiopathic Pulmonary Fibrosis	STAT3
+Alveolitis, Fibrosing	STAT3
+Hamman-Rich Disease	STAT3
+Usual Interstitial Pneumonia	STAT3
+Familial Idiopathic Pulmonary Fibrosis	STAT3
+Pulmonary Fibrosis	STAT6
+Alveolitis, Fibrosing	STAT6
+Cystic Fibrosis	STX1A
+Chronic Obstructive Airway Disease	KLF5
+Chronic Airflow Obstruction	KLF5
+Respiratory Failure	TBCD
+Asthma, Aspirin-Induced	TBXA2R
+Asbestosis	PRDX2
+Pulmonary Fibrosis - from Asbestos Exposure	PRDX2
+Idiopathic Pulmonary Fibrosis	TERC
+Hamman-Rich Disease	TERC
+Usual Interstitial Pneumonia	TERC
+Familial Idiopathic Pulmonary Fibrosis	TERC
+Idiopathic Pulmonary Fibrosis	TERT
+Hamman-Rich Disease	TERT
+Usual Interstitial Pneumonia	TERT
+Familial Idiopathic Pulmonary Fibrosis	TERT
+Pulmonary Fibrosis	TGFA
+Chronic Lung Injury	TGFA
+Alveolitis, Fibrosing	TGFA
+Asthma	TGFB1
+Cystic Fibrosis	TGFB1
+Chronic Obstructive Airway Disease	TGFB1
+Pulmonary Emphysema	TGFB1
+Pulmonary Fibrosis	TGFB1
+Centriacinar Emphysema	TGFB1
+Panacinar Emphysema	TGFB1
+Asthma, Occupational	TGFB1
+Pulmonary Cystic Fibrosis	TGFB1
+Chronic Airflow Obstruction	TGFB1
+Focal Emphysema	TGFB1
+Alveolitis, Fibrosing	TGFB1
+Pulmonary Emphysema	TGFB2
+Pulmonary Emphysema	TGFB3
+Pulmonary Emphysema	TGFBR1
+Pulmonary Emphysema	TGFBR2
+Respiratory Distress Syndrome, Adult	THBD
+Pulmonary Fibrosis	TIMP1
+Respiratory Distress Syndrome, Adult	TIMP1
+Alveolitis, Fibrosing	TIMP1
+Asthma	TIMP3
+Chronic Lung Injury	TLR4
+Respiratory Distress Syndrome, Adult	TSPAN8
+Anthracosis	TNF
+Asbestosis	TNF
+Asthma	TNF
+Bronchiectasis	TNF
+Chronic Obstructive Airway Disease	TNF
+Pulmonary Emphysema	TNF
+Pulmonary Fibrosis	TNF
+Centriacinar Emphysema	TNF
+Panacinar Emphysema	TNF
+Asthma, Occupational	TNF
+Chronic Airflow Obstruction	TNF
+Chronic Lung Injury	TNF
+Focal Emphysema	TNF
+Pulmonary Fibrosis - from Asbestos Exposure	TNF
+Alveolitis, Fibrosing	TNF
+Cystic Fibrosis	TNFRSF1A
+Pulmonary Cystic Fibrosis	TNFRSF1A
+Chronic Lung Injury	TNFRSF1A
+Chronic Obstructive Airway Disease	TNNT2
+Chronic Airflow Obstruction	TNNT2
+Chronic Obstructive Airway Disease	TP53
+Chronic Airflow Obstruction	TP53
+Asbestosis	TPM4
+Pulmonary Fibrosis - from Asbestos Exposure	TPM4
+Respiratory Failure	TRH
+Idiopathic Pulmonary Fibrosis	MUC5B
+Hamman-Rich Disease	MUC5B
+Usual Interstitial Pneumonia	MUC5B
+Familial Idiopathic Pulmonary Fibrosis	MUC5B
+Pulmonary Fibrosis	CCR2
+Alveolitis, Fibrosing	CCR2
+Idiopathic Pulmonary Fibrosis	SFTPA2
+Hamman-Rich Disease	SFTPA2
+Usual Interstitial Pneumonia	SFTPA2
+Familial Idiopathic Pulmonary Fibrosis	SFTPA2
+Asthma	VEGFA
+Pulmonary arterial hypertension	VHL
+Idiopathic pulmonary arterial hypertension	VHL
+Idiopathic Pulmonary Fibrosis	WNT5A
+Hamman-Rich Disease	WNT5A
+Usual Interstitial Pneumonia	WNT5A
+Familial Idiopathic Pulmonary Fibrosis	WNT5A
+Bagassosis	CA1
+Pneumoconiosis	CA1
+Bagassosis	CA3
+Pneumoconiosis	CA3
+Respiratory Failure	CACNA1S
+Asthma	PLA2G7
+Familial primary pulmonary hypertension	ATP13A3
+Pulmonary Fibrosis	CALCA
+Alveolitis, Fibrosing	CALCA
+Polynesian Bronchiectasis	SPEF2
+Primary Ciliary Dyskinesia	SPEF2
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	SPEF2
+Idiopathic Pulmonary Fibrosis	STN1
+Hamman-Rich Disease	STN1
+Usual Interstitial Pneumonia	STN1
+Familial Idiopathic Pulmonary Fibrosis	STN1
+Chronic Lung Injury	PDGFD
+Bagassosis	H3-4
+Pneumoconiosis	H3-4
+Polynesian Bronchiectasis	TTC25
+Primary Ciliary Dyskinesia	TTC25
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	TTC25
+Bronchiectasis	DNAL1
+Primary Ciliary Dyskinesia	DNAL1
+Polynesian Bronchiectasis	RSPH3
+Primary Ciliary Dyskinesia	RSPH3
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	RSPH3
+Respiratory Distress Syndrome, Adult	SLC25A11
+Asthma	CAT
+Pulmonary Fibrosis	CAT
+Alveolitis, Fibrosing	CAT
+Polynesian Bronchiectasis	OFD1
+Primary Ciliary Dyskinesia	OFD1
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	OFD1
+Polynesian Bronchiectasis	CFAP300
+Primary Ciliary Dyskinesia	CFAP300
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CFAP300
+Pulmonary Fibrosis	AP3B1
+Polynesian Bronchiectasis	CCDC65
+Primary Ciliary Dyskinesia	CCDC65
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CCDC65
+Asthma	TSLP
+Familial primary pulmonary hypertension	CAV1
+Pulmonary Hypertension, Primary, Fenfluramine-Associated	CAV1
+Pulmonary arterial hypertension	CAV1
+Idiopathic pulmonary arterial hypertension	CAV1
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	CAV1
+Pulmonary Hypertension, Primary, 1	CAV1
+Bronchiectasis	DNAH11
+CILIARY DYSKINESIA, PRIMARY, 7 (disorder)	DNAH11
+Primary Ciliary Dyskinesia	DNAH11
+Ciliary Dyskinesia, Primary, 7, With Or Without Situs Inversus	DNAH11
+Respiratory Distress Syndrome, Adult	SERPINH1
+Asthma, Occupational	HERC2
+Polynesian Bronchiectasis	RSPH1
+Primary Ciliary Dyskinesia	RSPH1
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	RSPH1
+Asthma	TRPA1
+Asthma	IL33
+Idiopathic Pulmonary Fibrosis	DPP9
+Hamman-Rich Disease	DPP9
+Usual Interstitial Pneumonia	DPP9
+Familial Idiopathic Pulmonary Fibrosis	DPP9
+Asthma	IL1RL1
+Chronic Obstructive Airway Disease	CD8A
+Chronic Airflow Obstruction	CD8A
+Respiratory Failure	MGME1
+Polynesian Bronchiectasis	DRC1
+Primary Ciliary Dyskinesia	DRC1
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	DRC1
+Asthma	CD14
+Polynesian Bronchiectasis	CCDC114
+Primary Ciliary Dyskinesia	CCDC114
+Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	CCDC114
+Pulmonary Fibrosis	ADIPOQ
+Alveolitis, Fibrosing	ADIPOQ
+Familial primary pulmonary hypertension	ACVRL1
+Pulmonary arterial hypertension	ACVRL1
+Idiopathic pulmonary arterial hypertension	ACVRL1
+Asthma	ORMDL3
+Bagassosis	IL27RA
+Pneumoconiosis	IL27RA
+Idiopathic pulmonary hypertension	TBX4
+Familial primary pulmonary hypertension	TBX4
+Pulmonary arterial hypertension	TBX4
+Idiopathic pulmonary arterial hypertension	TBX4
+Asthma	CXCL14
+Respiratory Distress Syndrome, Adult	PRDX6
+Familial primary pulmonary hypertension	HDAC4
+Pulmonary Hypertension, Primary, Fenfluramine-Associated	HDAC4
+Idiopathic pulmonary arterial hypertension	HDAC4
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	HDAC4
+Pulmonary Hypertension, Primary, 1	HDAC4
+Respiratory Failure	SLC23A1

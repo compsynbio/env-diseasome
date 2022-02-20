@@ -1,0 +1,12 @@
+Allergic Disease	IKZF4	single nucleotide mutation
+Allergic Disease	STAT6	single nucleotide mutation
+Allergic Disease	LPP	single nucleotide mutation
+Allergic Disease	IL13	single nucleotide mutation
+Allergic Disease	TLR1	single nucleotide mutation
+Allergic Disease	CD247	single nucleotide mutation
+Allergic Disease	IL2RA	single nucleotide mutation
+Allergic Disease	IL1RL1	single nucleotide mutation
+Allergic Disease	D2HGDH	single nucleotide mutation
+Allergic Disease	GSDMB	single nucleotide mutation
+Allergic Disease	SMAD3	single nucleotide mutation
+Allergic Disease	IL7R	single nucleotide mutation

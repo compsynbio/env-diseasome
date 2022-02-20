@@ -1,0 +1,37 @@
+Allergic contact dermatitis	TNFA	polymorphism
+Allergic contact dermatitis	IL-16	polymorphism
+Atopic dermatitis	FLG	mutation
+Atopic dermatitis	IL4	polymorphism
+Atopic dermatitis	IL4RA	polymorphism
+Atopic dermatitis	SPINK5	polymorphism
+Atopic dermatitis	IL13	polymorphism
+Atopic dermatitis	RANTES	polymorphism
+Atopic dermatitis	NOD1	polymorphism
+Atopic dermatitis	CARD15	polymorphism
+Atopic dermatitis	TLR-2	polymorphism
+Atopic dermatitis	TLR-9	polymorphism
+Atopic dermatitis	COL29A1	polymorphism
+Anaphylaxis	c-KIT	mutation
+Anaphylaxis	NLRP3	polymorphism
+Anaphylaxis	IL-10	polymorphism
+Allergic rhinitis	GATA3	polymorphism
+Allergic rhinitis	IL-13	polymorphism
+Allergic rhinitis	IL-18	polymorphism
+Allergic rhinitis	IL-28RA	polymorphism
+Allergic rhinitis	EPO	polymorphism
+Allergic rhinitis	CCXCR1	polymorphism
+Allergic rhinitis	CCR1	polymorphism
+Allergic rhinitis	CCR2	polymorphism
+Allergic rhinitis	CCR3	polymorphism
+Allergic rhinitis	CCR5	polymorphism
+Allergic rhinitis	SDAD1	polymorphism
+Allergic rhinitis	CXCL9	polymorphism
+Allergic rhinitis	CXCL10	polymorphism
+Allergic rhinitis	CXCL11	polymorphism
+Allergic rhinitis	RANTES	polymorphism
+Allergic rhinitis	Eotaxin-3	polymorphism
+Allergic rhinitis	CD14	polymorphism
+Allergic rhinitis	FOXJ1	polymorphism
+Allergic rhinitis	FCGR2A	polymorphism
+Eosinophilic esophagitis	TSLP	polymorphism
+Eosinophilic esophagitis	CCL-26	polymorphism

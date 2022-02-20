@@ -1,0 +1,8 @@
+Asthma	NOTCH4	single nucleotide mutation
+Asthma	BRCA2	deletion
+Bronchiectasis	CFTR	single nucleotide mutation
+Cystic Fibrosis	CFTR	deletion
+Cystic Fibrosis	CFTR	dupliaction
+Cystic Fibrosis	CFTR	insertion
+Cystic Fibrosis	CFTR	single nucleotide mutation
+Cystic Fibrosis	EPHX1	single nucleotide mutation
