@@ -1,1 +1,1 @@
-# env-diseasome
+# Environmental disease genetic biomarker database
