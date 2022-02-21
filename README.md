@@ -16,6 +16,8 @@
 
 [4. 환경성질환 유전자 바이오마커 통합 데이터베이스 데이터 형식](#content4)
 
+[5. Acknowledgment](#content5)
+
 ## 1. 연구 배경 및 목적 <a name="content1"></a>
 
 1. 급격한 산업화에 의하여 배출되는 오염물질의 종류가 상승중
@@ -182,3 +184,8 @@ NCBI 데이터베이스 내 사람 유전자 별칭 수 | 107,954개
 총계 | 897개 | 22,059개 | 4,743개
 
 ## 4. 환경성질환 유전자 바이오마커 통합 데이터베이스 데이터 형식 <a name="content4"></a>
+
+## 5. Acknowledgment <a name="content5"></a>
+
+This research was funded by the Korea Environment Industry & Technology Institute (KEITI) through Core Technology Development Project for Environmental Diseases Prevention and Management, by the Korea Ministry of Environment (MOE) (RE2021003310003)
+
