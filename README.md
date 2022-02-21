@@ -41,4 +41,16 @@ GOBIOM | 단백질, 유전자 등 바이오마커 | 2022년 2월 | https://gobio
 IDBD | 감염성 질병 관련 바이오마커 | 2008년 1월 | http://biomarker.cdc.go.kr
 ResMarkerDB | 유방/대장암 관련 항체 바이오마커 | 2019년 3월 | http://www.resmarkerdb.org
 
-#### MarkerDB 특징 및 데이터 속성
+#### MarkerDB
+
+데이터베이스 특징 및 속성
+* 임상적으로 알려지거나 일부 pre-clinical 단계 분자 바이오마커 데이터베이스
+* 화학물질, 단백질, 유전자, 핵형(karyotype) 4종류로 바이오마커를 분류
+
+MarkerDB에서 아래 분류에 해당하는 질병의 유전자 바이오마커를 수집함
+* Nervous System Disorder
+* Respiratory System Disorder
+
+
+#### KEGG Disease Database
+#### DisGeNET
