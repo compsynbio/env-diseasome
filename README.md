@@ -185,6 +185,17 @@ NCBI 데이터베이스 내 사람 유전자 별칭 수 | 107,954개
 
 ## 4. 환경성질환 유전자 바이오마커 통합 데이터베이스 데이터 형식 <a name="content4"></a>
 
+1. Disease: 질병명
+2. Catergory: 신경계 질환(nervous), 호흡계 질환(respiratory), 알레르기 질환(allergy)
+3. Gene: 유전자 이름
+4. From_MarkerDB: MarkerDB의 해당 유전자 바이오마커 포함 유무
+5. Info_MarkerDB: MarkerDB에 해당 유전자 바이오마커 존재 시, 유전자 바이오마커 종류
+6. From_KEGG: KEGG Disease Database의 해당 유전자 바이오마커 포함 유무
+7. Info_KEGG: KEGG Disease Database에 해당 유전자 바이오마커 존재 시, 유전자 바이오마커 종류
+8. From_DisGeNET: DisGeNET의 해당 유전자 바이오마커 포함 유무
+9. Info_DisGeNET: DisGeNET에 해당 유전자 바이오마커 존재 시, 유전자 바이오마커 종류
+10. From_PubMed: PubMed 문헌 검색 결과의 해당 유전자 바이오마커 포함 유무
+
 ## 5. Acknowledgment <a name="content5"></a>
 
 This research was funded by the Korea Environment Industry & Technology Institute (KEITI) through Core Technology Development Project for Environmental Diseases Prevention and Management, by the Korea Ministry of Environment (MOE) (RE2021003310003)
