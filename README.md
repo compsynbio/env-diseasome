@@ -120,6 +120,13 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 
 ### PubMed 문헌/서지 검색을 이용한 유전자 바이오마커 탐색 및 수집
 
-* PubMed search data retrieved: 2021-08
+* PubMed search data retrieved: 2021-08-13
 * Search keyword: "질환명[Title/Abstract]" AND "biomarker[Title/Abstract]"
 * 제목 또는 초록에 질환명과 바이오마커(biomarker) 단어를 포함하는 문헌 수집
+
+질환군 | 검색 결과 문헌 1개 이상 존재 질환 수 및 비율 | 검색 결과 문헌 수
+---- | ---- | ----
+신경계 질환 | 257개 (12.2%) | 9,794개
+호흡계 질환 | 93개 (14.2%) | 6,810개
+알레르기 질환 | 30개 (14.9%) | 2,226개
+총계 | 380개 (12.8%) | 18,830개
