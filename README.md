@@ -10,6 +10,8 @@
 
 [3.1 1단계: 공개된 데이터베이스 내 환경성질환 유전자 바이오마커 수집](#content3.1)
 
+[3.2 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집](#content3.2)
+
 ## 1. 연구 배경 및 목적 <a name="content1"></a>
 
 1. 급격한 산업화에 의하여 배출되는 오염물질의 종류가 상승중
@@ -86,9 +88,10 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 알레르기 질환/유전자 바이오마커 수 | 1 / 12 | 5 / 37 | 9 / 133
 확보한 총 연구 대상 질환/유전자 바이오마커 수 | 17 / 54 | 271 / 1,292 | 425 / 4,781
 
+* 데이터베이스 별로 질환군으로 묶어 유전자 바이오마커 목록을 텍스트 파일로 정리
 * MarkerDB: [신경계](./data/processed_biomarker_gene/MarkerDB_nerve.txt) / [호흡계](./data/processed_biomarker_gene/MarkerDB_resp.txt) / [알레르기](./data/processed_biomarker_gene/MarkerDB_allergy.txt)
-* KEGG Disease Database: [신경계] / [호흡계] / [알레르기]
-* DisGeNET: [신경계] / [호흡계] / [알레르기]
+* KEGG Disease Database: [신경계](./data/processed_biomarker_gene/KEGG_nerve.txt) / [호흡계](./data/processed_biomarker_gene/KEGG_resp.txt) / [알레르기](./data/processed_biomarker_gene/KEGG_allergy.txt)
+* DisGeNET: [신경계](./data/processed_biomarker_gene/DisGeNET_nerve.txt) / [호흡계](./data/processed_biomarker_gene/DisGeNET_resp.txt) / [알레르기](./data/processed_biomarker_gene/DisGeNET_allergy.txt)
 * 3개 데이터베이스에서 총 635개 신경계/호흡계/알레르기 질환에 대한 유전자 바이오마커 5,472개 수집 (중복 제거)
 
 ### 3.2 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집 <a name="content3.2"></a>
