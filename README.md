@@ -41,6 +41,7 @@ GOBIOM | 단백질, 유전자 등 바이오마커 | 2022년 2월 | https://gobio
 IDBD | 감염성 질병 관련 바이오마커 | 2008년 1월 | http://biomarker.cdc.go.kr
 ResMarkerDB | 유방/대장암 관련 항체 바이오마커 | 2019년 3월 | http://www.resmarkerdb.org
 
+----
 ### MarkerDB
 
 * Data retrieved: 2021-11-01, "Genetic markers with associated conditions", released on 2020-10-10
@@ -52,6 +53,7 @@ MarkerDB에서 아래 분류에 포함된 질병의 유전자 바이오마커를
 * Immune System Disorder 분류 내 Allergic Disease
 * Mental or Behavioural Disorder 분류 내 Alzheimer's Disease, Autism
 
+----
 #### KEGG Disease Database
 
 * Data retrieved: 2021-11-03, "Human Diseases + Gene", last updated 2021-05-01
@@ -61,13 +63,21 @@ KEGG Disease Database에서 아래 분류에 포함된 질병의 유전자 바�
 * Immune system diseases 분류 내 Allergies and autoimmune diseases (자가면역 질환 제외)
 * Nervous system diseases
 * Respiratory diseases
-* Other diseases 분류 내 Autism
+* Other diseases 분류 내 ADHD, Autism
 
+----
 #### DisGeNET
 
 * Data retrieved: 2021-11-02, Source: curated, "Summary of GDAs", last updated 2021-10
 * Data link: [DisGeNET_raw_data.tsv](./data/downloaded_rawdata/DisGeNET_raw_data.tsv)
 
+DisGeNET에서 아래 [MeSH Class 코드](https://en.wikipedia.org/wiki/List_of_MeSH_codes)에 포함된 질병의 유전자 바이오마커를 수집함
+* C08 - respiratory tract diseases
+* C10 - nervous system diseases
+* C20 - immune system diseases 코드 내 알레르기 질환
+* F03 - Mental or Behavioral Dysfunction 코드 내 ADHD, Autism
+
+----
 Feature | MarkerDB | KEGG Disease Database | DisGeNET
 ---- | ---- | ---- | ----
 전체 질환/유전자 바이오마커 수 | 699 / 26,374 | 2,068 / 6,790 | 11,181 / 84,038
