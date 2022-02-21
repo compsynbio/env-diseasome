@@ -133,4 +133,6 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 
 ### 문헌 내 환경성질환 관련 유전자 바이오마커 사람 유전자 명칭 탐색
 
-* https://www.ncbi.nlm.nih.gov/genome/guide/human/
+* Data retrieved: 2021-08-15 from [NCBI Human Genome Resources](https://www.ncbi.nlm.nih.gov/genome/guide/human/)
+* 수집한 PubMed 문헌 초록에 유전자 바이오마커 정보가 포함되어 있는지 확인 위해 사람 유전자 명칭 수집
+* 일부 유전자는 별칭(alias)이 존재 e.g. 지질 분해 효소 A(Lipase A, LIPA): LAL, CESD
