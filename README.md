@@ -118,6 +118,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 알레르기 질환 | 201개 | 아나필락시스 (Anaphylaxis)
 총계 | 2,965개 | -
 
+----
 ### PubMed 문헌/서지 검색을 이용한 유전자 바이오마커 수집
 
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) search data retrieved: 2021-08-13
@@ -132,6 +133,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 알레르기 질환 | 30개 (14.9%) | 2,226개
 총계 | 380개 (12.8%) | 18,830개
 
+----
 ### 문헌 내 환경성질환 관련 유전자 바이오마커 사람 유전자 명칭 탐색
 
 * Data retrieved: 2021-08-15 from [NCBI Human Genome Resources](https://www.ncbi.nlm.nih.gov/genome/guide/human/)
@@ -145,3 +147,8 @@ NCBI 데이터베이스 내 사람 유전자 명칭 수 | 63,742개
 NCBI 데이터베이스 내 사람 유전자 별칭 수 | 107,954개
 별칭이 있는 사람 유전자 명칭 수 | 27,138개
 중복 제거 사람 유전자 명칭+별칭 수 | 127,918개
+
+----
+### 확보 문헌 초록 사람 유전자 명칭 포함 여부 확인
+
+* 문헌 초록을 띄어쓰기/괄호 기준으로 단어 단위로 분리해 사람 
