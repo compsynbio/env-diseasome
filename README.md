@@ -96,6 +96,25 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 
 ### 3.2 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집 <a name="content3.2"></a>
 
+* 공개된 데이터베이스에서 누락된 유전자 바이오마커를 탐색하기 위해 문헌 검색을 통해 유전자 바이오마커 추가 수집
+
+----
+### 국제질병분류(ICD-11) 수록 신경계/호흡계/알레르기 질환 분류 수집
+
+* Data retrieved: 2021-10-28, "ICD-11 for Mortality and Morbidity Statistics", Version : 05/2021
+* Data link: [ICD11_disease_list.txt](./data/downloaded_rawdata/ICD11_disease_list.txt)
+
+문헌 검색에 사용할 표준화된 신경계/호흡계/알레르기 질환명을 ICD-11을 통해 확보, 아래 분류 하위 질환명 수집
+* 04 Diseases of the immune system 분류 내 Allergic or hypersensitivity conditions (4A80 - 4A8Z)
+* 08 Diseases of the nervous system
+* 12 Diseases of the respiratory system
+* 6A02 Autism spectrum disorder
+* 6A05 Attention deficit hyperactivity disorder (ADHD)
+
+신경계 질환 2,109개, 호흡계 질환 655개, 알레르기 질환 201개, 총 2,965개의 질환명 수집
+
+### 
+
 
 
 
