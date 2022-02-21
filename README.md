@@ -8,11 +8,11 @@
 
 [3. 알려진 신경계, 호흡계, 알레르기 질환 유전자 바이오마커 정보 수집 결과](#content3)
 
-[3.1 1단계: 공개된 데이터베이스 내 환경성질환 유전자 바이오마커 수집](#content3.1)
+[3-1. 1단계: 공개된 데이터베이스 내 환경성질환 유전자 바이오마커 수집](#content3.1)
 
-[3.2 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집](#content3.2)
+[3-2. 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집](#content3.2)
 
-[3.3 3단계: 1/2단계 정보 통합 데이터베이스 구축](#content3.3)
+[3-3. 3단계: 1/2단계 정보 통합 데이터베이스 구축](#content3.3)
 
 ## 1. 연구 배경 및 목적 <a name="content1"></a>
 
@@ -31,7 +31,7 @@
 
 ## 3. 알려진 신경계, 호흡계, 알레르기 질환 유전자 바이오마커 정보 수집 결과 <a name="content3"></a>
 
-### 3.1 1단계: 공개된 데이터베이스 내 환경성질환 유전자 바이오마커 수집 <a name="content3.1"></a>
+### 3-1. 1단계: 공개된 데이터베이스 내 환경성질환 유전자 바이오마커 수집 <a name="content3.1"></a>
 
 * 잘 알려진 인간 질병 바이오마커 데이터베이스 6종 중 MarkerDB, KEGG Disease Database, DisGeNET 3종을 선정
 * 데이터베이스 3종 선정 기준: 라이센스 필요(GOBIOM), 환경성질환 유전자 바이오마커 정보 미포함(IDBD, ResMarkerDB) 데이터베이스는 제외
@@ -96,7 +96,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 * DisGeNET: [신경계](./data/processed_biomarker_gene/DisGeNET_nerve.txt) / [호흡계](./data/processed_biomarker_gene/DisGeNET_resp.txt) / [알레르기](./data/processed_biomarker_gene/DisGeNET_allergy.txt)
 * 1단계에서 총 635개 신경계/호흡계/알레르기 질환에 대한 유전자 바이오마커 5,472개 수집 (중복 제거)
 
-### 3.2 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집 <a name="content3.2"></a>
+### 3-2. 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집 <a name="content3.2"></a>
 
 * 공개된 데이터베이스에서 누락된 유전자 바이오마커를 탐색하기 위해 문헌 검색을 통해 유전자 바이오마커 추가 수집
 
@@ -166,10 +166,11 @@ NCBI 데이터베이스 내 사람 유전자 별칭 수 | 107,954개
 총계 | 18,830개 | 14,459개
 
 ----
-### 3.3 3단계: 1/2단계 정보 통합 데이터베이스 구축 <a name="content3.3"></a>
+### 3-3. 3단계: 1/2단계 정보 통합 데이터베이스 구축 <a name="content3.3"></a>
 
 * 1단계(데이터베이스 기반)와 2단계(문헌 검색 기반) 유전자 바이오마커 수집 결과 통합 데이터베이스 구축
 * 3단계 통합 결과 총 897개 신경계/호흡계/알레르기 질환에 대한 유전자 바이오마커 22,059개 확인 (중복 제거)
+* Data link: [Environmental_disease_genetic_biomarker_database.tsv](./data/biomarker_database/Environmental_disease_genetic_biomarker_database.tsv)
 
 질환군 | 질환 수 | 유전자 바이오마커 수 | 중복 제거 유전자 수
 ---- | ---- | ---- | ----
