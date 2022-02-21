@@ -122,7 +122,4 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 
 * PubMed search data retrieved: 2021-08
 * Search keyword: "질환명[Title/Abstract]" AND "biomarker[Title/Abstract]"
-
-
-
-
+* 제목 또는 초록에 질환명과 바이오마커(biomarker) 단어를 포함하는 문헌 수집
