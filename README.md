@@ -126,7 +126,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) search data retrieved: 2021-08-13
 * Search keyword: "질환명[Title/Abstract]" AND "biomarker[Title/Abstract]"
 * 제목 또는 초록에 질환명과 바이오마커(biomarker) 단어를 포함하는 문헌 수집
-* 수집 문헌 초록: [신경계](./data/downloaded_rawdata/PubMed_search_nerve.zip) / [호흡계](./data/downloaded_rawdata/PubMed_search_resp.zip) / [알레르기](./data/downloaded_rawdata/PubMed_search_allergy.zip)
+* Data link: [신경계](./data/downloaded_rawdata/PubMed_search_nerve.zip) / [호흡계](./data/downloaded_rawdata/PubMed_search_resp.zip) / [알레르기](./data/downloaded_rawdata/PubMed_search_allergy.zip)
 
 질환군 | 검색 결과 문헌 1개 이상 존재 질환 수 및 비율 | 검색 결과 문헌 수
 ---- | ---- | ----
@@ -155,6 +155,7 @@ NCBI 데이터베이스 내 사람 유전자 별칭 수 | 107,954개
 
 * 문헌 초록을 띄어쓰기/괄호 기준으로 단어 단위로 분리해 사람 유전자 명칭 목록과 대조
 * 전체 18,830개 문헌 중 14,459개에서 사람 유전자 명칭 확인 (76.8%)
+* Data link: [신경계](./data/processed_biomarker_gene/PubMed_nerve.txt) / [호흡계](./data/processed_biomarker_gene/PubMed_resp.txt) / [알레르기](./data/processed_biomarker_gene/PubMed_allergy.txt)
 
 질환군 | 검색 결과 문헌 수 | 사람 유전자 명칭 포함 문헌 수
 ---- | ---- | ----
@@ -165,3 +166,5 @@ NCBI 데이터베이스 내 사람 유전자 별칭 수 | 107,954개
 
 ----
 ### 3.3 3단계: 1/2단계 정보 통합 데이터베이스 구축 <a name="content3.3"></a>
+
+* 1단계(데이터베이스 기반)와 2단계(문헌 검색 기반) 유전자 바이오마커 수집 결과 통합 데이터베이스 구축
