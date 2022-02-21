@@ -41,16 +41,27 @@ GOBIOM | 단백질, 유전자 등 바이오마커 | 2022년 2월 | https://gobio
 IDBD | 감염성 질병 관련 바이오마커 | 2008년 1월 | http://biomarker.cdc.go.kr
 ResMarkerDB | 유방/대장암 관련 항체 바이오마커 | 2019년 3월 | http://www.resmarkerdb.org
 
+ | MarkerDB | KEGG Disease Database | DisGeNET
+---- | ---- | ---- | ----
+전체 질환/유전자 바이오마커 수 | 699 / 26,374 | 2,068 / 6,790 | 11,181 / 84,038
+신경계 질환/유전자 바이오마커 수 | 13 / 37 | 251 / 1,170 | 364 / 3,773
+호흡계 질환/유전자 바이오마커 수 | 3 / 5 | 15 / 83 | 52 / 875
+알레르기 질환/유전자 바이오마커 수 | 1 / 12 | 5 / 37 | 9 / 133
+확보한 총 연구 대상 질환/유전자 바이오마커 수 | 17 / 54 | 271 / 1,292 | 425 / 4,781
+
 #### MarkerDB
 
-데이터베이스 특징 및 속성
-* 임상적으로 알려지거나 일부 pre-clinical 단계 분자 바이오마커 데이터베이스
-* 화학물질, 단백질, 유전자, 핵형(karyotype) 4종류로 바이오마커를 분류
-
-MarkerDB에서 아래 분류에 해당하는 질병의 유전자 바이오마커를 수집함
+MarkerDB에서 아래 분류에 포함된 질병의 유전자 바이오마커를 수집함
 * Nervous System Disorder
 * Respiratory System Disorder
-
+* Immune System Disorder 분류 내 Allergic Disease
+* Mental or Behavioural Disorder 분류 내 Alzheimer's Disease, Autism
 
 #### KEGG Disease Database
+
+KEGG Disease Database에서 아래 분류에 포함된 질병의 유전자 바이오마커를 수집함
+
+
 #### DisGeNET
+
+
