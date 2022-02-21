@@ -94,7 +94,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 * MarkerDB: [신경계](./data/processed_biomarker_gene/MarkerDB_nerve.txt) / [호흡계](./data/processed_biomarker_gene/MarkerDB_resp.txt) / [알레르기](./data/processed_biomarker_gene/MarkerDB_allergy.txt)
 * KEGG Disease Database: [신경계](./data/processed_biomarker_gene/KEGG_nerve.txt) / [호흡계](./data/processed_biomarker_gene/KEGG_resp.txt) / [알레르기](./data/processed_biomarker_gene/KEGG_allergy.txt)
 * DisGeNET: [신경계](./data/processed_biomarker_gene/DisGeNET_nerve.txt) / [호흡계](./data/processed_biomarker_gene/DisGeNET_resp.txt) / [알레르기](./data/processed_biomarker_gene/DisGeNET_allergy.txt)
-* 3개 데이터베이스에서 총 635개 신경계/호흡계/알레르기 질환에 대한 유전자 바이오마커 5,472개 수집 (중복 제거)
+* 1단계에서 총 635개 신경계/호흡계/알레르기 질환에 대한 유전자 바이오마커 5,472개 수집 (중복 제거)
 
 ### 3.2 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집 <a name="content3.2"></a>
 
@@ -156,6 +156,7 @@ NCBI 데이터베이스 내 사람 유전자 별칭 수 | 107,954개
 * 문헌 초록을 띄어쓰기/괄호 기준으로 단어 단위로 분리해 사람 유전자 명칭 목록과 대조
 * 전체 18,830개 문헌 중 14,459개에서 사람 유전자 명칭 확인 (76.8%)
 * Data link: [신경계](./data/processed_biomarker_gene/PubMed_nerve.txt) / [호흡계](./data/processed_biomarker_gene/PubMed_resp.txt) / [알레르기](./data/processed_biomarker_gene/PubMed_allergy.txt)
+* 2단계에서 총 340개 신경계/호흡계/알레르기 질환에 대한 유전자 바이오마커 16,821개 수집
 
 질환군 | 검색 결과 문헌 수 | 사람 유전자 명칭 포함 문헌 수
 ---- | ---- | ----
@@ -168,6 +169,7 @@ NCBI 데이터베이스 내 사람 유전자 별칭 수 | 107,954개
 ### 3.3 3단계: 1/2단계 정보 통합 데이터베이스 구축 <a name="content3.3"></a>
 
 * 1단계(데이터베이스 기반)와 2단계(문헌 검색 기반) 유전자 바이오마커 수집 결과 통합 데이터베이스 구축
+* 3단계 통합 결과 총 897개 신경계/호흡계/알레르기 질환에 대한 유전자 바이오마커 22,059개 확인 (중복 제거)
 
 질환군 | 질환 수 | 유전자 바이오마커 수 | 중복 제거 유전자 수
 ---- | ---- | ---- | ----
