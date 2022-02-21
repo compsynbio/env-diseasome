@@ -128,7 +128,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 ### PubMed 문헌/서지 검색을 이용한 유전자 바이오마커 수집
 
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) search data retrieved: 2021-08-13
-* Search keyword: "질환명[Title/Abstract]" AND "biomarker[Title/Abstract]"
+* Search keyword: __"질환명[Title/Abstract]" AND "biomarker[Title/Abstract]"__
 * 제목 또는 초록에 질환명과 바이오마커(biomarker) 단어를 포함하는 문헌 수집
 * Data link: [신경계](./data/downloaded_rawdata/PubMed_search_nerve.zip) / [호흡계](./data/downloaded_rawdata/PubMed_search_resp.zip) / [알레르기](./data/downloaded_rawdata/PubMed_search_allergy.zip)
 
@@ -145,7 +145,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 * Data retrieved: 2021-08-15 from [NCBI Human Genome Resources](https://www.ncbi.nlm.nih.gov/genome/guide/human/)
 * Data link: [Human_gene_list.txt](./data/downloaded_rawdata/Human_gene_list.txt)
 * 수집한 PubMed 문헌 초록에 유전자 바이오마커 정보가 포함되어 있는지 확인 위해 사람 유전자 명칭 수집
-* 일부 유전자는 별칭(alias)이 존재, e.g. 지질 분해 효소 A(Lipase A, LIPA): LAL, CESD
+* 일부 유전자는 별칭(alias)이 존재, e.g. 지질 분해 효소 A (Lipase A, LIPA): LAL, CESD
 
 Feature | 개수
 ---- | ----
