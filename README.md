@@ -118,7 +118,10 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 알레르기 질환 | 201개 | 아나필락시스 (Anaphylaxis)
 총계 | 2,965개 | -
 
-### 
+### PubMed 문헌/서지 검색을 이용한 유전자 바이오마커 탐색 및 수집
+
+* PubMed search data retrieved: 2021-08
+* Search keyword: "질환명[Title/Abstract]" AND "biomarker[Title/Abstract]"
 
 
 
