@@ -111,7 +111,12 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 * 6A02 Autism spectrum disorder
 * 6A05 Attention deficit hyperactivity disorder (ADHD)
 
-신경계 질환 2,109개, 호흡계 질환 655개, 알레르기 질환 201개, 총 2,965개의 질환명 수집
+질환군 | ICD-11 분류 내 질환 수 | 질환 예시
+---- | ---- | ----
+신경계 질환 | 2,109개 | 파킨슨병 (Parkinson disease)
+호흡계 질환 | 655개 | 만성 비염 (Chronic rhinitis)
+알레르기 질환 | 201개 | 아나필락시스 (Anaphylaxis)
+총계 | 2,965개 | -
 
 ### 
 
