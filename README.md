@@ -101,7 +101,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 ----
 ### 국제질병분류(ICD-11) 수록 신경계/호흡계/알레르기 질환 분류 수집
 
-* Data retrieved: 2021-10-28, "ICD-11 for Mortality and Morbidity Statistics", Version : 05/2021
+* Data retrieved: 2021-10-28, "ICD-11 for Mortality and Morbidity Statistics", Version: 05/2021 from https://icd.who.int/browse11/l-m/en
 * Data link: [ICD11_disease_list.txt](./data/downloaded_rawdata/ICD11_disease_list.txt)
 
 문헌 검색에 사용할 표준화된 신경계/호흡계/알레르기 질환명을 ICD-11을 통해 확보, 아래 분류 하위 질환명 수집
@@ -118,9 +118,9 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 알레르기 질환 | 201개 | 아나필락시스 (Anaphylaxis)
 총계 | 2,965개 | -
 
-### PubMed 문헌/서지 검색을 이용한 유전자 바이오마커 탐색 및 수집
+### PubMed 문헌/서지 검색을 이용한 유전자 바이오마커 수집
 
-* PubMed search data retrieved: 2021-08-13
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/) search data retrieved: 2021-08-13
 * Search keyword: "질환명[Title/Abstract]" AND "biomarker[Title/Abstract]"
 * 제목 또는 초록에 질환명과 바이오마커(biomarker) 단어를 포함하는 문헌 수집
 
@@ -130,3 +130,7 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 호흡계 질환 | 93개 (14.2%) | 6,810개
 알레르기 질환 | 30개 (14.9%) | 2,226개
 총계 | 380개 (12.8%) | 18,830개
+
+### 문헌 내 환경성질환 관련 유전자 바이오마커 사람 유전자 명칭 탐색
+
+* https://www.ncbi.nlm.nih.gov/genome/guide/human/
