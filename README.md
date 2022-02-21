@@ -54,7 +54,7 @@ MarkerDB에서 아래 분류에 포함된 질병의 유전자 바이오마커를
 * Mental or Behavioural Disorder 분류 내 Alzheimer's Disease, Autism
 
 ----
-#### KEGG Disease Database
+### KEGG Disease Database
 
 * Data retrieved: 2021-11-03, "Human Diseases + Gene", last updated 2021-05-01
 * Data link: [KEGG_raw_data.keg](./data/downloaded_rawdata/KEGG_raw_data.keg)
@@ -66,7 +66,7 @@ KEGG Disease Database에서 아래 분류에 포함된 질병의 유전자 바�
 * Other diseases 분류 내 ADHD, Autism
 
 ----
-#### DisGeNET
+### DisGeNET
 
 * Data retrieved: 2021-11-02, Source: curated, "Summary of GDAs", last updated 2021-10
 * Data link: [DisGeNET_raw_data.tsv](./data/downloaded_rawdata/DisGeNET_raw_data.tsv)
@@ -86,7 +86,9 @@ Feature | MarkerDB | KEGG Disease Database | DisGeNET
 알레르기 질환/유전자 바이오마커 수 | 1 / 12 | 5 / 37 | 9 / 133
 확보한 총 연구 대상 질환/유전자 바이오마커 수 | 17 / 54 | 271 / 1,292 | 425 / 4,781
 
+* 3개 데이터베이스에서 총 635개 신경계, 호흡계, 알레르기 질환에 대한 유전자 바이오마커 5,472개 수집 (중복 제거)
 
+### 3.2 2단계: 문헌 검색을 통한 환경성질환 유전자 바이오마커 수집 <a name="content3.2"></a>
 
 
 
